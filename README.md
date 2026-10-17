@@ -1,0 +1,85 @@
+# AI观潮 · 每日 AI 新闻精选
+
+**[aiguanchao.com](https://aiguanchao.com)**:每天从两百多个信息源、上千条 AI、科技和时事新闻里挑出值得看的,每条附中文总结和原文链接。另有早晚两期 AI 日报、热门事件追踪、OpenAI / DeepSeek / Anthropic 等公司动态,以及大模型排行榜。
+
+这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
+
+<!-- updated:start -->
+最后更新:2026-10-17 16:01(北京时间)
+<!-- updated:end -->
+
+## 最新 AI 日报
+
+每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
+
+<!-- daily:start -->
+- [10 月 17 日 早报](https://aiguanchao.com/daily/2026-10-17/morning)
+- [10 月 16 日 晚报](https://aiguanchao.com/daily/2026-10-16/evening)
+- [10 月 16 日 早报](https://aiguanchao.com/daily/2026-10-16/morning)
+- [10 月 15 日 晚报](https://aiguanchao.com/daily/2026-10-15/evening)
+- [10 月 15 日 早报](https://aiguanchao.com/daily/2026-10-15/morning)
+- [10 月 14 日 晚报](https://aiguanchao.com/daily/2026-10-14/evening)
+<!-- daily:end -->
+
+## 最新精选
+
+<!-- picks:start -->
+| 时间(北京) | 新闻 | 来源 |
+|---|---|---|
+| 10-17 13:46 | [特朗普与俄罗斯的柴油交易或让普京所得超出金钱——并为乌克兰埋下隐患](https://aiguanchao.com/items/7eb1263fb51baeff675e6ad433a4e2aa45e683f9) | CNBC World |
+| 10-17 12:10 | [中国幼儿园负责人因含铅涂料投毒案被判无期徒刑](https://aiguanchao.com/items/2fd31a66e16594844dbbe5c3c585029c9ad98842) | 南华早报 China |
+| 10-17 08:49 | [特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税](https://aiguanchao.com/items/8c9af1e05309e4009831810c6d92b7a5bb93c0ee) | 华尔街见闻 快讯 |
+| 10-16 22:28 | [没有不倒翁：黄奇帆与“倒查二十年”](https://aiguanchao.com/items/4fae684383ac4d872a738bc51f2df4a404f78a48) | 德国之声中文 |
+| 10-16 15:53 | [两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术](https://aiguanchao.com/items/a03eb40169e6093f560f97d82fb91d4569ad2c4b) | 华尔街见闻 快讯 |
+| 10-16 13:40 | [印尼官员将开会评估 MSCI 拟将其调出新兴市场的冲击](https://aiguanchao.com/items/430982080403784ad1f3911d41a74450ff8ed933) | 财联社 电报 |
+| 10-16 08:37 | [新鸭绿江大桥通车，中朝贸易关系升温](https://aiguanchao.com/items/d45817af60bffff990cfb465fe0f7858d0a9e63a) | 纽约时报中文网 |
+| 10-16 08:18 | [可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考](https://aiguanchao.com/items/29cf85a42c74ef7af5a12c2f5d04bb588ff1b7ec) | 公众号：数字生命卡兹克 |
+| 10-16 01:31 | [无人机袭击罗马尼亚黑海沿岸油轮，七名船员失踪](https://aiguanchao.com/items/02c51943d360ea5abaee5f30f90634a553674bad) | 卫报 World |
+| 10-16 01:03 | [马杜罗在纽约法庭称新酷刑指控为“虚假”](https://aiguanchao.com/items/e2960bed32d9fe6654f3a9a516bd471fc30dc360) | 卫报 World |
+| 10-16 00:00 | [Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织](https://aiguanchao.com/items/e5c4f311c1ff0d4a21724493576ae93fabb7478f) | Anthropic：Research |
+| 10-16 00:00 | [【视频】李强主持召开国务院常务会议](https://aiguanchao.com/items/e4103ef7c3acdf45dfa9917af51e5ae4035ed654) | 中国政府网 要闻 |
+| 10-16 00:00 | [Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜](https://aiguanchao.com/items/200dd1aea08cdf78049b2e7f8ae1fe4857042a96) | Anthropic：Research |
+| 10-15 23:37 | [经济学家:PPI 超预期上涨表明美联储抗通胀工作尚未完成](https://aiguanchao.com/items/4b944fe7b8bfc375ac7089ffcf6687bc6f462a86) | CNBC World |
+| 10-15 19:00 | [The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持](https://aiguanchao.com/items/679db74887f1c961d952964e5ec438b164f143c1) | The Verge：AI |
+| 10-15 18:43 | [通过定向广告投递的零点击间谍软件：AdFection](https://aiguanchao.com/items/372370223a19dc731649c0bb4c95da83368ec250) | Hacker News 前页 (RSS) |
+| 10-15 15:24 | [台积电：预计Q4需求持续强劲 AI智能体的CPU需求远超目前供应能力](https://aiguanchao.com/items/2b37e9523b14767b7456224b2e079d177cd133b3) | 财联社 电报 |
+| 10-15 14:52 | [苹果AI国内上线，阿里百度浮出水面](https://aiguanchao.com/items/c73d2e646569506a2dd5e717494dfdfe7c4b0824) | 量子位 |
+| 10-15 13:59 | [台积电连续第六个季度创下利润纪录，AI 热潮推动业绩超预期](https://aiguanchao.com/items/2e60de2b8607d9e43bfb124b589238050d0de889) | CNBC World |
+| 10-15 12:09 | [如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？](https://aiguanchao.com/items/c1834247e0decfdf8365ade379c5ab0416870046) | 知乎热榜 |
+<!-- picks:end -->
+
+更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
+
+## 网站有什么
+
+| 栏目 | 说明 |
+|---|---|
+| [精选信息流](https://aiguanchao.com/) | 最新精选新闻,按时间倒序 |
+| [本周必读](https://aiguanchao.com/picks) | 最近 7 天分量最重的新闻 |
+| [AI 日报](https://aiguanchao.com/daily/archive) | 每天早晚两期,全部往期 |
+| [热门事件](https://aiguanchao.com/hot) | 最近 48 小时多家媒体同时报道的大事 |
+| [事件追踪](https://aiguanchao.com/topics) | 持续发展的事件,按时间线整理 |
+| [公司与技术主题](https://aiguanchao.com/themes) | OpenAI、DeepSeek、Anthropic 等公司动态和大事记 |
+| [大模型排行榜](https://aiguanchao.com/leaderboard) | 多家第三方评测成绩换算到同一尺度的综合排名([算法说明](https://aiguanchao.com/leaderboard/rules)) |
+| [AI观潮播客](https://aiguanchao.com/podcast) | 每天一期,十来分钟听完当天 AI 大事 |
+
+## 订阅
+
+免费、不用注册:
+
+- 精选 RSS:`https://aiguanchao.com/feed/featured.xml`
+- 日报 RSS:`https://aiguanchao.com/feed/daily.xml`
+- 播客 RSS:`https://aiguanchao.com/feed/podcast.xml`
+- 接入 Claude、Cursor 等 AI 工具(MCP):`https://aiguanchao.com/mcp`,说明见 [接入 AI 工具](https://aiguanchao.com/agent)
+- 给 AI 看的站点说明:[llms.txt](https://aiguanchao.com/llms.txt)
+
+## 内容怎么来的
+
+每条新闻先由模型按几个方面打分:事情本身多重要、有没有新信息、证据硬不硬、影响面多大、对读者有没有用,过了门槛才进精选。中文总结由 AI 根据原文写,里面的数字会自动和原文核对。原文版权归原作者,每条都附原文链接。详见 [关于与编辑方法](https://aiguanchao.com/about)。
+
+## 本仓库
+
+- `update_readme.py`:读网站的 RSS,把最新日报和精选写进本文件(只用 Python 标准库)
+- `.github/workflows/update.yml`:每 3 小时跑一次,有变化才提交
+
+发现总结有错或想推荐信源:[信源提报](https://aiguanchao.com/submit-source)。
