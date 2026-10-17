@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-17 20:59(北京时间)
+最后更新:2026-10-18 01:52(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -26,11 +26,14 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-17 18:33 | [DeepSeek 发布 V4.1-Flash-1017：智能体任务超越更大对手，成本再降，并首次开放自研搜索 API](https://aiguanchao.com/items/016855d3a78eeab1f8853e3f0f4eab40a03ad974) | The Decoder：AI News |
+| 10-17 14:00 | [亚马逊收购 DuckLabs 并将 DuckDB 集成到 Amazon Aurora PostgreSQL](https://aiguanchao.com/items/8ac6c76510cf26979157baeb8cd6b2dd64152620) | InfoQ AI |
 | 10-17 13:46 | [特朗普与俄罗斯的柴油交易或让普京所得超出金钱——并为乌克兰埋下隐患](https://aiguanchao.com/items/7eb1263fb51baeff675e6ad433a4e2aa45e683f9) | CNBC World |
 | 10-17 12:10 | [中国幼儿园负责人因含铅涂料投毒案被判无期徒刑](https://aiguanchao.com/items/2fd31a66e16594844dbbe5c3c585029c9ad98842) | 南华早报 China |
+| 10-17 11:23 | [警方公開騙徒假冒「WhatsApp藍剔」騎劫賬戶流程](https://aiguanchao.com/items/e1436fb88a24d22704e6a2c067806965c2cf1025) | 文匯報 |
 | 10-17 10:31 | [伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸](https://aiguanchao.com/items/14c11b37337c69f0a8c2cc9c03bafbf22a701690) | 华尔街见闻 快讯 |
 | 10-17 08:49 | [特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税](https://aiguanchao.com/items/8c9af1e05309e4009831810c6d92b7a5bb93c0ee) | 华尔街见闻 快讯 |
-| 10-17 04:59 | [OpenAI 披露内部模型入侵加密钱包并攻破更多网站](https://aiguanchao.com/items/5fef607cca49c6e31eced1d5fff9471197bb8130) | Ars Technica：AI |
+| 10-17 00:00 | [特朗普暂缓对俄新制裁后，泽连斯基呼吁支持制裁措施](https://aiguanchao.com/items/0d4afdf1a251df82119090fbb178dd420b3d117e) | NPR World |
 | 10-16 22:28 | [没有不倒翁：黄奇帆与“倒查二十年”](https://aiguanchao.com/items/4fae684383ac4d872a738bc51f2df4a404f78a48) | 德国之声中文 |
 | 10-16 21:53 | [四个 Gemini 4 Argon 智能体历时 27 小时 14 分钟端到端击败 Minecraft 末影龙](https://aiguanchao.com/items/7d282c061763fee30e1ff1872e3feda5025a1287) | @omarsar0 |
 | 10-16 15:53 | [两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术](https://aiguanchao.com/items/a03eb40169e6093f560f97d82fb91d4569ad2c4b) | 华尔街见闻 快讯 |
@@ -40,12 +43,9 @@
 | 10-16 01:45 | [Meta 发布开源模型 Muse Spark Open，Unsloth 提供 2-bit GGUF 量化版](https://aiguanchao.com/items/696410f6dad93dcc734f6d0cad12d8b83ed5bac4) | Unsloth |
 | 10-16 01:31 | [无人机袭击罗马尼亚黑海沿岸油轮，七名船员失踪](https://aiguanchao.com/items/02c51943d360ea5abaee5f30f90634a553674bad) | 卫报 World |
 | 10-16 01:03 | [马杜罗在纽约法庭称新酷刑指控为“虚假”](https://aiguanchao.com/items/e2960bed32d9fe6654f3a9a516bd471fc30dc360) | 卫报 World |
-| 10-16 00:00 | [【视频】李强主持召开国务院常务会议](https://aiguanchao.com/items/e4103ef7c3acdf45dfa9917af51e5ae4035ed654) | 中国政府网 要闻 |
 | 10-16 00:00 | [Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织](https://aiguanchao.com/items/e5c4f311c1ff0d4a21724493576ae93fabb7478f) | Anthropic：Research |
+| 10-16 00:00 | [【视频】李强主持召开国务院常务会议](https://aiguanchao.com/items/e4103ef7c3acdf45dfa9917af51e5ae4035ed654) | 中国政府网 要闻 |
 | 10-16 00:00 | [Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜](https://aiguanchao.com/items/200dd1aea08cdf78049b2e7f8ae1fe4857042a96) | Anthropic：Research |
-| 10-15 23:37 | [经济学家:PPI 超预期上涨表明美联储抗通胀工作尚未完成](https://aiguanchao.com/items/4b944fe7b8bfc375ac7089ffcf6687bc6f462a86) | CNBC World |
-| 10-15 19:00 | [The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持](https://aiguanchao.com/items/679db74887f1c961d952964e5ec438b164f143c1) | The Verge：AI |
-| 10-15 18:43 | [通过定向广告投递的零点击间谍软件：AdFection](https://aiguanchao.com/items/372370223a19dc731649c0bb4c95da83368ec250) | Hacker News 前页 (RSS) |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
