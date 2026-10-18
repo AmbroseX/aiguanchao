@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-18 04:38(北京时间)
+最后更新:2026-10-18 19:10(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -13,12 +13,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 18 日 晚报](https://aiguanchao.com/daily/2026-10-18/evening)
+- [10 月 18 日 早报](https://aiguanchao.com/daily/2026-10-18/morning)
 - [10 月 17 日 晚报](https://aiguanchao.com/daily/2026-10-17/evening)
 - [10 月 17 日 早报](https://aiguanchao.com/daily/2026-10-17/morning)
 - [10 月 16 日 晚报](https://aiguanchao.com/daily/2026-10-16/evening)
 - [10 月 16 日 早报](https://aiguanchao.com/daily/2026-10-16/morning)
-- [10 月 15 日 晚报](https://aiguanchao.com/daily/2026-10-15/evening)
-- [10 月 15 日 早报](https://aiguanchao.com/daily/2026-10-15/morning)
 <!-- daily:end -->
 
 ## 最新精选
@@ -43,9 +43,9 @@
 | 10-16 01:45 | [Meta 发布开源模型 Muse Spark Open，Unsloth 提供 2-bit GGUF 量化版](https://aiguanchao.com/items/696410f6dad93dcc734f6d0cad12d8b83ed5bac4) | Unsloth |
 | 10-16 01:31 | [无人机袭击罗马尼亚黑海沿岸油轮，七名船员失踪](https://aiguanchao.com/items/02c51943d360ea5abaee5f30f90634a553674bad) | 卫报 World |
 | 10-16 01:03 | [马杜罗在纽约法庭称新酷刑指控为“虚假”](https://aiguanchao.com/items/e2960bed32d9fe6654f3a9a516bd471fc30dc360) | 卫报 World |
+| 10-16 00:00 | [Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜](https://aiguanchao.com/items/200dd1aea08cdf78049b2e7f8ae1fe4857042a96) | Anthropic：Research |
 | 10-16 00:00 | [【视频】李强主持召开国务院常务会议](https://aiguanchao.com/items/e4103ef7c3acdf45dfa9917af51e5ae4035ed654) | 中国政府网 要闻 |
 | 10-16 00:00 | [Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织](https://aiguanchao.com/items/e5c4f311c1ff0d4a21724493576ae93fabb7478f) | Anthropic：Research |
-| 10-16 00:00 | [Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜](https://aiguanchao.com/items/200dd1aea08cdf78049b2e7f8ae1fe4857042a96) | Anthropic：Research |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
