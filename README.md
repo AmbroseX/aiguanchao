@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-18 23:54(北京时间)
+最后更新:2026-10-19 12:44(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -13,12 +13,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 19 日 早报](https://aiguanchao.com/daily/2026-10-19/morning)
 - [10 月 18 日 晚报](https://aiguanchao.com/daily/2026-10-18/evening)
 - [10 月 18 日 早报](https://aiguanchao.com/daily/2026-10-18/morning)
 - [10 月 17 日 晚报](https://aiguanchao.com/daily/2026-10-17/evening)
 - [10 月 17 日 早报](https://aiguanchao.com/daily/2026-10-17/morning)
 - [10 月 16 日 晚报](https://aiguanchao.com/daily/2026-10-16/evening)
-- [10 月 16 日 早报](https://aiguanchao.com/daily/2026-10-16/morning)
 <!-- daily:end -->
 
 ## 最新精选
@@ -26,6 +26,8 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-19 10:37 | [国家统计局谈前三季度GDP增速：符合全年经济预期增长目标](https://aiguanchao.com/items/d65aa3f0366313e960391a2e65419c978cbdd99f) | 财联社 电报 |
+| 10-19 07:10 | [乌克兰恢复打击俄能源设施、中东油轮遇袭，布伦特原油在每桶109美元附近徘徊](https://aiguanchao.com/items/2a76588421b97b3e6f333c12f5ad5c6dfd8b3563) | CNBC World |
 | 10-18 19:46 | [法国示威演变骚乱 马克龙将发表全国讲话](https://aiguanchao.com/items/624b3c94f5b7d99bfb849736c005efdc3bf70daf) | 德国之声中文 |
 | 10-17 18:33 | [DeepSeek 发布 V4.1-Flash-1017：智能体任务超越更大对手，成本再降，并首次开放自研搜索 API](https://aiguanchao.com/items/016855d3a78eeab1f8853e3f0f4eab40a03ad974) | The Decoder：AI News |
 | 10-17 14:00 | [亚马逊收购 DuckLabs 并将 DuckDB 集成到 Amazon Aurora PostgreSQL](https://aiguanchao.com/items/8ac6c76510cf26979157baeb8cd6b2dd64152620) | InfoQ AI |
@@ -44,8 +46,6 @@
 | 10-16 01:45 | [Meta 发布开源模型 Muse Spark Open，Unsloth 提供 2-bit GGUF 量化版](https://aiguanchao.com/items/696410f6dad93dcc734f6d0cad12d8b83ed5bac4) | Unsloth |
 | 10-16 01:31 | [无人机袭击罗马尼亚黑海沿岸油轮，七名船员失踪](https://aiguanchao.com/items/02c51943d360ea5abaee5f30f90634a553674bad) | 卫报 World |
 | 10-16 01:03 | [马杜罗在纽约法庭称新酷刑指控为“虚假”](https://aiguanchao.com/items/e2960bed32d9fe6654f3a9a516bd471fc30dc360) | 卫报 World |
-| 10-16 00:00 | [Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织](https://aiguanchao.com/items/e5c4f311c1ff0d4a21724493576ae93fabb7478f) | Anthropic：Research |
-| 10-16 00:00 | [Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜](https://aiguanchao.com/items/200dd1aea08cdf78049b2e7f8ae1fe4857042a96) | Anthropic：Research |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
