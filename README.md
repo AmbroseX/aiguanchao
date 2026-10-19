@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-19 21:21(北京时间)
+最后更新:2026-10-20 04:36(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -26,10 +26,16 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-20 01:39 | [美检方称窃听 OpenAI 会议室的前工程师受沙特政府支持](https://aiguanchao.com/items/0e0d852621f75d72ae5b67600b70b50d9e74ead4) | Rohan Paul |
+| 10-20 01:27 | [以色列总理下令推翻伊朗政权](https://aiguanchao.com/items/3f64e4b2060ca41a4f84d77910a11c3aca41367a) | 财联社 电报 |
+| 10-20 01:01 | [沙特因胡塞武装袭击升级将大型投资者会议推迟至2027年](https://aiguanchao.com/items/89c1457ff207066b185813b00716586165fd24ae) | CNBC World |
+| 10-19 23:40 | [AI 证明了准黎曼假设，接下来会怎样？](https://aiguanchao.com/items/c5ced99a0a8fcb5c1936453c707cbd417eecd8dd) | Quanta Magazine |
+| 10-19 22:45 | [Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼](https://aiguanchao.com/items/19e48a65538e3eee06965085a008a28ae35cc19f) | Ars Technica：AI |
 | 10-19 18:42 | [2026金融街论坛年会：央行宣布将出台一揽子政策 证监会将全力维护资本市场安全稳定、持续提升市场韧性和信心](https://aiguanchao.com/items/c55ec3139ceebd50a64c1d49dc1a62139d1a455d) | 财联社 电报 |
 | 10-19 17:55 | [泽连斯基：我相信已采取步骤，旨在说服乌克兰投降](https://aiguanchao.com/items/3c63dc0d53585e046fd8213a25e4a3e4839016cd) | 法广中文 |
 | 10-19 10:37 | [国家统计局谈前三季度GDP增速：符合全年经济预期增长目标](https://aiguanchao.com/items/d65aa3f0366313e960391a2e65419c978cbdd99f) | 财联社 电报 |
 | 10-19 07:10 | [乌克兰恢复打击俄能源设施、中东油轮遇袭，布伦特原油在每桶109美元附近徘徊](https://aiguanchao.com/items/2a76588421b97b3e6f333c12f5ad5c6dfd8b3563) | CNBC World |
+| 10-19 00:00 | [Cairn：窥探 AI 驱动网络攻击行动的开放窗口](https://aiguanchao.com/items/cde9a6ad8512357f0c1265ef56b862e0ee791a81) | Hacker News 热门 |
 | 10-18 19:46 | [法国示威演变骚乱 马克龙将发表全国讲话](https://aiguanchao.com/items/624b3c94f5b7d99bfb849736c005efdc3bf70daf) | 德国之声中文 |
 | 10-17 18:33 | [DeepSeek 发布 V4.1-Flash-1017：智能体任务超越更大对手，成本再降，并首次开放自研搜索 API](https://aiguanchao.com/items/016855d3a78eeab1f8853e3f0f4eab40a03ad974) | The Decoder：AI News |
 | 10-17 14:00 | [亚马逊收购 DuckLabs 并将 DuckDB 集成到 Amazon Aurora PostgreSQL](https://aiguanchao.com/items/8ac6c76510cf26979157baeb8cd6b2dd64152620) | InfoQ AI |
@@ -40,12 +46,6 @@
 | 10-17 08:49 | [特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税](https://aiguanchao.com/items/8c9af1e05309e4009831810c6d92b7a5bb93c0ee) | 华尔街见闻 快讯 |
 | 10-17 00:00 | [特朗普暂缓对俄新制裁后，泽连斯基呼吁支持制裁措施](https://aiguanchao.com/items/0d4afdf1a251df82119090fbb178dd420b3d117e) | NPR World |
 | 10-16 22:28 | [没有不倒翁：黄奇帆与“倒查二十年”](https://aiguanchao.com/items/4fae684383ac4d872a738bc51f2df4a404f78a48) | 德国之声中文 |
-| 10-16 21:53 | [四个 Gemini 4 Argon 智能体历时 27 小时 14 分钟端到端击败 Minecraft 末影龙](https://aiguanchao.com/items/7d282c061763fee30e1ff1872e3feda5025a1287) | @omarsar0 |
-| 10-16 15:53 | [两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术](https://aiguanchao.com/items/a03eb40169e6093f560f97d82fb91d4569ad2c4b) | 华尔街见闻 快讯 |
-| 10-16 13:40 | [印尼官员将开会评估 MSCI 拟将其调出新兴市场的冲击](https://aiguanchao.com/items/430982080403784ad1f3911d41a74450ff8ed933) | 财联社 电报 |
-| 10-16 08:37 | [新鸭绿江大桥通车，中朝贸易关系升温](https://aiguanchao.com/items/d45817af60bffff990cfb465fe0f7858d0a9e63a) | 纽约时报中文网 |
-| 10-16 08:18 | [可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考](https://aiguanchao.com/items/29cf85a42c74ef7af5a12c2f5d04bb588ff1b7ec) | 公众号：数字生命卡兹克 |
-| 10-16 01:45 | [Meta 发布开源模型 Muse Spark Open，Unsloth 提供 2-bit GGUF 量化版](https://aiguanchao.com/items/696410f6dad93dcc734f6d0cad12d8b83ed5bac4) | Unsloth |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
