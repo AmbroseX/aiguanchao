@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-19 12:44(北京时间)
+最后更新:2026-10-19 21:21(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -13,12 +13,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 19 日 晚报](https://aiguanchao.com/daily/2026-10-19/evening)
 - [10 月 19 日 早报](https://aiguanchao.com/daily/2026-10-19/morning)
 - [10 月 18 日 晚报](https://aiguanchao.com/daily/2026-10-18/evening)
 - [10 月 18 日 早报](https://aiguanchao.com/daily/2026-10-18/morning)
 - [10 月 17 日 晚报](https://aiguanchao.com/daily/2026-10-17/evening)
 - [10 月 17 日 早报](https://aiguanchao.com/daily/2026-10-17/morning)
-- [10 月 16 日 晚报](https://aiguanchao.com/daily/2026-10-16/evening)
 <!-- daily:end -->
 
 ## 最新精选
@@ -26,6 +26,8 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-19 18:42 | [2026金融街论坛年会：央行宣布将出台一揽子政策 证监会将全力维护资本市场安全稳定、持续提升市场韧性和信心](https://aiguanchao.com/items/c55ec3139ceebd50a64c1d49dc1a62139d1a455d) | 财联社 电报 |
+| 10-19 17:55 | [泽连斯基：我相信已采取步骤，旨在说服乌克兰投降](https://aiguanchao.com/items/3c63dc0d53585e046fd8213a25e4a3e4839016cd) | 法广中文 |
 | 10-19 10:37 | [国家统计局谈前三季度GDP增速：符合全年经济预期增长目标](https://aiguanchao.com/items/d65aa3f0366313e960391a2e65419c978cbdd99f) | 财联社 电报 |
 | 10-19 07:10 | [乌克兰恢复打击俄能源设施、中东油轮遇袭，布伦特原油在每桶109美元附近徘徊](https://aiguanchao.com/items/2a76588421b97b3e6f333c12f5ad5c6dfd8b3563) | CNBC World |
 | 10-18 19:46 | [法国示威演变骚乱 马克龙将发表全国讲话](https://aiguanchao.com/items/624b3c94f5b7d99bfb849736c005efdc3bf70daf) | 德国之声中文 |
@@ -44,8 +46,6 @@
 | 10-16 08:37 | [新鸭绿江大桥通车，中朝贸易关系升温](https://aiguanchao.com/items/d45817af60bffff990cfb465fe0f7858d0a9e63a) | 纽约时报中文网 |
 | 10-16 08:18 | [可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考](https://aiguanchao.com/items/29cf85a42c74ef7af5a12c2f5d04bb588ff1b7ec) | 公众号：数字生命卡兹克 |
 | 10-16 01:45 | [Meta 发布开源模型 Muse Spark Open，Unsloth 提供 2-bit GGUF 量化版](https://aiguanchao.com/items/696410f6dad93dcc734f6d0cad12d8b83ed5bac4) | Unsloth |
-| 10-16 01:31 | [无人机袭击罗马尼亚黑海沿岸油轮，七名船员失踪](https://aiguanchao.com/items/02c51943d360ea5abaee5f30f90634a553674bad) | 卫报 World |
-| 10-16 01:03 | [马杜罗在纽约法庭称新酷刑指控为“虚假”](https://aiguanchao.com/items/e2960bed32d9fe6654f3a9a516bd471fc30dc360) | 卫报 World |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
