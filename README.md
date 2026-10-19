@@ -70,8 +70,57 @@
 - 精选 RSS:`https://aiguanchao.com/feed/featured.xml`
 - 日报 RSS:`https://aiguanchao.com/feed/daily.xml`
 - 播客 RSS:`https://aiguanchao.com/feed/podcast.xml`
-- 接入 Claude、Cursor 等 AI 工具(MCP):`https://aiguanchao.com/mcp`,说明见 [接入 AI 工具](https://aiguanchao.com/agent)
 - 给 AI 看的站点说明:[llms.txt](https://aiguanchao.com/llms.txt)
+
+## MCP 服务:在 AI 工具里看 AI 新闻
+
+AI观潮 提供托管的远程 MCP 服务(不用装任何东西),Claude、Cursor 等 AI 工具接上后可以直接查最新精选、搜新闻、看日报和热门事件。已登记在[官方 MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.aiguanchao)(`com.aiguanchao/news`)。
+
+- 服务地址:`https://aiguanchao.com/mcp`(Streamable HTTP)
+- 认证:请求头 `Authorization: Bearer dn_...`,个人令牌在 [aiguanchao.com/me/tokens](https://aiguanchao.com/me/tokens) 免费建,每天有免费调用次数,超出按点数
+- 填不了请求头的客户端(如 Claude 桌面版 / 网页版的连接器):在同一页建"专属链接",整个地址 `https://aiguanchao.com/mcp/u/<链接>` 填进去
+- 完整说明:[接入 AI 工具](https://aiguanchao.com/agent)([English](https://aiguanchao.com/en/agent)),给 AI 读的说明 [`/api/v1/agent`](https://aiguanchao.com/api/v1/agent),[OpenAPI](https://aiguanchao.com/openapi-v1.json)
+
+工具:
+
+| 工具 | 做什么 |
+|---|---|
+| `dn_get_latest` | 最新精选新闻 |
+| `dn_search` | 搜新闻 |
+| `dn_get_hot` | 热门事件(最近 48 小时多家媒体报道) |
+| `dn_get_daily` | AI 日报(早晚两期) |
+| `dn_get_topic` | 事件追踪时间线 |
+| `dn_get_theme` | 公司 / 技术主题动态 |
+| `dn_ask` | 问一问:按新闻回答问题 |
+| `dn_my` | 我的关注和收藏 |
+| `dn_guide` | 使用说明 |
+
+配置示例:
+
+Claude Code
+
+```bash
+claude mcp add --transport http aiguanchao https://aiguanchao.com/mcp --header "Authorization: Bearer dn_xxx"
+```
+
+Cursor(`~/.cursor/mcp.json`)
+
+```json
+{
+  "mcpServers": {
+    "aiguanchao": {
+      "url": "https://aiguanchao.com/mcp",
+      "headers": { "Authorization": "Bearer dn_xxx" }
+    }
+  }
+}
+```
+
+登记用的 [`server.json`](server.json) 也在本仓库。
+
+### English
+
+AI观潮 (AI Guanchao) is a hosted remote MCP server for curated daily AI news (summaries are written in Chinese), daily briefs, trending stories and an LLM leaderboard. Endpoint `https://aiguanchao.com/mcp` (Streamable HTTP), auth `Authorization: Bearer dn_...` — create a personal token for free at [aiguanchao.com/me/tokens](https://aiguanchao.com/me/tokens) (free daily quota). Setup guide: [aiguanchao.com/en/agent](https://aiguanchao.com/en/agent). The server is hosted, not open source; this repo holds the docs and config examples.
 
 ## 内容怎么来的
 
@@ -81,5 +130,6 @@
 
 - `update_readme.py`:读网站的 RSS,把最新日报和精选写进本文件(只用 Python 标准库)
 - `.github/workflows/update.yml`:每 3 小时跑一次,有变化才提交
+- `server.json`:官方 MCP Registry 登记文件
 
 发现总结有错或想推荐信源:[信源提报](https://aiguanchao.com/submit-source)。

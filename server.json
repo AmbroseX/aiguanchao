@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.aiguanchao/news",
+  "title": "AI观潮 News",
+  "description": "Curated daily AI news (summaries in Chinese), daily briefs, trending stories and an LLM leaderboard.",
+  "version": "2.0.0",
+  "websiteUrl": "https://aiguanchao.com/en/agent",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://aiguanchao.com/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Personal token from https://aiguanchao.com/me/tokens, as 'Bearer dn_...'. Free daily quota.",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
