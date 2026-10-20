@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-20 16:35(北京时间)
+最后更新:2026-10-20 22:20(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -13,12 +13,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 20 日 晚报](https://aiguanchao.com/daily/2026-10-20/evening)
 - [10 月 20 日 早报](https://aiguanchao.com/daily/2026-10-20/morning)
 - [10 月 19 日 晚报](https://aiguanchao.com/daily/2026-10-19/evening)
 - [10 月 19 日 早报](https://aiguanchao.com/daily/2026-10-19/morning)
 - [10 月 18 日 晚报](https://aiguanchao.com/daily/2026-10-18/evening)
 - [10 月 18 日 早报](https://aiguanchao.com/daily/2026-10-18/morning)
-- [10 月 17 日 晚报](https://aiguanchao.com/daily/2026-10-17/evening)
 <!-- daily:end -->
 
 ## 最新精选
@@ -26,6 +26,9 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-20 21:30 | [美国陆军研发 ECHOTRIBBLE 计划：部署自主 AI 智能体在敌方数字基础设施中寻找并摧毁目标](https://aiguanchao.com/items/a29c21173d4eb844c125a9977eb22be5e78139d1) | Latest from Tom's Hardware |
+| 10-20 19:19 | [中东局势紧张下美国原油突破109美元，布伦特原油创五个月新高](https://aiguanchao.com/items/814bb592b6abc565a4ef97ef7ea4e668d0499bf5) | CNBC World |
+| 10-20 18:21 | [字节、阿里和腾讯向英伟达订购了总值逾350亿美元的显卡](https://aiguanchao.com/items/624f1621f41ea6c981f03c0554ea22dd5b5232c3) | 法广中文 |
 | 10-20 01:39 | [美检方称窃听 OpenAI 会议室的前工程师受沙特政府支持](https://aiguanchao.com/items/0e0d852621f75d72ae5b67600b70b50d9e74ead4) | Rohan Paul |
 | 10-20 01:27 | [以色列总理下令推翻伊朗政权](https://aiguanchao.com/items/3f64e4b2060ca41a4f84d77910a11c3aca41367a) | 财联社 电报 |
 | 10-20 01:01 | [沙特因胡塞武装袭击升级将大型投资者会议推迟至2027年](https://aiguanchao.com/items/89c1457ff207066b185813b00716586165fd24ae) | CNBC World |
@@ -43,9 +46,6 @@
 | 10-17 14:00 | [亚马逊收购 DuckLabs 并将 DuckDB 集成到 Amazon Aurora PostgreSQL](https://aiguanchao.com/items/8ac6c76510cf26979157baeb8cd6b2dd64152620) | InfoQ AI |
 | 10-17 13:46 | [特朗普与俄罗斯的柴油交易或让普京所得超出金钱——并为乌克兰埋下隐患](https://aiguanchao.com/items/7eb1263fb51baeff675e6ad433a4e2aa45e683f9) | CNBC World |
 | 10-17 12:10 | [中国幼儿园负责人因含铅涂料投毒案被判无期徒刑](https://aiguanchao.com/items/2fd31a66e16594844dbbe5c3c585029c9ad98842) | 南华早报 China |
-| 10-17 11:23 | [警方公開騙徒假冒「WhatsApp藍剔」騎劫賬戶流程](https://aiguanchao.com/items/e1436fb88a24d22704e6a2c067806965c2cf1025) | 文匯報 |
-| 10-17 10:31 | [伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸](https://aiguanchao.com/items/14c11b37337c69f0a8c2cc9c03bafbf22a701690) | 华尔街见闻 快讯 |
-| 10-17 08:49 | [特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税](https://aiguanchao.com/items/8c9af1e05309e4009831810c6d92b7a5bb93c0ee) | 华尔街见闻 快讯 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
