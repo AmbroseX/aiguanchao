@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-20 08:23(北京时间)
+最后更新:2026-10-20 16:35(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -29,6 +29,7 @@
 | 10-20 01:39 | [美检方称窃听 OpenAI 会议室的前工程师受沙特政府支持](https://aiguanchao.com/items/0e0d852621f75d72ae5b67600b70b50d9e74ead4) | Rohan Paul |
 | 10-20 01:27 | [以色列总理下令推翻伊朗政权](https://aiguanchao.com/items/3f64e4b2060ca41a4f84d77910a11c3aca41367a) | 财联社 电报 |
 | 10-20 01:01 | [沙特因胡塞武装袭击升级将大型投资者会议推迟至2027年](https://aiguanchao.com/items/89c1457ff207066b185813b00716586165fd24ae) | CNBC World |
+| 10-20 00:00 | [WhatsApp 帮助页面暗藏 LLM 指令：不许推荐数据保护监管机构](https://aiguanchao.com/items/d2f1ad7a728b7e153c03bb4e3b3ac7af0d0bc11c) | Hacker News 前页 (RSS) |
 | 10-19 23:40 | [AI 证明了准黎曼假设，接下来会怎样？](https://aiguanchao.com/items/c5ced99a0a8fcb5c1936453c707cbd417eecd8dd) | Quanta Magazine |
 | 10-19 23:05 | [美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品](https://aiguanchao.com/items/451579e76732d602253e219b87576e138e1281b7) | Hacker News：AI 热帖 |
 | 10-19 22:45 | [Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼](https://aiguanchao.com/items/19e48a65538e3eee06965085a008a28ae35cc19f) | Ars Technica：AI |
@@ -45,7 +46,6 @@
 | 10-17 11:23 | [警方公開騙徒假冒「WhatsApp藍剔」騎劫賬戶流程](https://aiguanchao.com/items/e1436fb88a24d22704e6a2c067806965c2cf1025) | 文匯報 |
 | 10-17 10:31 | [伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸](https://aiguanchao.com/items/14c11b37337c69f0a8c2cc9c03bafbf22a701690) | 华尔街见闻 快讯 |
 | 10-17 08:49 | [特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税](https://aiguanchao.com/items/8c9af1e05309e4009831810c6d92b7a5bb93c0ee) | 华尔街见闻 快讯 |
-| 10-17 00:00 | [特朗普暂缓对俄新制裁后，泽连斯基呼吁支持制裁措施](https://aiguanchao.com/items/0d4afdf1a251df82119090fbb178dd420b3d117e) | NPR World |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
