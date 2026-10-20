@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-20 04:36(北京时间)
+最后更新:2026-10-20 08:23(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -13,12 +13,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 20 日 早报](https://aiguanchao.com/daily/2026-10-20/morning)
 - [10 月 19 日 晚报](https://aiguanchao.com/daily/2026-10-19/evening)
 - [10 月 19 日 早报](https://aiguanchao.com/daily/2026-10-19/morning)
 - [10 月 18 日 晚报](https://aiguanchao.com/daily/2026-10-18/evening)
 - [10 月 18 日 早报](https://aiguanchao.com/daily/2026-10-18/morning)
 - [10 月 17 日 晚报](https://aiguanchao.com/daily/2026-10-17/evening)
-- [10 月 17 日 早报](https://aiguanchao.com/daily/2026-10-17/morning)
 <!-- daily:end -->
 
 ## 最新精选
@@ -30,6 +30,7 @@
 | 10-20 01:27 | [以色列总理下令推翻伊朗政权](https://aiguanchao.com/items/3f64e4b2060ca41a4f84d77910a11c3aca41367a) | 财联社 电报 |
 | 10-20 01:01 | [沙特因胡塞武装袭击升级将大型投资者会议推迟至2027年](https://aiguanchao.com/items/89c1457ff207066b185813b00716586165fd24ae) | CNBC World |
 | 10-19 23:40 | [AI 证明了准黎曼假设，接下来会怎样？](https://aiguanchao.com/items/c5ced99a0a8fcb5c1936453c707cbd417eecd8dd) | Quanta Magazine |
+| 10-19 23:05 | [美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品](https://aiguanchao.com/items/451579e76732d602253e219b87576e138e1281b7) | Hacker News：AI 热帖 |
 | 10-19 22:45 | [Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼](https://aiguanchao.com/items/19e48a65538e3eee06965085a008a28ae35cc19f) | Ars Technica：AI |
 | 10-19 18:42 | [2026金融街论坛年会：央行宣布将出台一揽子政策 证监会将全力维护资本市场安全稳定、持续提升市场韧性和信心](https://aiguanchao.com/items/c55ec3139ceebd50a64c1d49dc1a62139d1a455d) | 财联社 电报 |
 | 10-19 17:55 | [泽连斯基：我相信已采取步骤，旨在说服乌克兰投降](https://aiguanchao.com/items/3c63dc0d53585e046fd8213a25e4a3e4839016cd) | 法广中文 |
@@ -45,7 +46,6 @@
 | 10-17 10:31 | [伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸](https://aiguanchao.com/items/14c11b37337c69f0a8c2cc9c03bafbf22a701690) | 华尔街见闻 快讯 |
 | 10-17 08:49 | [特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税](https://aiguanchao.com/items/8c9af1e05309e4009831810c6d92b7a5bb93c0ee) | 华尔街见闻 快讯 |
 | 10-17 00:00 | [特朗普暂缓对俄新制裁后，泽连斯基呼吁支持制裁措施](https://aiguanchao.com/items/0d4afdf1a251df82119090fbb178dd420b3d117e) | NPR World |
-| 10-16 22:28 | [没有不倒翁：黄奇帆与“倒查二十年”](https://aiguanchao.com/items/4fae684383ac4d872a738bc51f2df4a404f78a48) | 德国之声中文 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
