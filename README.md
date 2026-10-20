@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-21 03:18(北京时间)
+最后更新:2026-10-21 07:55(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -26,6 +26,7 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-21 01:34 | [Gergely Orosz 调研 27 家公司软件工程师的 AI 支出与 ROI](https://aiguanchao.com/items/564f2fc80e1c4b960c2eae129aa35da1bffb1777) | Pragmatic Engineer |
 | 10-20 22:24 | [苏丹军方无人机袭击送葬人群与燃油市场，致超过200人死亡](https://aiguanchao.com/items/f3d21ebf6453d6d7a0619b387bef775a1238e69e) | BBC World |
 | 10-20 21:30 | [美国陆军研发 ECHOTRIBBLE 计划：部署自主 AI 智能体在敌方数字基础设施中寻找并摧毁目标](https://aiguanchao.com/items/a29c21173d4eb844c125a9977eb22be5e78139d1) | Latest from Tom's Hardware |
 | 10-20 21:17 | [法国宣布实施局部宵禁 暴力骚乱蔓延至欧洲多国](https://aiguanchao.com/items/b9c441ddab9377b80874f8789de0c82cd9e1c13b) | 德国之声中文 |
@@ -45,7 +46,6 @@
 | 10-19 00:00 | [Cairn：窥探 AI 驱动网络攻击行动的开放窗口](https://aiguanchao.com/items/cde9a6ad8512357f0c1265ef56b862e0ee791a81) | Hacker News 热门 |
 | 10-18 19:46 | [法国示威演变骚乱 马克龙将发表全国讲话](https://aiguanchao.com/items/624b3c94f5b7d99bfb849736c005efdc3bf70daf) | 德国之声中文 |
 | 10-17 18:33 | [DeepSeek 发布 V4.1-Flash-1017：智能体任务超越更大对手，成本再降，并首次开放自研搜索 API](https://aiguanchao.com/items/016855d3a78eeab1f8853e3f0f4eab40a03ad974) | The Decoder：AI News |
-| 10-17 14:00 | [亚马逊收购 DuckLabs 并将 DuckDB 集成到 Amazon Aurora PostgreSQL](https://aiguanchao.com/items/8ac6c76510cf26979157baeb8cd6b2dd64152620) | InfoQ AI |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
