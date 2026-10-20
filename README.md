@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-20 22:20(北京时间)
+最后更新:2026-10-21 03:18(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -26,7 +26,9 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-20 22:24 | [苏丹军方无人机袭击送葬人群与燃油市场，致超过200人死亡](https://aiguanchao.com/items/f3d21ebf6453d6d7a0619b387bef775a1238e69e) | BBC World |
 | 10-20 21:30 | [美国陆军研发 ECHOTRIBBLE 计划：部署自主 AI 智能体在敌方数字基础设施中寻找并摧毁目标](https://aiguanchao.com/items/a29c21173d4eb844c125a9977eb22be5e78139d1) | Latest from Tom's Hardware |
+| 10-20 21:17 | [法国宣布实施局部宵禁 暴力骚乱蔓延至欧洲多国](https://aiguanchao.com/items/b9c441ddab9377b80874f8789de0c82cd9e1c13b) | 德国之声中文 |
 | 10-20 19:19 | [中东局势紧张下美国原油突破109美元，布伦特原油创五个月新高](https://aiguanchao.com/items/814bb592b6abc565a4ef97ef7ea4e668d0499bf5) | CNBC World |
 | 10-20 18:21 | [字节、阿里和腾讯向英伟达订购了总值逾350亿美元的显卡](https://aiguanchao.com/items/624f1621f41ea6c981f03c0554ea22dd5b5232c3) | 法广中文 |
 | 10-20 01:39 | [美检方称窃听 OpenAI 会议室的前工程师受沙特政府支持](https://aiguanchao.com/items/0e0d852621f75d72ae5b67600b70b50d9e74ead4) | Rohan Paul |
@@ -44,8 +46,6 @@
 | 10-18 19:46 | [法国示威演变骚乱 马克龙将发表全国讲话](https://aiguanchao.com/items/624b3c94f5b7d99bfb849736c005efdc3bf70daf) | 德国之声中文 |
 | 10-17 18:33 | [DeepSeek 发布 V4.1-Flash-1017：智能体任务超越更大对手，成本再降，并首次开放自研搜索 API](https://aiguanchao.com/items/016855d3a78eeab1f8853e3f0f4eab40a03ad974) | The Decoder：AI News |
 | 10-17 14:00 | [亚马逊收购 DuckLabs 并将 DuckDB 集成到 Amazon Aurora PostgreSQL](https://aiguanchao.com/items/8ac6c76510cf26979157baeb8cd6b2dd64152620) | InfoQ AI |
-| 10-17 13:46 | [特朗普与俄罗斯的柴油交易或让普京所得超出金钱——并为乌克兰埋下隐患](https://aiguanchao.com/items/7eb1263fb51baeff675e6ad433a4e2aa45e683f9) | CNBC World |
-| 10-17 12:10 | [中国幼儿园负责人因含铅涂料投毒案被判无期徒刑](https://aiguanchao.com/items/2fd31a66e16594844dbbe5c3c585029c9ad98842) | 南华早报 China |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
