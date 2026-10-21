@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-22 01:14(北京时间)
+最后更新:2026-10-22 05:45(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -26,7 +26,16 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 10-21 22:58 | [OpenAI 牵头修复潜伏 14 年的 PHP 漏洞 php2shell](https://aiguanchao.com/items/7b8c369cbef3998c4610dcda22c69af9f34e2797) | Greg Brockman |
+| 10-22 05:10 | [eMudhra 证书信任危机：其中一个 CA 私钥是数字 4，教你检查网站是否会受影响](https://aiguanchao.com/items/7414aa35beb4b9f4cd1ac2568439e358734f8430) | DEV Community |
+| 10-22 04:22 | [PHP 严重漏洞 PHP2Shell 引发全球机构紧急修复](https://aiguanchao.com/items/dd306ccfb5e08207eb6dbed751974717eca143f0) | SiliconANGLE |
+| 10-22 03:48 | [黑客组织 CyberCartel 串联四款 AI 模型攻击 400 多家拉美金融机构](https://aiguanchao.com/items/f25bff4cdf08a40a92c28335e71627b8c0ca066d) | Rohan Paul |
+| 10-22 03:45 | [GPT-5.6 Sol 与 Gemini 4 Argon 发现影响数百万网站的 PHP 关键漏洞](https://aiguanchao.com/items/82b1aa96dbdedda13f883ed1196fd0cc2d4ae70e) | The Decoder：AI News |
+| 10-22 02:01 | [Meta 因用户数据隐私“谎言”被罚 250 亿美元](https://aiguanchao.com/items/107fd7714375253985d0ee59a96cd3e0e634522f) | BBC World |
+| 10-22 01:40 | [研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞](https://aiguanchao.com/items/6cb0ec3b32030a59f6d58ce84d1768855c9141aa) | Rohan Paul |
+| 10-22 01:25 | [Google DeepMind 论文发现 RL 会放大模型被观察与未被观察时守规行为的差距](https://aiguanchao.com/items/60f0183d920a78b21fd744f81782a72aeb9dadf8) | Rohan Paul |
+| 10-22 01:07 | [AI 助力揭露安全漏洞，全球网站大规模下线](https://aiguanchao.com/items/cbdd3e105c4b825aaf6a6c462e9ed3af20496589) | Le Monde.fr - Actualités et Infos en France et dans le monde |
+| 10-22 00:00 | [微软研究员借助人类引导的 AI 攻克悬置 31 年的 KLS 数学猜想](https://aiguanchao.com/items/9452133f5a13b105755ebdd6aa8adfe81105fe89) | Source |
+| 10-21 23:10 | [普京松口 同意重启俄美乌三方和谈](https://aiguanchao.com/items/56f02149beac6dc418b18ba3b33b7914f008bb5a) | 德国之声中文 |
 | 10-21 19:50 | [泽连斯基为何对特朗普展开回击？](https://aiguanchao.com/items/0659bf83dea4be3f85470f4ae53799884c5ae234) | 纽约时报中文网 |
 | 10-21 18:55 | [读者问答：骚乱周末之后，法国下一步走向何方？](https://aiguanchao.com/items/a347a73fcb2e119cf1a68dabad0592d8ade9fa8c) | 卫报 World |
 | 10-21 10:57 | [DeepSeek 开源推理框架 DeepInfer 并发布技术报告，公开大规模部署细节](https://aiguanchao.com/items/b99f44813eb5967e9b602bc31b761ef077f2c392) | 邵猛 |
@@ -37,15 +46,6 @@
 | 10-21 01:34 | [Gergely Orosz 调研 27 家公司软件工程师的 AI 支出与 ROI](https://aiguanchao.com/items/564f2fc80e1c4b960c2eae129aa35da1bffb1777) | Pragmatic Engineer |
 | 10-21 00:00 | [中办国办关于推动科技创新和产业创新深度融合的意见](https://aiguanchao.com/items/25727d1bbc1dc59e2f62efa3e1324409b12021f5) | 中国政府网 最新政策 |
 | 10-20 22:24 | [苏丹军方无人机袭击送葬人群与燃油市场，致超过200人死亡](https://aiguanchao.com/items/f3d21ebf6453d6d7a0619b387bef775a1238e69e) | BBC World |
-| 10-20 21:30 | [美国陆军研发 ECHOTRIBBLE 计划：部署自主 AI 智能体在敌方数字基础设施中寻找并摧毁目标](https://aiguanchao.com/items/a29c21173d4eb844c125a9977eb22be5e78139d1) | Latest from Tom's Hardware |
-| 10-20 21:17 | [法国宣布实施局部宵禁 暴力骚乱蔓延至欧洲多国](https://aiguanchao.com/items/b9c441ddab9377b80874f8789de0c82cd9e1c13b) | 德国之声中文 |
-| 10-20 19:19 | [中东局势紧张下美国原油突破109美元，布伦特原油创五个月新高](https://aiguanchao.com/items/814bb592b6abc565a4ef97ef7ea4e668d0499bf5) | CNBC World |
-| 10-20 18:21 | [字节、阿里和腾讯向英伟达订购了总值逾350亿美元的显卡](https://aiguanchao.com/items/624f1621f41ea6c981f03c0554ea22dd5b5232c3) | 法广中文 |
-| 10-20 08:00 | [OpenAI 报告 GPT-6.1 Sol 与 GPT-6 Astra 内部部署中抑制失准监控警报事件](https://aiguanchao.com/items/83ca5582e30eacadd13312561f80d7ba671b7e0c) | OpenAI：失准报告与通报 |
-| 10-20 01:39 | [美检方称窃听 OpenAI 会议室的前工程师受沙特政府支持](https://aiguanchao.com/items/0e0d852621f75d72ae5b67600b70b50d9e74ead4) | Rohan Paul |
-| 10-20 01:27 | [以色列总理下令推翻伊朗政权](https://aiguanchao.com/items/3f64e4b2060ca41a4f84d77910a11c3aca41367a) | 财联社 电报 |
-| 10-20 01:01 | [沙特因胡塞武装袭击升级将大型投资者会议推迟至2027年](https://aiguanchao.com/items/89c1457ff207066b185813b00716586165fd24ae) | CNBC World |
-| 10-20 00:00 | [WhatsApp 帮助页面暗藏 LLM 指令：不许推荐数据保护监管机构](https://aiguanchao.com/items/d2f1ad7a728b7e153c03bb4e3b3ac7af0d0bc11c) | Hacker News 前页 (RSS) |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
