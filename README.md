@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-21 12:52(北京时间)
+最后更新:2026-10-21 19:53(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -13,12 +13,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 21 日 晚报](https://aiguanchao.com/daily/2026-10-21/evening)
 - [10 月 21 日 早报](https://aiguanchao.com/daily/2026-10-21/morning)
 - [10 月 20 日 晚报](https://aiguanchao.com/daily/2026-10-20/evening)
 - [10 月 20 日 早报](https://aiguanchao.com/daily/2026-10-20/morning)
 - [10 月 19 日 晚报](https://aiguanchao.com/daily/2026-10-19/evening)
 - [10 月 19 日 早报](https://aiguanchao.com/daily/2026-10-19/morning)
-- [10 月 18 日 晚报](https://aiguanchao.com/daily/2026-10-18/evening)
 <!-- daily:end -->
 
 ## 最新精选
@@ -26,7 +26,7 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 10-21 12:32 | [WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺](https://aiguanchao.com/items/cdf52454ab7e764ea0e2f802b0cc3bcbd384a089) | Rohan Paul |
+| 10-21 15:17 | [PHP2Shell：PHP 核心 CVSS 9.2 级零日 RCE 漏洞预警](https://aiguanchao.com/items/8ed7bb987b81a5ded7e5abb4afede462d553f615) | V2EX |
 | 10-21 10:57 | [DeepSeek 开源推理框架 DeepInfer 并发布技术报告，公开大规模部署细节](https://aiguanchao.com/items/b99f44813eb5967e9b602bc31b761ef077f2c392) | 邵猛 |
 | 10-21 05:25 | [Anthropic 的云合作伙伴关系正变得混乱](https://aiguanchao.com/items/dd9302c6e245a355cd03227ef6efb06237bab3a6) | TechCrunch |
 | 10-21 03:47 | [8 张私钥严重失陷的 TLS 证书曝光，全球互联网进入高度戒备](https://aiguanchao.com/items/99f60b7e4d40ac3d7831da950a599abd46a01e4b) | Ars Technica |
