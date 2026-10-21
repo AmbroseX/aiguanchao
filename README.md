@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-21 07:55(北京时间)
+最后更新:2026-10-21 12:52(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -13,12 +13,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 21 日 早报](https://aiguanchao.com/daily/2026-10-21/morning)
 - [10 月 20 日 晚报](https://aiguanchao.com/daily/2026-10-20/evening)
 - [10 月 20 日 早报](https://aiguanchao.com/daily/2026-10-20/morning)
 - [10 月 19 日 晚报](https://aiguanchao.com/daily/2026-10-19/evening)
 - [10 月 19 日 早报](https://aiguanchao.com/daily/2026-10-19/morning)
 - [10 月 18 日 晚报](https://aiguanchao.com/daily/2026-10-18/evening)
-- [10 月 18 日 早报](https://aiguanchao.com/daily/2026-10-18/morning)
 <!-- daily:end -->
 
 ## 最新精选
@@ -26,12 +26,17 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-21 12:32 | [WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺](https://aiguanchao.com/items/cdf52454ab7e764ea0e2f802b0cc3bcbd384a089) | Rohan Paul |
+| 10-21 10:57 | [DeepSeek 开源推理框架 DeepInfer 并发布技术报告，公开大规模部署细节](https://aiguanchao.com/items/b99f44813eb5967e9b602bc31b761ef077f2c392) | 邵猛 |
+| 10-21 05:25 | [Anthropic 的云合作伙伴关系正变得混乱](https://aiguanchao.com/items/dd9302c6e245a355cd03227ef6efb06237bab3a6) | TechCrunch |
+| 10-21 03:47 | [8 张私钥严重失陷的 TLS 证书曝光，全球互联网进入高度戒备](https://aiguanchao.com/items/99f60b7e4d40ac3d7831da950a599abd46a01e4b) | Ars Technica |
 | 10-21 01:34 | [Gergely Orosz 调研 27 家公司软件工程师的 AI 支出与 ROI](https://aiguanchao.com/items/564f2fc80e1c4b960c2eae129aa35da1bffb1777) | Pragmatic Engineer |
 | 10-20 22:24 | [苏丹军方无人机袭击送葬人群与燃油市场，致超过200人死亡](https://aiguanchao.com/items/f3d21ebf6453d6d7a0619b387bef775a1238e69e) | BBC World |
 | 10-20 21:30 | [美国陆军研发 ECHOTRIBBLE 计划：部署自主 AI 智能体在敌方数字基础设施中寻找并摧毁目标](https://aiguanchao.com/items/a29c21173d4eb844c125a9977eb22be5e78139d1) | Latest from Tom's Hardware |
 | 10-20 21:17 | [法国宣布实施局部宵禁 暴力骚乱蔓延至欧洲多国](https://aiguanchao.com/items/b9c441ddab9377b80874f8789de0c82cd9e1c13b) | 德国之声中文 |
 | 10-20 19:19 | [中东局势紧张下美国原油突破109美元，布伦特原油创五个月新高](https://aiguanchao.com/items/814bb592b6abc565a4ef97ef7ea4e668d0499bf5) | CNBC World |
 | 10-20 18:21 | [字节、阿里和腾讯向英伟达订购了总值逾350亿美元的显卡](https://aiguanchao.com/items/624f1621f41ea6c981f03c0554ea22dd5b5232c3) | 法广中文 |
+| 10-20 08:00 | [OpenAI 报告 GPT-6.1 Sol 与 GPT-6 Astra 内部部署中抑制失准监控警报事件](https://aiguanchao.com/items/83ca5582e30eacadd13312561f80d7ba671b7e0c) | OpenAI：失准报告与通报 |
 | 10-20 01:39 | [美检方称窃听 OpenAI 会议室的前工程师受沙特政府支持](https://aiguanchao.com/items/0e0d852621f75d72ae5b67600b70b50d9e74ead4) | Rohan Paul |
 | 10-20 01:27 | [以色列总理下令推翻伊朗政权](https://aiguanchao.com/items/3f64e4b2060ca41a4f84d77910a11c3aca41367a) | 财联社 电报 |
 | 10-20 01:01 | [沙特因胡塞武装袭击升级将大型投资者会议推迟至2027年](https://aiguanchao.com/items/89c1457ff207066b185813b00716586165fd24ae) | CNBC World |
@@ -41,11 +46,6 @@
 | 10-19 22:45 | [Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼](https://aiguanchao.com/items/19e48a65538e3eee06965085a008a28ae35cc19f) | Ars Technica：AI |
 | 10-19 18:42 | [2026金融街论坛年会：央行宣布将出台一揽子政策 证监会将全力维护资本市场安全稳定、持续提升市场韧性和信心](https://aiguanchao.com/items/c55ec3139ceebd50a64c1d49dc1a62139d1a455d) | 财联社 电报 |
 | 10-19 17:55 | [泽连斯基：我相信已采取步骤，旨在说服乌克兰投降](https://aiguanchao.com/items/3c63dc0d53585e046fd8213a25e4a3e4839016cd) | 法广中文 |
-| 10-19 10:37 | [国家统计局谈前三季度GDP增速：符合全年经济预期增长目标](https://aiguanchao.com/items/d65aa3f0366313e960391a2e65419c978cbdd99f) | 财联社 电报 |
-| 10-19 07:10 | [乌克兰恢复打击俄能源设施、中东油轮遇袭，布伦特原油在每桶109美元附近徘徊](https://aiguanchao.com/items/2a76588421b97b3e6f333c12f5ad5c6dfd8b3563) | CNBC World |
-| 10-19 00:00 | [Cairn：窥探 AI 驱动网络攻击行动的开放窗口](https://aiguanchao.com/items/cde9a6ad8512357f0c1265ef56b862e0ee791a81) | Hacker News 热门 |
-| 10-18 19:46 | [法国示威演变骚乱 马克龙将发表全国讲话](https://aiguanchao.com/items/624b3c94f5b7d99bfb849736c005efdc3bf70daf) | 德国之声中文 |
-| 10-17 18:33 | [DeepSeek 发布 V4.1-Flash-1017：智能体任务超越更大对手，成本再降，并首次开放自研搜索 API](https://aiguanchao.com/items/016855d3a78eeab1f8853e3f0f4eab40a03ad974) | The Decoder：AI News |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
