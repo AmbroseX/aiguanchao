@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-21 19:53(北京时间)
+最后更新:2026-10-22 01:14(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -26,11 +26,16 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 10-21 15:17 | [PHP2Shell：PHP 核心 CVSS 9.2 级零日 RCE 漏洞预警](https://aiguanchao.com/items/8ed7bb987b81a5ded7e5abb4afede462d553f615) | V2EX |
+| 10-21 22:58 | [OpenAI 牵头修复潜伏 14 年的 PHP 漏洞 php2shell](https://aiguanchao.com/items/7b8c369cbef3998c4610dcda22c69af9f34e2797) | Greg Brockman |
+| 10-21 19:50 | [泽连斯基为何对特朗普展开回击？](https://aiguanchao.com/items/0659bf83dea4be3f85470f4ae53799884c5ae234) | 纽约时报中文网 |
+| 10-21 18:55 | [读者问答：骚乱周末之后，法国下一步走向何方？](https://aiguanchao.com/items/a347a73fcb2e119cf1a68dabad0592d8ade9fa8c) | 卫报 World |
 | 10-21 10:57 | [DeepSeek 开源推理框架 DeepInfer 并发布技术报告，公开大规模部署细节](https://aiguanchao.com/items/b99f44813eb5967e9b602bc31b761ef077f2c392) | 邵猛 |
+| 10-21 08:35 | [PHP 8.5.12、8.4.27、8.3.36 与 8.2.35 发布](https://aiguanchao.com/items/b1576a3fcf6d60bee6b0a2b9dacb83d805304c36) | Hacker News 前页 (RSS) |
+| 10-21 08:00 | [PyPI 上的 LiteLLM 1.107.0 被植入凭据窃取器与后门](https://aiguanchao.com/items/93d63a00e7e75666d6d4c290b9c5dfd3d7058b2a) | Hacker News 前页 (RSS) |
 | 10-21 05:25 | [Anthropic 的云合作伙伴关系正变得混乱](https://aiguanchao.com/items/dd9302c6e245a355cd03227ef6efb06237bab3a6) | TechCrunch |
 | 10-21 03:47 | [8 张私钥严重失陷的 TLS 证书曝光，全球互联网进入高度戒备](https://aiguanchao.com/items/99f60b7e4d40ac3d7831da950a599abd46a01e4b) | Ars Technica |
 | 10-21 01:34 | [Gergely Orosz 调研 27 家公司软件工程师的 AI 支出与 ROI](https://aiguanchao.com/items/564f2fc80e1c4b960c2eae129aa35da1bffb1777) | Pragmatic Engineer |
+| 10-21 00:00 | [中办国办关于推动科技创新和产业创新深度融合的意见](https://aiguanchao.com/items/25727d1bbc1dc59e2f62efa3e1324409b12021f5) | 中国政府网 最新政策 |
 | 10-20 22:24 | [苏丹军方无人机袭击送葬人群与燃油市场，致超过200人死亡](https://aiguanchao.com/items/f3d21ebf6453d6d7a0619b387bef775a1238e69e) | BBC World |
 | 10-20 21:30 | [美国陆军研发 ECHOTRIBBLE 计划：部署自主 AI 智能体在敌方数字基础设施中寻找并摧毁目标](https://aiguanchao.com/items/a29c21173d4eb844c125a9977eb22be5e78139d1) | Latest from Tom's Hardware |
 | 10-20 21:17 | [法国宣布实施局部宵禁 暴力骚乱蔓延至欧洲多国](https://aiguanchao.com/items/b9c441ddab9377b80874f8789de0c82cd9e1c13b) | 德国之声中文 |
@@ -41,11 +46,6 @@
 | 10-20 01:27 | [以色列总理下令推翻伊朗政权](https://aiguanchao.com/items/3f64e4b2060ca41a4f84d77910a11c3aca41367a) | 财联社 电报 |
 | 10-20 01:01 | [沙特因胡塞武装袭击升级将大型投资者会议推迟至2027年](https://aiguanchao.com/items/89c1457ff207066b185813b00716586165fd24ae) | CNBC World |
 | 10-20 00:00 | [WhatsApp 帮助页面暗藏 LLM 指令：不许推荐数据保护监管机构](https://aiguanchao.com/items/d2f1ad7a728b7e153c03bb4e3b3ac7af0d0bc11c) | Hacker News 前页 (RSS) |
-| 10-19 23:40 | [AI 证明了准黎曼假设，接下来会怎样？](https://aiguanchao.com/items/c5ced99a0a8fcb5c1936453c707cbd417eecd8dd) | Quanta Magazine |
-| 10-19 23:05 | [美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品](https://aiguanchao.com/items/451579e76732d602253e219b87576e138e1281b7) | Hacker News：AI 热帖 |
-| 10-19 22:45 | [Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼](https://aiguanchao.com/items/19e48a65538e3eee06965085a008a28ae35cc19f) | Ars Technica：AI |
-| 10-19 18:42 | [2026金融街论坛年会：央行宣布将出台一揽子政策 证监会将全力维护资本市场安全稳定、持续提升市场韧性和信心](https://aiguanchao.com/items/c55ec3139ceebd50a64c1d49dc1a62139d1a455d) | 财联社 电报 |
-| 10-19 17:55 | [泽连斯基：我相信已采取步骤，旨在说服乌克兰投降](https://aiguanchao.com/items/3c63dc0d53585e046fd8213a25e4a3e4839016cd) | 法广中文 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
