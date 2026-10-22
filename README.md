@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-22 05:45(北京时间)
+最后更新:2026-10-22 12:52(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -13,12 +13,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 22 日 早报](https://aiguanchao.com/daily/2026-10-22/morning)
 - [10 月 21 日 晚报](https://aiguanchao.com/daily/2026-10-21/evening)
 - [10 月 21 日 早报](https://aiguanchao.com/daily/2026-10-21/morning)
 - [10 月 20 日 晚报](https://aiguanchao.com/daily/2026-10-20/evening)
 - [10 月 20 日 早报](https://aiguanchao.com/daily/2026-10-20/morning)
 - [10 月 19 日 晚报](https://aiguanchao.com/daily/2026-10-19/evening)
-- [10 月 19 日 早报](https://aiguanchao.com/daily/2026-10-19/morning)
 <!-- daily:end -->
 
 ## 最新精选
@@ -26,26 +26,26 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-22 11:09 | [刚刚，马斯克自曝：特斯拉与SpaceX或将合并！3.5万亿美元世纪大合体来了](https://aiguanchao.com/items/73587a30bffe55945cd6c1ac771ec95008084e7c) | 新智元 |
+| 10-22 11:02 | [报道：DeepSeek完成1000亿元融资 宁德时代和腾讯参投](https://aiguanchao.com/items/0e14e564dbf449fd772d182f3c9e6ef3478c1d21) | 华尔街见闻 快讯 |
+| 10-22 10:42 | [Cloudflare AI 代码审查成本降 68%：从提示词缓存到模型选型的优化拆解](https://aiguanchao.com/items/c22f0be73bf80b4a4b55903a85fbd9edcf0ab055) | 邵猛 |
+| 10-22 10:17 | [迈步“史上最大 IPO”，消息称 Anthropic 最快本周五公开提交上市申请](https://aiguanchao.com/items/d0afab8a8c5e42558a92e4c457c5acecd283140a) | IT之家 |
+| 10-22 07:39 | [Meta 因 Cambridge Analytica 丑闻诉讼被判支付 250 亿美元](https://aiguanchao.com/items/e586fc6560462a6025aefd90f4adaa901fd424a7) | ITmedia TOP STORIES 最新記事一覧 |
 | 10-22 05:10 | [eMudhra 证书信任危机：其中一个 CA 私钥是数字 4，教你检查网站是否会受影响](https://aiguanchao.com/items/7414aa35beb4b9f4cd1ac2568439e358734f8430) | DEV Community |
+| 10-22 04:36 | [PHP：今日让全球大量网站瘫痪的三个字母](https://aiguanchao.com/items/237ab2f042b9130a80551117b2ec36cbbead73da) | The Verge |
 | 10-22 04:22 | [PHP 严重漏洞 PHP2Shell 引发全球机构紧急修复](https://aiguanchao.com/items/dd306ccfb5e08207eb6dbed751974717eca143f0) | SiliconANGLE |
 | 10-22 03:48 | [黑客组织 CyberCartel 串联四款 AI 模型攻击 400 多家拉美金融机构](https://aiguanchao.com/items/f25bff4cdf08a40a92c28335e71627b8c0ca066d) | Rohan Paul |
 | 10-22 03:45 | [GPT-5.6 Sol 与 Gemini 4 Argon 发现影响数百万网站的 PHP 关键漏洞](https://aiguanchao.com/items/82b1aa96dbdedda13f883ed1196fd0cc2d4ae70e) | The Decoder：AI News |
+| 10-22 03:45 | [OpenAI GPT-5.6 Sol 与 Google Gemini 4 Argon 发现影响数百万网站的关键 PHP 漏洞](https://aiguanchao.com/items/18653f01c18f98c19365f63689832a3d3d9f1662) | THE DECODER |
+| 10-22 03:42 | [Meta 因剑桥分析丑闻相关案件被判赔偿 250 亿美元](https://aiguanchao.com/items/40f61c2a32b368a886295ca47e88d71629d52a66) | TechCrunch |
 | 10-22 02:01 | [Meta 因用户数据隐私“谎言”被罚 250 亿美元](https://aiguanchao.com/items/107fd7714375253985d0ee59a96cd3e0e634522f) | BBC World |
 | 10-22 01:40 | [研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞](https://aiguanchao.com/items/6cb0ec3b32030a59f6d58ce84d1768855c9141aa) | Rohan Paul |
 | 10-22 01:25 | [Google DeepMind 论文发现 RL 会放大模型被观察与未被观察时守规行为的差距](https://aiguanchao.com/items/60f0183d920a78b21fd744f81782a72aeb9dadf8) | Rohan Paul |
 | 10-22 01:07 | [AI 助力揭露安全漏洞，全球网站大规模下线](https://aiguanchao.com/items/cbdd3e105c4b825aaf6a6c462e9ed3af20496589) | Le Monde.fr - Actualités et Infos en France et dans le monde |
 | 10-22 00:00 | [微软研究员借助人类引导的 AI 攻克悬置 31 年的 KLS 数学猜想](https://aiguanchao.com/items/9452133f5a13b105755ebdd6aa8adfe81105fe89) | Source |
+| 10-21 23:26 | [广泛存在的 PHP 漏洞或导致大量网站今天宕机](https://aiguanchao.com/items/ec47f088996a7a599414c97e56d17115eb524e81) | Krebs on Security |
 | 10-21 23:10 | [普京松口 同意重启俄美乌三方和谈](https://aiguanchao.com/items/56f02149beac6dc418b18ba3b33b7914f008bb5a) | 德国之声中文 |
 | 10-21 19:50 | [泽连斯基为何对特朗普展开回击？](https://aiguanchao.com/items/0659bf83dea4be3f85470f4ae53799884c5ae234) | 纽约时报中文网 |
-| 10-21 18:55 | [读者问答：骚乱周末之后，法国下一步走向何方？](https://aiguanchao.com/items/a347a73fcb2e119cf1a68dabad0592d8ade9fa8c) | 卫报 World |
-| 10-21 10:57 | [DeepSeek 开源推理框架 DeepInfer 并发布技术报告，公开大规模部署细节](https://aiguanchao.com/items/b99f44813eb5967e9b602bc31b761ef077f2c392) | 邵猛 |
-| 10-21 08:35 | [PHP 8.5.12、8.4.27、8.3.36 与 8.2.35 发布](https://aiguanchao.com/items/b1576a3fcf6d60bee6b0a2b9dacb83d805304c36) | Hacker News 前页 (RSS) |
-| 10-21 08:00 | [PyPI 上的 LiteLLM 1.107.0 被植入凭据窃取器与后门](https://aiguanchao.com/items/93d63a00e7e75666d6d4c290b9c5dfd3d7058b2a) | Hacker News 前页 (RSS) |
-| 10-21 05:25 | [Anthropic 的云合作伙伴关系正变得混乱](https://aiguanchao.com/items/dd9302c6e245a355cd03227ef6efb06237bab3a6) | TechCrunch |
-| 10-21 03:47 | [8 张私钥严重失陷的 TLS 证书曝光，全球互联网进入高度戒备](https://aiguanchao.com/items/99f60b7e4d40ac3d7831da950a599abd46a01e4b) | Ars Technica |
-| 10-21 01:34 | [Gergely Orosz 调研 27 家公司软件工程师的 AI 支出与 ROI](https://aiguanchao.com/items/564f2fc80e1c4b960c2eae129aa35da1bffb1777) | Pragmatic Engineer |
-| 10-21 00:00 | [中办国办关于推动科技创新和产业创新深度融合的意见](https://aiguanchao.com/items/25727d1bbc1dc59e2f62efa3e1324409b12021f5) | 中国政府网 最新政策 |
-| 10-20 22:24 | [苏丹军方无人机袭击送葬人群与燃油市场，致超过200人死亡](https://aiguanchao.com/items/f3d21ebf6453d6d7a0619b387bef775a1238e69e) | BBC World |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
