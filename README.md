@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-22 19:57(北京时间)
+最后更新:2026-10-23 01:13(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -26,9 +26,13 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-22 23:25 | [PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应](https://aiguanchao.com/items/e651d519b8700e55000553d08565e0357e520f4b) | Ars Technica：AI |
+| 10-22 22:56 | [What's Getting Pwned：实时安全事件追踪站点](https://aiguanchao.com/items/7facbd0674fc05befab34ee94686b682e20c5399) | Hacker News 前页 (RSS) |
+| 10-22 22:08 | [抗议、暴力、宵禁：年轻人的抗议浪潮为何席卷全欧](https://aiguanchao.com/items/6176ffa1e2b3a96206c243606215464c2eb17398) | 德国之声中文 |
+| 10-22 21:01 | [你的第一个 MCP 服务器](https://aiguanchao.com/items/bc3a8c42ce1b8cff3443a58a5a9b89a1ead25cc6) | Towards AI |
+| 10-22 20:41 | [袭击威胁全球供应，油价飙升至五个月新高](https://aiguanchao.com/items/8665502b5fa0d9fd50886210d9325bb87101e2b3) | 卫报 World |
 | 10-22 17:27 | [以色列大选如何运作？主要竞争者有哪些？](https://aiguanchao.com/items/f8952c7388f991d16826791531c01c244f9a19ad) | BBC World |
 | 10-22 16:48 | [Codex 桌面版的崩溃转储会悄悄吃掉几十上百 GB，查一下你的 Mac](https://aiguanchao.com/items/5bb4f4dd0f91f8dcc6e22f4074c70ae85f1b95cd) | V2EX |
-| 10-22 12:38 | [全球网络安全警报发布后，英国着手排查潜在暴露风险](https://aiguanchao.com/items/d7e64be12cec6b669d77db7f2559caccccbbe4ec) | BBC Technology |
 | 10-22 11:09 | [刚刚，马斯克自曝：特斯拉与SpaceX或将合并！3.5万亿美元世纪大合体来了](https://aiguanchao.com/items/73587a30bffe55945cd6c1ac771ec95008084e7c) | 新智元 |
 | 10-22 10:42 | [Cloudflare AI 代码审查成本降 68%：从提示词缓存到模型选型的优化拆解](https://aiguanchao.com/items/c22f0be73bf80b4a4b55903a85fbd9edcf0ab055) | 邵猛 |
 | 10-22 10:17 | [DeepSeek 融资 150 亿美元，向美国领先 AI 实验室发起挑战](https://aiguanchao.com/items/047e078d160b231e76a2a74e890430c3f01fc53c) | Bloomberg Technology |
@@ -42,10 +46,6 @@
 | 10-21 21:38 | [PHP2Shell 漏洞演示可对 WordPress、Drupal、Joomla 实现预认证远程代码执行](https://aiguanchao.com/items/feb03a55d22198c48a47d7b85ebbc6b25da7429b) | @sagitz_ |
 | 10-21 19:50 | [泽连斯基为何对特朗普展开回击？](https://aiguanchao.com/items/0659bf83dea4be3f85470f4ae53799884c5ae234) | 纽约时报中文网 |
 | 10-21 18:55 | [读者问答：骚乱周末之后，法国下一步走向何方？](https://aiguanchao.com/items/a347a73fcb2e119cf1a68dabad0592d8ade9fa8c) | 卫报 World |
-| 10-21 08:35 | [PHP 8.5.12、8.4.27、8.3.36 与 8.2.35 发布](https://aiguanchao.com/items/b1576a3fcf6d60bee6b0a2b9dacb83d805304c36) | Hacker News 前页 (RSS) |
-| 10-21 08:00 | [PyPI 上的 LiteLLM 1.107.0 被植入凭据窃取器与后门](https://aiguanchao.com/items/93d63a00e7e75666d6d4c290b9c5dfd3d7058b2a) | Hacker News 前页 (RSS) |
-| 10-21 05:25 | [Anthropic 的云合作伙伴关系正变得混乱](https://aiguanchao.com/items/dd9302c6e245a355cd03227ef6efb06237bab3a6) | TechCrunch |
-| 10-21 03:47 | [8 张私钥严重失陷的 TLS 证书曝光，全球互联网进入高度戒备](https://aiguanchao.com/items/99f60b7e4d40ac3d7831da950a599abd46a01e4b) | Ars Technica |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
