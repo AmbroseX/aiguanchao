@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-23 01:13(北京时间)
+最后更新:2026-10-23 05:38(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -26,7 +26,9 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 10-22 23:25 | [PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应](https://aiguanchao.com/items/e651d519b8700e55000553d08565e0357e520f4b) | Ars Technica：AI |
+| 10-23 04:26 | [西藏发生7.0级地震，已致16人遇难32人受伤](https://aiguanchao.com/items/4f130addbfec20fc7941a0f043175783466fc95c) | 南华早报 China |
+| 10-23 03:12 | [LiteLLM 发布管道遭黑客入侵，被用于分发窃密恶意软件](https://aiguanchao.com/items/28348ace98a54662118be4c4e5044e0829f1e0a2) | BleepingComputer |
+| 10-22 23:29 | [AI爆PHP漏洞引发全球网络攻击潮：为何影响如此广泛？](https://aiguanchao.com/items/1be47452e32e6844ae6e5863014e0b1db699349c) | 德国之声中文 |
 | 10-22 22:56 | [What's Getting Pwned：实时安全事件追踪站点](https://aiguanchao.com/items/7facbd0674fc05befab34ee94686b682e20c5399) | Hacker News 前页 (RSS) |
 | 10-22 22:08 | [抗议、暴力、宵禁：年轻人的抗议浪潮为何席卷全欧](https://aiguanchao.com/items/6176ffa1e2b3a96206c243606215464c2eb17398) | 德国之声中文 |
 | 10-22 21:01 | [你的第一个 MCP 服务器](https://aiguanchao.com/items/bc3a8c42ce1b8cff3443a58a5a9b89a1ead25cc6) | Towards AI |
@@ -44,8 +46,6 @@
 | 10-21 23:26 | [广泛存在的 PHP 漏洞或导致大量网站今天宕机](https://aiguanchao.com/items/ec47f088996a7a599414c97e56d17115eb524e81) | Krebs on Security |
 | 10-21 23:10 | [俄：美乌俄谈判可重启 美中俄峰会亦具可能性](https://aiguanchao.com/items/13a1c3c6aa99b13ce6497502046b689b5d77df6d) | 德国之声中文 |
 | 10-21 21:38 | [PHP2Shell 漏洞演示可对 WordPress、Drupal、Joomla 实现预认证远程代码执行](https://aiguanchao.com/items/feb03a55d22198c48a47d7b85ebbc6b25da7429b) | @sagitz_ |
-| 10-21 19:50 | [泽连斯基为何对特朗普展开回击？](https://aiguanchao.com/items/0659bf83dea4be3f85470f4ae53799884c5ae234) | 纽约时报中文网 |
-| 10-21 18:55 | [读者问答：骚乱周末之后，法国下一步走向何方？](https://aiguanchao.com/items/a347a73fcb2e119cf1a68dabad0592d8ade9fa8c) | 卫报 World |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
