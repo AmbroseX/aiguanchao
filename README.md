@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-23 19:42(北京时间)
+最后更新:2026-10-24 01:11(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -26,6 +26,9 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-23 22:21 | [Anthropic 复盘 Claude Mythos 5 在 UK AISI 网络测试中用马甲账号为恶意代码背书](https://aiguanchao.com/items/3bf3ce0d507334071ffe286c42fddf35385c091a) | Rohan Paul |
+| 10-23 22:12 | [西藏7级强震至少16人遇难 习近平提到“重大伤亡”呼吁全力救援](https://aiguanchao.com/items/62646429705a1594c645aa69791f6e6d3f364bfa) | 法广中文 |
+| 10-23 20:40 | [西藏那曲发生7.0级地震，十余人死亡](https://aiguanchao.com/items/22da1fcde7a2f2bccf3a002405a82a3b432e6170) | 纽约时报中文网 |
 | 10-23 17:03 | [法国正释放欧元危机信号，但这次的断层线有所不同](https://aiguanchao.com/items/7cab98cc9dd8c10ee6c41a07831859431cf9ebd2) | CNBC World |
 | 10-23 17:02 | [伊朗称已做好战争准备，美国原油价格站上100美元，布伦特原油创五个月新高](https://aiguanchao.com/items/daaa923e475e6d4c5c7188f6bd2bd772def076d5) | CNBC World |
 | 10-23 17:01 | [国务院办公厅：减缓人工智能应用就业替代影响，建立人工智能应用就业风险评估机制](https://aiguanchao.com/items/48a5db0c87d2365f01f5a72884c00b5f33a343fc) | 华尔街见闻 快讯 |
@@ -35,6 +38,7 @@
 | 10-23 10:24 | [DeepSeek、MiniMax完成开源和海外授权，AI技术出口登记路径走通](https://aiguanchao.com/items/d1dbf3fde6ccbc394c90eceafb543fbb9ece2489) | 驱动中国 |
 | 10-23 04:01 | [Arc 浏览器将于 12 月 22 日停止服务，The Browser Company 全面转向 Dia](https://aiguanchao.com/items/511096e98f4e1c3f7d25aa018c9cd6949bc69d3e) | TechCrunch |
 | 10-23 00:00 | [巴西总统决选：卢拉的政治遗产对决博索纳罗家族王朝](https://aiguanchao.com/items/b36683409875914c9751b21023ad50b307a49b6c) | NPR World |
+| 10-23 00:00 | [《国家信息化“十五五”规划》印发](https://aiguanchao.com/items/e90ea75aa0b3c16fc8e54a6ece68c699d028fa79) | 中国政府网 要闻 |
 | 10-23 00:00 | [习近平对西藏那曲市巴青县7.0级地震作出重要指示](https://aiguanchao.com/items/4149ba16f83e4c199cbd791611285bbaab681a37) | 中国政府网 要闻 |
 | 10-22 22:56 | [What's Getting Pwned：实时安全事件追踪站点](https://aiguanchao.com/items/7facbd0674fc05befab34ee94686b682e20c5399) | Hacker News 前页 (RSS) |
 | 10-22 22:08 | [抗议、暴力、宵禁：年轻人的抗议浪潮为何席卷全欧](https://aiguanchao.com/items/6176ffa1e2b3a96206c243606215464c2eb17398) | 德国之声中文 |
@@ -42,10 +46,6 @@
 | 10-22 20:41 | [袭击威胁全球供应，油价飙升至五个月新高](https://aiguanchao.com/items/8665502b5fa0d9fd50886210d9325bb87101e2b3) | 卫报 World |
 | 10-22 17:27 | [以色列大选如何运作？主要竞争者有哪些？](https://aiguanchao.com/items/f8952c7388f991d16826791531c01c244f9a19ad) | BBC World |
 | 10-22 16:48 | [Codex 桌面版的崩溃转储会悄悄吃掉几十上百 GB，查一下你的 Mac](https://aiguanchao.com/items/5bb4f4dd0f91f8dcc6e22f4074c70ae85f1b95cd) | V2EX |
-| 10-22 11:09 | [刚刚，马斯克自曝：特斯拉与SpaceX或将合并！3.5万亿美元世纪大合体来了](https://aiguanchao.com/items/73587a30bffe55945cd6c1ac771ec95008084e7c) | 新智元 |
-| 10-22 10:42 | [Cloudflare AI 代码审查成本降 68%：从提示词缓存到模型选型的优化拆解](https://aiguanchao.com/items/c22f0be73bf80b4a4b55903a85fbd9edcf0ab055) | 邵猛 |
-| 10-22 10:17 | [DeepSeek 融资 150 亿美元，向美国领先 AI 实验室发起挑战](https://aiguanchao.com/items/047e078d160b231e76a2a74e890430c3f01fc53c) | Bloomberg Technology |
-| 10-22 10:17 | [迈步“史上最大 IPO”，消息称 Anthropic 最快本周五公开提交上市申请](https://aiguanchao.com/items/d0afab8a8c5e42558a92e4c457c5acecd283140a) | IT之家 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
