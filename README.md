@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-23 05:38(北京时间)
+最后更新:2026-10-23 12:54(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -13,12 +13,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 23 日 早报](https://aiguanchao.com/daily/2026-10-23/morning)
 - [10 月 22 日 晚报](https://aiguanchao.com/daily/2026-10-22/evening)
 - [10 月 22 日 早报](https://aiguanchao.com/daily/2026-10-22/morning)
 - [10 月 21 日 晚报](https://aiguanchao.com/daily/2026-10-21/evening)
 - [10 月 21 日 早报](https://aiguanchao.com/daily/2026-10-21/morning)
 - [10 月 20 日 晚报](https://aiguanchao.com/daily/2026-10-20/evening)
-- [10 月 20 日 早报](https://aiguanchao.com/daily/2026-10-20/morning)
 <!-- daily:end -->
 
 ## 最新精选
@@ -26,9 +26,10 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 10-23 04:26 | [西藏发生7.0级地震，已致16人遇难32人受伤](https://aiguanchao.com/items/4f130addbfec20fc7941a0f043175783466fc95c) | 南华早报 China |
-| 10-23 03:12 | [LiteLLM 发布管道遭黑客入侵，被用于分发窃密恶意软件](https://aiguanchao.com/items/28348ace98a54662118be4c4e5044e0829f1e0a2) | BleepingComputer |
-| 10-22 23:29 | [AI爆PHP漏洞引发全球网络攻击潮：为何影响如此广泛？](https://aiguanchao.com/items/1be47452e32e6844ae6e5863014e0b1db699349c) | 德国之声中文 |
+| 10-23 11:09 | [半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复](https://aiguanchao.com/items/225ba9eda95a6132ab088d369dd47fa882ff4c72) | 新智元 |
+| 10-23 10:24 | [DeepSeek、MiniMax完成开源和海外授权，AI技术出口登记路径走通](https://aiguanchao.com/items/d1dbf3fde6ccbc394c90eceafb543fbb9ece2489) | 驱动中国 |
+| 10-23 04:01 | [Arc 浏览器将于 12 月 22 日停止服务，The Browser Company 全面转向 Dia](https://aiguanchao.com/items/511096e98f4e1c3f7d25aa018c9cd6949bc69d3e) | TechCrunch |
+| 10-23 00:00 | [习近平对西藏那曲市巴青县7.0级地震作出重要指示](https://aiguanchao.com/items/4149ba16f83e4c199cbd791611285bbaab681a37) | 中国政府网 要闻 |
 | 10-22 22:56 | [What's Getting Pwned：实时安全事件追踪站点](https://aiguanchao.com/items/7facbd0674fc05befab34ee94686b682e20c5399) | Hacker News 前页 (RSS) |
 | 10-22 22:08 | [抗议、暴力、宵禁：年轻人的抗议浪潮为何席卷全欧](https://aiguanchao.com/items/6176ffa1e2b3a96206c243606215464c2eb17398) | 德国之声中文 |
 | 10-22 21:01 | [你的第一个 MCP 服务器](https://aiguanchao.com/items/bc3a8c42ce1b8cff3443a58a5a9b89a1ead25cc6) | Towards AI |
@@ -43,9 +44,8 @@
 | 10-22 02:01 | [Meta 因用户数据隐私“谎言”被罚 250 亿美元](https://aiguanchao.com/items/107fd7714375253985d0ee59a96cd3e0e634522f) | BBC World |
 | 10-22 01:25 | [Google DeepMind 论文发现 RL 会放大模型被观察与未被观察时守规行为的差距](https://aiguanchao.com/items/60f0183d920a78b21fd744f81782a72aeb9dadf8) | Rohan Paul |
 | 10-22 00:00 | [微软研究员借助人类引导的 AI 攻克悬置 31 年的 KLS 数学猜想](https://aiguanchao.com/items/9452133f5a13b105755ebdd6aa8adfe81105fe89) | Source |
+| 10-22 00:00 | [Anthropic 用 Claude 对 123 个开源库完成汇编级形式化安全证明](https://aiguanchao.com/items/9bcd937764285d46a6258ace8c82c4a718871584) | Anthropic：Research |
 | 10-21 23:26 | [广泛存在的 PHP 漏洞或导致大量网站今天宕机](https://aiguanchao.com/items/ec47f088996a7a599414c97e56d17115eb524e81) | Krebs on Security |
-| 10-21 23:10 | [俄：美乌俄谈判可重启 美中俄峰会亦具可能性](https://aiguanchao.com/items/13a1c3c6aa99b13ce6497502046b689b5d77df6d) | 德国之声中文 |
-| 10-21 21:38 | [PHP2Shell 漏洞演示可对 WordPress、Drupal、Joomla 实现预认证远程代码执行](https://aiguanchao.com/items/feb03a55d22198c48a47d7b85ebbc6b25da7429b) | @sagitz_ |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
