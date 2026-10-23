@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-23 12:54(北京时间)
+最后更新:2026-10-23 19:42(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -13,12 +13,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 23 日 晚报](https://aiguanchao.com/daily/2026-10-23/evening)
 - [10 月 23 日 早报](https://aiguanchao.com/daily/2026-10-23/morning)
 - [10 月 22 日 晚报](https://aiguanchao.com/daily/2026-10-22/evening)
 - [10 月 22 日 早报](https://aiguanchao.com/daily/2026-10-22/morning)
 - [10 月 21 日 晚报](https://aiguanchao.com/daily/2026-10-21/evening)
 - [10 月 21 日 早报](https://aiguanchao.com/daily/2026-10-21/morning)
-- [10 月 20 日 晚报](https://aiguanchao.com/daily/2026-10-20/evening)
 <!-- daily:end -->
 
 ## 最新精选
@@ -26,9 +26,15 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-23 17:03 | [法国正释放欧元危机信号，但这次的断层线有所不同](https://aiguanchao.com/items/7cab98cc9dd8c10ee6c41a07831859431cf9ebd2) | CNBC World |
+| 10-23 17:02 | [伊朗称已做好战争准备，美国原油价格站上100美元，布伦特原油创五个月新高](https://aiguanchao.com/items/daaa923e475e6d4c5c7188f6bd2bd772def076d5) | CNBC World |
+| 10-23 17:01 | [国务院办公厅：减缓人工智能应用就业替代影响，建立人工智能应用就业风险评估机制](https://aiguanchao.com/items/48a5db0c87d2365f01f5a72884c00b5f33a343fc) | 华尔街见闻 快讯 |
+| 10-23 15:34 | [微软报告：中国背景组织发动大规模 AI 代理攻击](https://aiguanchao.com/items/ff00066126087cdd14da8f1d16301f6a742a6839) | Impress Watch |
+| 10-23 12:36 | [西藏那曲發生淺層強震 習近平下令全力救災](https://aiguanchao.com/items/5e416e6b6a7a9bbcaf78be6c4595fd6009d61088) | 德国之声中文 |
 | 10-23 11:09 | [半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复](https://aiguanchao.com/items/225ba9eda95a6132ab088d369dd47fa882ff4c72) | 新智元 |
 | 10-23 10:24 | [DeepSeek、MiniMax完成开源和海外授权，AI技术出口登记路径走通](https://aiguanchao.com/items/d1dbf3fde6ccbc394c90eceafb543fbb9ece2489) | 驱动中国 |
 | 10-23 04:01 | [Arc 浏览器将于 12 月 22 日停止服务，The Browser Company 全面转向 Dia](https://aiguanchao.com/items/511096e98f4e1c3f7d25aa018c9cd6949bc69d3e) | TechCrunch |
+| 10-23 00:00 | [巴西总统决选：卢拉的政治遗产对决博索纳罗家族王朝](https://aiguanchao.com/items/b36683409875914c9751b21023ad50b307a49b6c) | NPR World |
 | 10-23 00:00 | [习近平对西藏那曲市巴青县7.0级地震作出重要指示](https://aiguanchao.com/items/4149ba16f83e4c199cbd791611285bbaab681a37) | 中国政府网 要闻 |
 | 10-22 22:56 | [What's Getting Pwned：实时安全事件追踪站点](https://aiguanchao.com/items/7facbd0674fc05befab34ee94686b682e20c5399) | Hacker News 前页 (RSS) |
 | 10-22 22:08 | [抗议、暴力、宵禁：年轻人的抗议浪潮为何席卷全欧](https://aiguanchao.com/items/6176ffa1e2b3a96206c243606215464c2eb17398) | 德国之声中文 |
@@ -40,12 +46,6 @@
 | 10-22 10:42 | [Cloudflare AI 代码审查成本降 68%：从提示词缓存到模型选型的优化拆解](https://aiguanchao.com/items/c22f0be73bf80b4a4b55903a85fbd9edcf0ab055) | 邵猛 |
 | 10-22 10:17 | [DeepSeek 融资 150 亿美元，向美国领先 AI 实验室发起挑战](https://aiguanchao.com/items/047e078d160b231e76a2a74e890430c3f01fc53c) | Bloomberg Technology |
 | 10-22 10:17 | [迈步“史上最大 IPO”，消息称 Anthropic 最快本周五公开提交上市申请](https://aiguanchao.com/items/d0afab8a8c5e42558a92e4c457c5acecd283140a) | IT之家 |
-| 10-22 03:48 | [黑客组织 CyberCartel 串联四款 AI 模型攻击 400 多家拉美金融机构](https://aiguanchao.com/items/f25bff4cdf08a40a92c28335e71627b8c0ca066d) | Rohan Paul |
-| 10-22 02:01 | [Meta 因用户数据隐私“谎言”被罚 250 亿美元](https://aiguanchao.com/items/107fd7714375253985d0ee59a96cd3e0e634522f) | BBC World |
-| 10-22 01:25 | [Google DeepMind 论文发现 RL 会放大模型被观察与未被观察时守规行为的差距](https://aiguanchao.com/items/60f0183d920a78b21fd744f81782a72aeb9dadf8) | Rohan Paul |
-| 10-22 00:00 | [微软研究员借助人类引导的 AI 攻克悬置 31 年的 KLS 数学猜想](https://aiguanchao.com/items/9452133f5a13b105755ebdd6aa8adfe81105fe89) | Source |
-| 10-22 00:00 | [Anthropic 用 Claude 对 123 个开源库完成汇编级形式化安全证明](https://aiguanchao.com/items/9bcd937764285d46a6258ace8c82c4a718871584) | Anthropic：Research |
-| 10-21 23:26 | [广泛存在的 PHP 漏洞或导致大量网站今天宕机](https://aiguanchao.com/items/ec47f088996a7a599414c97e56d17115eb524e81) | Krebs on Security |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
