@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-24 12:40(北京时间)
+最后更新:2026-10-24 19:05(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -13,12 +13,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 24 日 晚报](https://aiguanchao.com/daily/2026-10-24/evening)
 - [10 月 24 日 早报](https://aiguanchao.com/daily/2026-10-24/morning)
 - [10 月 23 日 晚报](https://aiguanchao.com/daily/2026-10-23/evening)
 - [10 月 23 日 早报](https://aiguanchao.com/daily/2026-10-23/morning)
 - [10 月 22 日 晚报](https://aiguanchao.com/daily/2026-10-22/evening)
 - [10 月 22 日 早报](https://aiguanchao.com/daily/2026-10-22/morning)
-- [10 月 21 日 晚报](https://aiguanchao.com/daily/2026-10-21/evening)
 <!-- daily:end -->
 
 ## 最新精选
@@ -26,8 +26,10 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-24 13:46 | [法国将于周六部署7万名警察以防止社会骚乱](https://aiguanchao.com/items/90e7e958fb140efebb91c7d3a5d549d55f311a30) | 卫报 World |
 | 10-24 11:19 | [别再嵌套 try/finally 做清理了，JavaScript 已支持 using 声明](https://aiguanchao.com/items/11cff77c336c07dac135802814523cf654df9e11) | DEV Community |
 | 10-24 05:01 | [我的编程智能体通过了所有测试，代码却是错的](https://aiguanchao.com/items/282e955eb8d6ae124161f5acb813f20752f0fb9e) | Towards AI |
+| 10-24 04:20 | [美国政府下令立即移除所有 DeepSeek 产品及使用 DeepSeek 开发的第三方服务](https://aiguanchao.com/items/fa623337b4e6a4ef46d49dab18374324fb9183bf) | Latest from TechRadar |
 | 10-24 04:19 | [Google 更新隐私政策：Gmail 数据或将被用于广告](https://aiguanchao.com/items/5637e1833ae396a5d6d2233beeef8732d490966c) | Ars Technica |
 | 10-24 03:46 | [OpenAI 说明前沿模型训练环境安全加固与离线隔离机制](https://aiguanchao.com/items/9aec386a922d406b7573aef72257c407cecd6d51) | OpenAI |
 | 10-24 03:19 | [卡塔尔采购美国天然气协议显示伊朗战争如何重塑全球能源市场](https://aiguanchao.com/items/149b145d292cc030c5ad9e8eac3b04a8dc6c8049) | CNBC World |
@@ -37,15 +39,13 @@
 | 10-23 17:03 | [法国正释放欧元危机信号，但这次的断层线有所不同](https://aiguanchao.com/items/7cab98cc9dd8c10ee6c41a07831859431cf9ebd2) | CNBC World |
 | 10-23 17:02 | [伊朗称已做好战争准备，美国原油价格站上100美元，布伦特原油创五个月新高](https://aiguanchao.com/items/daaa923e475e6d4c5c7188f6bd2bd772def076d5) | CNBC World |
 | 10-23 17:01 | [国务院办公厅：减缓人工智能应用就业替代影响，建立人工智能应用就业风险评估机制](https://aiguanchao.com/items/48a5db0c87d2365f01f5a72884c00b5f33a343fc) | 华尔街见闻 快讯 |
+| 10-23 16:00 | [PHP2Shell 漏洞指南:QNAP、Nextcloud 和 OPNsense 用户需要检查什么](https://aiguanchao.com/items/2e8ebf31f35711e350baed8b72e01b5d791a1704) | Notebookcheck.net: News RSS Feed |
 | 10-23 15:34 | [微软报告：中国背景组织发动大规模 AI 代理攻击](https://aiguanchao.com/items/ff00066126087cdd14da8f1d16301f6a742a6839) | Impress Watch |
 | 10-23 11:09 | [半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复](https://aiguanchao.com/items/225ba9eda95a6132ab088d369dd47fa882ff4c72) | 新智元 |
 | 10-23 10:24 | [DeepSeek、MiniMax完成开源和海外授权，AI技术出口登记路径走通](https://aiguanchao.com/items/d1dbf3fde6ccbc394c90eceafb543fbb9ece2489) | 驱动中国 |
 | 10-23 04:01 | [Arc 浏览器将于 12 月 22 日停止服务，The Browser Company 全面转向 Dia](https://aiguanchao.com/items/511096e98f4e1c3f7d25aa018c9cd6949bc69d3e) | TechCrunch |
-| 10-23 00:00 | [《国家信息化“十五五”规划》印发](https://aiguanchao.com/items/e90ea75aa0b3c16fc8e54a6ece68c699d028fa79) | 中国政府网 要闻 |
 | 10-23 00:00 | [【视频】习近平对西藏那曲市巴青县7.0级地震作出重要指示强调 全力开展人员搜救 妥善安置受灾群众 切实保障人民群众生命财产安全 李强作出批示](https://aiguanchao.com/items/078d7e120115dfa1775aa632c4294649480a6546) | 中国政府网 要闻 |
 | 10-23 00:00 | [巴西总统决选：卢拉的政治遗产对决博索纳罗家族王朝](https://aiguanchao.com/items/b36683409875914c9751b21023ad50b307a49b6c) | NPR World |
-| 10-22 22:56 | [What's Getting Pwned：实时安全事件追踪站点](https://aiguanchao.com/items/7facbd0674fc05befab34ee94686b682e20c5399) | Hacker News 前页 (RSS) |
-| 10-22 22:08 | [抗议、暴力、宵禁：年轻人的抗议浪潮为何席卷全欧](https://aiguanchao.com/items/6176ffa1e2b3a96206c243606215464c2eb17398) | 德国之声中文 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
