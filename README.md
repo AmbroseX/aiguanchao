@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-24 19:05(北京时间)
+最后更新:2026-10-24 23:59(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -26,6 +26,7 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-24 16:06 | [Node2Shell 演变为 HTTP2Shell，Brotli 漏洞 CVE-2026-111497 波及大量 HTTP 库与应用](https://aiguanchao.com/items/08645416b822f84b0f5887067352829298f8a7e1) | Hacker News 前页 (RSS) |
 | 10-24 13:46 | [法国将于周六部署7万名警察以防止社会骚乱](https://aiguanchao.com/items/90e7e958fb140efebb91c7d3a5d549d55f311a30) | 卫报 World |
 | 10-24 11:19 | [别再嵌套 try/finally 做清理了，JavaScript 已支持 using 声明](https://aiguanchao.com/items/11cff77c336c07dac135802814523cf654df9e11) | DEV Community |
 | 10-24 05:01 | [我的编程智能体通过了所有测试，代码却是错的](https://aiguanchao.com/items/282e955eb8d6ae124161f5acb813f20752f0fb9e) | Towards AI |
@@ -44,7 +45,6 @@
 | 10-23 11:09 | [半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复](https://aiguanchao.com/items/225ba9eda95a6132ab088d369dd47fa882ff4c72) | 新智元 |
 | 10-23 10:24 | [DeepSeek、MiniMax完成开源和海外授权，AI技术出口登记路径走通](https://aiguanchao.com/items/d1dbf3fde6ccbc394c90eceafb543fbb9ece2489) | 驱动中国 |
 | 10-23 04:01 | [Arc 浏览器将于 12 月 22 日停止服务，The Browser Company 全面转向 Dia](https://aiguanchao.com/items/511096e98f4e1c3f7d25aa018c9cd6949bc69d3e) | TechCrunch |
-| 10-23 00:00 | [【视频】习近平对西藏那曲市巴青县7.0级地震作出重要指示强调 全力开展人员搜救 妥善安置受灾群众 切实保障人民群众生命财产安全 李强作出批示](https://aiguanchao.com/items/078d7e120115dfa1775aa632c4294649480a6546) | 中国政府网 要闻 |
 | 10-23 00:00 | [巴西总统决选：卢拉的政治遗产对决博索纳罗家族王朝](https://aiguanchao.com/items/b36683409875914c9751b21023ad50b307a49b6c) | NPR World |
 <!-- picks:end -->
 
