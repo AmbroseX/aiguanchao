@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-25 20:13(北京时间)
+最后更新:2026-10-26 04:53(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,6 +38,7 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-25 23:11 | [PHP2Shell 漏洞致数百万服务器运行无官方修复的 PHP 版本](https://aiguanchao.com/items/7a31368c3c251c252814d62a99e0e6493bc42c92) | Notebookcheck.net: News RSS Feed |
 | 10-24 16:06 | [Node2Shell 演变为 HTTP2Shell，Brotli 漏洞 CVE-2026-111497 波及大量 HTTP 库与应用](https://aiguanchao.com/items/08645416b822f84b0f5887067352829298f8a7e1) | Hacker News 前页 (RSS) |
 | 10-24 11:19 | [别再嵌套 try/finally 做清理了，JavaScript 已支持 using 声明](https://aiguanchao.com/items/11cff77c336c07dac135802814523cf654df9e11) | DEV Community |
 | 10-24 05:01 | [我的编程智能体通过了所有测试，代码却是错的](https://aiguanchao.com/items/282e955eb8d6ae124161f5acb813f20752f0fb9e) | Towards AI |
@@ -57,7 +58,6 @@
 | 10-22 16:48 | [Codex 桌面版的崩溃转储会悄悄吃掉几十上百 GB，查一下你的 Mac](https://aiguanchao.com/items/5bb4f4dd0f91f8dcc6e22f4074c70ae85f1b95cd) | V2EX |
 | 10-22 11:09 | [刚刚，马斯克自曝：特斯拉与SpaceX或将合并！3.5万亿美元世纪大合体来了](https://aiguanchao.com/items/73587a30bffe55945cd6c1ac771ec95008084e7c) | 新智元 |
 | 10-22 10:42 | [Cloudflare AI 代码审查成本降 68%：从提示词缓存到模型选型的优化拆解](https://aiguanchao.com/items/c22f0be73bf80b4a4b55903a85fbd9edcf0ab055) | 邵猛 |
-| 10-22 10:17 | [DeepSeek 融资 150 亿美元，向美国领先 AI 实验室发起挑战](https://aiguanchao.com/items/047e078d160b231e76a2a74e890430c3f01fc53c) | Bloomberg Technology |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
