@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-24 23:59(北京时间)
+最后更新:2026-10-25 19:35(北京时间)
 <!-- updated:end -->
 
 ## 最新 AI 日报
@@ -13,12 +13,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 25 日 晚报](https://aiguanchao.com/daily/2026-10-25/evening)
 - [10 月 24 日 晚报](https://aiguanchao.com/daily/2026-10-24/evening)
 - [10 月 24 日 早报](https://aiguanchao.com/daily/2026-10-24/morning)
 - [10 月 23 日 晚报](https://aiguanchao.com/daily/2026-10-23/evening)
 - [10 月 23 日 早报](https://aiguanchao.com/daily/2026-10-23/morning)
 - [10 月 22 日 晚报](https://aiguanchao.com/daily/2026-10-22/evening)
-- [10 月 22 日 早报](https://aiguanchao.com/daily/2026-10-22/morning)
 <!-- daily:end -->
 
 ## 最新精选
@@ -26,6 +26,8 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-25 16:02 | [巴西总统选举第二轮投票：左翼卢拉对决极右翼博索纳罗之子](https://aiguanchao.com/items/3a49dc731f93aabf669b5760959d4923865ae1e1) | 卫报 World |
+| 10-24 18:33 | [金正恩经新鸭绿江大桥抵达中国 王沪宁陪同访问丹东](https://aiguanchao.com/items/24531657cf766545fa6de188cbe0182a456f8e99) | 德国之声中文 |
 | 10-24 16:06 | [Node2Shell 演变为 HTTP2Shell，Brotli 漏洞 CVE-2026-111497 波及大量 HTTP 库与应用](https://aiguanchao.com/items/08645416b822f84b0f5887067352829298f8a7e1) | Hacker News 前页 (RSS) |
 | 10-24 13:46 | [法国将于周六部署7万名警察以防止社会骚乱](https://aiguanchao.com/items/90e7e958fb140efebb91c7d3a5d549d55f311a30) | 卫报 World |
 | 10-24 11:19 | [别再嵌套 try/finally 做清理了，JavaScript 已支持 using 声明](https://aiguanchao.com/items/11cff77c336c07dac135802814523cf654df9e11) | DEV Community |
@@ -35,6 +37,7 @@
 | 10-24 03:46 | [OpenAI 说明前沿模型训练环境安全加固与离线隔离机制](https://aiguanchao.com/items/9aec386a922d406b7573aef72257c407cecd6d51) | OpenAI |
 | 10-24 03:19 | [卡塔尔采购美国天然气协议显示伊朗战争如何重塑全球能源市场](https://aiguanchao.com/items/149b145d292cc030c5ad9e8eac3b04a8dc6c8049) | CNBC World |
 | 10-24 01:15 | [月之暗面发布 Kimi K3.1 Pro：3T 级开放权重多模态模型](https://aiguanchao.com/items/21fde02cae129ab275e2463434ecb1aea1ccade7) | Kimi.ai |
+| 10-24 00:00 | [AI 发现漏洞，黑客趁机利用：拯救“PHP2SHELL”的竞赛](https://aiguanchao.com/items/351b39f9d69d07902ea52b833f8476328eba7cbf) | NPR Technology |
 | 10-23 22:21 | [Anthropic 复盘 Claude Mythos 5 在 UK AISI 网络测试中用马甲账号为恶意代码背书](https://aiguanchao.com/items/3bf3ce0d507334071ffe286c42fddf35385c091a) | Rohan Paul |
 | 10-23 20:40 | [西藏那曲发生7.0级地震，十余人死亡](https://aiguanchao.com/items/22da1fcde7a2f2bccf3a002405a82a3b432e6170) | 纽约时报中文网 |
 | 10-23 17:03 | [法国正释放欧元危机信号，但这次的断层线有所不同](https://aiguanchao.com/items/7cab98cc9dd8c10ee6c41a07831859431cf9ebd2) | CNBC World |
@@ -43,9 +46,6 @@
 | 10-23 16:00 | [PHP2Shell 漏洞指南:QNAP、Nextcloud 和 OPNsense 用户需要检查什么](https://aiguanchao.com/items/2e8ebf31f35711e350baed8b72e01b5d791a1704) | Notebookcheck.net: News RSS Feed |
 | 10-23 15:34 | [微软报告：中国背景组织发动大规模 AI 代理攻击](https://aiguanchao.com/items/ff00066126087cdd14da8f1d16301f6a742a6839) | Impress Watch |
 | 10-23 11:09 | [半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复](https://aiguanchao.com/items/225ba9eda95a6132ab088d369dd47fa882ff4c72) | 新智元 |
-| 10-23 10:24 | [DeepSeek、MiniMax完成开源和海外授权，AI技术出口登记路径走通](https://aiguanchao.com/items/d1dbf3fde6ccbc394c90eceafb543fbb9ece2489) | 驱动中国 |
-| 10-23 04:01 | [Arc 浏览器将于 12 月 22 日停止服务，The Browser Company 全面转向 Dia](https://aiguanchao.com/items/511096e98f4e1c3f7d25aa018c9cd6949bc69d3e) | TechCrunch |
-| 10-23 00:00 | [巴西总统决选：卢拉的政治遗产对决博索纳罗家族王朝](https://aiguanchao.com/items/b36683409875914c9751b21023ad50b307a49b6c) | NPR World |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
