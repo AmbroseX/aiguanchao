@@ -1,4 +1,4 @@
-"""从 aiguanchao.com 的 RSS 取最新日报和精选,写进 README.md 两对标记之间。
+"""从 aiguanchao.com 的 RSS 取最新日报和 AI 类精选,写进 README.md 两对标记之间。
 
 只用标准库,GitHub Actions 定时跑(见 .github/workflows/update.yml)。
 取不到某个 RSS 时保留 README 里原来的那段,不清空。
@@ -40,10 +40,15 @@ def daily_block(n=6):
     return "\n".join(lines)
 
 
+# 只留 AI 和科技类:带这几个分类之一的才进(纯时政、社会、经济的不进,和"AI 观潮"对不上)
+AI_CATEGORIES = {"模型", "产品", "技巧", "论文", "行业"}
+
+
 def picks_block(n=20):
     # 精选 RSS 的 guid 就是本站单条页编号,链接指向本站总结页
     rows = ["| 时间(北京) | 新闻 | 来源 |", "|---|---|---|"]
-    for it in fetch_items("/feed/featured.xml")[:n]:
+    items = [it for it in fetch_items("/feed/featured.xml") if AI_CATEGORIES & {c.text for c in it.findall("category")}]
+    for it in items[:n]:
         t = bj_time(it)
         when = t.strftime("%m-%d %H:%M") if t else ""
         url = f"{SITE}/items/{it.findtext('guid')}"
