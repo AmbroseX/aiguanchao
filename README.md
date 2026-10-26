@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-26 04:53(北京时间)
+最后更新:2026-10-26 12:51(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 26 日 早报](https://aiguanchao.com/daily/2026-10-26/morning)
 - [10 月 25 日 晚报](https://aiguanchao.com/daily/2026-10-25/evening)
 - [10 月 24 日 晚报](https://aiguanchao.com/daily/2026-10-24/evening)
 - [10 月 24 日 早报](https://aiguanchao.com/daily/2026-10-24/morning)
 - [10 月 23 日 晚报](https://aiguanchao.com/daily/2026-10-23/evening)
 - [10 月 23 日 早报](https://aiguanchao.com/daily/2026-10-23/morning)
-- [10 月 22 日 晚报](https://aiguanchao.com/daily/2026-10-22/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,9 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-26 11:42 | [张益唐未竟难题被OpenAI攻破！人类联手GPT-6接力两周，证明只剩5页](https://aiguanchao.com/items/ddc1bd0576c1e1194c177d673c6f61c535dfdb08) | 新智元 |
+| 10-26 09:53 | [Vibe Coding 的工程化约束](https://aiguanchao.com/items/8b54aced0d4891917d23d1102848a50ddcce39c5) | V2EX |
+| 10-26 08:28 | [马斯克预测“新云”将迎洗牌：AI 基础设施信贷正在枯竭](https://aiguanchao.com/items/7d980a3226a9b5fba87abe96b1f3f3f7bf672d65) | SiliconANGLE |
 | 10-25 23:11 | [PHP2Shell 漏洞致数百万服务器运行无官方修复的 PHP 版本](https://aiguanchao.com/items/7a31368c3c251c252814d62a99e0e6493bc42c92) | Notebookcheck.net: News RSS Feed |
 | 10-24 16:06 | [Node2Shell 演变为 HTTP2Shell，Brotli 漏洞 CVE-2026-111497 波及大量 HTTP 库与应用](https://aiguanchao.com/items/08645416b822f84b0f5887067352829298f8a7e1) | Hacker News 前页 (RSS) |
 | 10-24 11:19 | [别再嵌套 try/finally 做清理了，JavaScript 已支持 using 声明](https://aiguanchao.com/items/11cff77c336c07dac135802814523cf654df9e11) | DEV Community |
@@ -55,9 +58,6 @@
 | 10-23 00:00 | [《国家信息化“十五五”规划》印发](https://aiguanchao.com/items/e90ea75aa0b3c16fc8e54a6ece68c699d028fa79) | 中国政府网 要闻 |
 | 10-22 22:56 | [What's Getting Pwned：实时安全事件追踪站点](https://aiguanchao.com/items/7facbd0674fc05befab34ee94686b682e20c5399) | Hacker News 前页 (RSS) |
 | 10-22 21:01 | [你的第一个 MCP 服务器](https://aiguanchao.com/items/bc3a8c42ce1b8cff3443a58a5a9b89a1ead25cc6) | Towards AI |
-| 10-22 16:48 | [Codex 桌面版的崩溃转储会悄悄吃掉几十上百 GB，查一下你的 Mac](https://aiguanchao.com/items/5bb4f4dd0f91f8dcc6e22f4074c70ae85f1b95cd) | V2EX |
-| 10-22 11:09 | [刚刚，马斯克自曝：特斯拉与SpaceX或将合并！3.5万亿美元世纪大合体来了](https://aiguanchao.com/items/73587a30bffe55945cd6c1ac771ec95008084e7c) | 新智元 |
-| 10-22 10:42 | [Cloudflare AI 代码审查成本降 68%：从提示词缓存到模型选型的优化拆解](https://aiguanchao.com/items/c22f0be73bf80b4a4b55903a85fbd9edcf0ab055) | 邵猛 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
