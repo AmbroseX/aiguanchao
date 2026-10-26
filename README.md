@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-26 21:08(北京时间)
+最后更新:2026-10-27 04:30(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -43,6 +43,7 @@
 | 10-26 11:42 | [张益唐未竟难题被OpenAI攻破！人类联手GPT-6接力两周，证明只剩5页](https://aiguanchao.com/items/ddc1bd0576c1e1194c177d673c6f61c535dfdb08) | 新智元 |
 | 10-26 09:53 | [Vibe Coding 的工程化约束](https://aiguanchao.com/items/8b54aced0d4891917d23d1102848a50ddcce39c5) | V2EX |
 | 10-26 08:28 | [马斯克预测“新云”将迎洗牌：AI 基础设施信贷正在枯竭](https://aiguanchao.com/items/7d980a3226a9b5fba87abe96b1f3f3f7bf672d65) | SiliconANGLE |
+| 10-26 00:00 | [Anthropic IPO 文件披露：Claude Code 头部企业用户支出是普通用户的 20 倍](https://aiguanchao.com/items/6411a7de106d665695fadc4b4a8fe80fb440bdee) | The New Stack / DevOps, Open Source, and Cloud Native News |
 | 10-25 23:11 | [PHP2Shell 漏洞致数百万服务器运行无官方修复的 PHP 版本](https://aiguanchao.com/items/7a31368c3c251c252814d62a99e0e6493bc42c92) | Notebookcheck.net: News RSS Feed |
 | 10-24 16:06 | [Node2Shell 演变为 HTTP2Shell，Brotli 漏洞 CVE-2026-111497 波及大量 HTTP 库与应用](https://aiguanchao.com/items/08645416b822f84b0f5887067352829298f8a7e1) | Hacker News 前页 (RSS) |
 | 10-24 11:19 | [别再嵌套 try/finally 做清理了，JavaScript 已支持 using 声明](https://aiguanchao.com/items/11cff77c336c07dac135802814523cf654df9e11) | DEV Community |
@@ -57,7 +58,6 @@
 | 10-23 11:09 | [半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复](https://aiguanchao.com/items/225ba9eda95a6132ab088d369dd47fa882ff4c72) | 新智元 |
 | 10-23 10:24 | [DeepSeek、MiniMax完成开源和海外授权，AI技术出口登记路径走通](https://aiguanchao.com/items/d1dbf3fde6ccbc394c90eceafb543fbb9ece2489) | 驱动中国 |
 | 10-23 04:01 | [Arc 浏览器将于 12 月 22 日停止服务，The Browser Company 全面转向 Dia](https://aiguanchao.com/items/511096e98f4e1c3f7d25aa018c9cd6949bc69d3e) | TechCrunch |
-| 10-23 00:00 | [《国家信息化“十五五”规划》印发](https://aiguanchao.com/items/e90ea75aa0b3c16fc8e54a6ece68c699d028fa79) | 中国政府网 要闻 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
