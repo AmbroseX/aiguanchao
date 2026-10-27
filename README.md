@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-27 23:23(北京时间)
+最后更新:2026-10-28 06:16(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,9 +38,12 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-27 22:55 | [Axiom 的 AI 智能体用 24 天形式化 15000 页数学证明](https://aiguanchao.com/items/20ad479dfd0736226d1d38f8051c4bee501f0ed1) | Crypto Briefing |
 | 10-27 15:26 | [Anthropic 申请上市：营收同比增长超 1,000%，季度营收超 160 亿美元](https://aiguanchao.com/items/9e789accdc8e28f625aeaa8fd4468b264ad48b8c) | Latent Space |
-| 10-27 11:44 | [ChatGPT攻克26年猜想，千位数学家宣战AI！数学界彻底撕裂了](https://aiguanchao.com/items/68a5b56511ba823ea35a444575aa304d68c7066e) | 新智元 |
+| 10-27 13:12 | [Claude 模型发现 3-SAT 的 2^{o(n)} 时间算法，推翻指数时间假说](https://aiguanchao.com/items/c130224c4540863272ddae19d4e9af1b930be552) | Hexagon — All submissions |
+| 10-27 12:57 | [王的猜想，被 AI 一夜通关](https://aiguanchao.com/items/f437da28f75c6f056a560740df20217ccc703b96) | 爱范儿 |
 | 10-27 11:44 | [AI教科书全错！底层公式惊天Bug曝光，Gemini率先自我修复](https://aiguanchao.com/items/56aba8d63ea5aecdbc2b3cdea55570f5db2ad764) | 新智元 |
+| 10-27 11:44 | [ChatGPT攻克26年猜想，千位数学家宣战AI！数学界彻底撕裂了](https://aiguanchao.com/items/68a5b56511ba823ea35a444575aa304d68c7066e) | 新智元 |
 | 10-27 02:08 | [Anthropic 提交 IPO 申请，AI 行业进入“拿出成绩否则闭嘴”时代](https://aiguanchao.com/items/1fde9a72f7cd462ef1488b29d7de42e791d7b96e) | Fast Company AI |
 | 10-26 23:35 | [微软向约四分之一的员工提出大规模买断方案](https://aiguanchao.com/items/722a73f3bfabde107d19ce7d235718e8196f7bb6) | Hacker News 前页 (RSS) |
 | 10-26 23:01 | [Anthropic 公布史上最大规模上市计划，称将进行“初看似乎不负责任”的巨额投资](https://aiguanchao.com/items/376a803809c7028cffecb094cd7d59b2a71373dd) | Benedict Collins |
@@ -55,9 +58,6 @@
 | 10-26 00:00 | [Anthropic IPO 文件披露：Claude Code 头部企业用户支出是普通用户的 20 倍](https://aiguanchao.com/items/6411a7de106d665695fadc4b4a8fe80fb440bdee) | The New Stack / DevOps, Open Source, and Cloud Native News |
 | 10-25 23:11 | [PHP2Shell 漏洞致数百万服务器运行无官方修复的 PHP 版本](https://aiguanchao.com/items/7a31368c3c251c252814d62a99e0e6493bc42c92) | Notebookcheck.net: News RSS Feed |
 | 10-24 16:06 | [Node2Shell 演变为 HTTP2Shell，Brotli 漏洞 CVE-2026-111497 波及大量 HTTP 库与应用](https://aiguanchao.com/items/08645416b822f84b0f5887067352829298f8a7e1) | Hacker News 前页 (RSS) |
-| 10-24 11:19 | [别再嵌套 try/finally 做清理了，JavaScript 已支持 using 声明](https://aiguanchao.com/items/11cff77c336c07dac135802814523cf654df9e11) | DEV Community |
-| 10-24 05:01 | [我的编程智能体通过了所有测试，代码却是错的](https://aiguanchao.com/items/282e955eb8d6ae124161f5acb813f20752f0fb9e) | Towards AI |
-| 10-24 04:20 | [美国政府下令立即移除所有 DeepSeek 产品及使用 DeepSeek 开发的第三方服务](https://aiguanchao.com/items/fa623337b4e6a4ef46d49dab18374324fb9183bf) | Latest from TechRadar |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
