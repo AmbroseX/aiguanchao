@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-27 04:30(北京时间)
+最后更新:2026-10-27 08:27(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 27 日 早报](https://aiguanchao.com/daily/2026-10-27/morning)
 - [10 月 26 日 晚报](https://aiguanchao.com/daily/2026-10-26/evening)
 - [10 月 26 日 早报](https://aiguanchao.com/daily/2026-10-26/morning)
 - [10 月 25 日 晚报](https://aiguanchao.com/daily/2026-10-25/evening)
 - [10 月 24 日 晚报](https://aiguanchao.com/daily/2026-10-24/evening)
 - [10 月 24 日 早报](https://aiguanchao.com/daily/2026-10-24/morning)
-- [10 月 23 日 晚报](https://aiguanchao.com/daily/2026-10-23/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,26 +38,26 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-27 07:37 | [OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题](https://aiguanchao.com/items/72d4e206ba09321a2403e3c48e759a358086b997) | IT之家 |
+| 10-27 07:26 | [OpenAI 发布 GPT-6.1 Terra：主打低成本电脑操作任务，每项任务成本约为 Claude Opus 5.5 的九分之一](https://aiguanchao.com/items/d301bcd4ffce3ddb671fae045c005de9c8e4bfa8) | IT之家·人工智能 |
+| 10-27 07:20 | [Anthropic 在 IPO 文件中披露公司内部也存在对先进 AI 灾难性风险的担忧](https://aiguanchao.com/items/d1697ab975081fd531ad1457e48466d2e92af7f7) | Rohan Paul |
+| 10-27 05:49 | [OpenAI 称其模型证明了任意维度下的局部光滑猜想](https://aiguanchao.com/items/609ba55f209dd995b17446e6c0fbe9ebdd3cffff) | Crypto Briefing |
+| 10-27 05:47 | [Anthropic 递交纳斯达克 IPO 申请，估值目标最高达 2 万亿美元](https://aiguanchao.com/items/a6f1ed1d39f33db249442c30ec5aa7060bd25d1b) | Crypto Briefing |
+| 10-27 05:45 | [Anthropic 正式提交 IPO 申请：销售额暴增至 162 亿美元，净亏损达 807 亿美元](https://aiguanchao.com/items/6076a3fb5996862043fbf7c8dc2390bc968b1280) | テクノエッジ TechnoEdge |
+| 10-27 04:46 | [OpenAI 发布 GPT-6.1 Terra：AI 智能体速度提升 3 倍，价格降低 50%](https://aiguanchao.com/items/fc44e569c363016caa9a5e2f73734feb5a94afa0) | BleepingComputer |
+| 10-27 04:39 | [微软推出自愿离职计划，据称约 6 万名员工符合条件，超过公司总人数四分之一](https://aiguanchao.com/items/2e4e776fac943968177c3000e6d796d257bc9b1d) | Dustin Bailey |
+| 10-27 04:20 | [Anthropic 提交或成史上最大 IPO 的申请，CEO 同时警告 AI 对人类的生存风险](https://aiguanchao.com/items/ec5dfe356161ae7329e735f8ab7c1c7447bb98d2) | SecurityWeek |
+| 10-27 03:34 | [Anthropic 因安全担忧暂停前沿模型训练，IPO 文件披露](https://aiguanchao.com/items/37c6c1af1104784001233a4d5210ccc9bf1eeffe) | Crypto Briefing |
+| 10-27 03:14 | [Anthropic 提交 IPO 招股书，披露 163 亿美元半年营收与约 7800 亿美元算力承诺](https://aiguanchao.com/items/3c95b5f99c1809ea63b27415f45f7728ee1d699e) | The Decoder：AI News |
+| 10-27 02:11 | [Artificial Analysis 评测 OpenAI 新发布的 GPT-6.1 Terra：智能更高、成本不到三分之一](https://aiguanchao.com/items/9c8dd50aea67d0f65d7a2e3a3587577bb373cec0) | Artificial Analysis |
+| 10-27 02:10 | [Anthropic 申请上市，披露销售额飙升及一长串风险](https://aiguanchao.com/items/46ce091e6261de4610184ce8d471d613a4448ae9) | Le Monde.fr - Actualités et Infos en France et dans le monde |
+| 10-27 01:20 | [Anthropic 上市文件披露的五个令人意外的关键信息](https://aiguanchao.com/items/dff0316acbac33b15c86d1acb41636f4331829b7) | BBC Technology |
+| 10-26 23:01 | [Anthropic 公布史上最大规模上市计划，称将进行“初看似乎不负责任”的巨额投资](https://aiguanchao.com/items/376a803809c7028cffecb094cd7d59b2a71373dd) | Benedict Collins |
+| 10-26 18:14 | [Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为](https://aiguanchao.com/items/48c4df963e28f135e588b3f7b9f657b27218fa86) | Hacker News：AI 热帖 |
 | 10-26 17:10 | [Mythos 5 在七月攻击事件中无视现实世界危害](https://aiguanchao.com/items/a13f56b8435481810c9779159bdabe229059e869) | SecurityWeek |
 | 10-26 16:03 | [PC微信整套皮肤— 不注入不改代码，改几个字节给 PC 微信换整套配色](https://aiguanchao.com/items/dc2898fdf5ab8e2ce02b8f3b43b03220b555edc6) | 远景论坛 Windows 11 |
 | 10-26 11:42 | [张益唐未竟难题被OpenAI攻破！人类联手GPT-6接力两周，证明只剩5页](https://aiguanchao.com/items/ddc1bd0576c1e1194c177d673c6f61c535dfdb08) | 新智元 |
 | 10-26 09:53 | [Vibe Coding 的工程化约束](https://aiguanchao.com/items/8b54aced0d4891917d23d1102848a50ddcce39c5) | V2EX |
-| 10-26 08:28 | [马斯克预测“新云”将迎洗牌：AI 基础设施信贷正在枯竭](https://aiguanchao.com/items/7d980a3226a9b5fba87abe96b1f3f3f7bf672d65) | SiliconANGLE |
-| 10-26 00:00 | [Anthropic IPO 文件披露：Claude Code 头部企业用户支出是普通用户的 20 倍](https://aiguanchao.com/items/6411a7de106d665695fadc4b4a8fe80fb440bdee) | The New Stack / DevOps, Open Source, and Cloud Native News |
-| 10-25 23:11 | [PHP2Shell 漏洞致数百万服务器运行无官方修复的 PHP 版本](https://aiguanchao.com/items/7a31368c3c251c252814d62a99e0e6493bc42c92) | Notebookcheck.net: News RSS Feed |
-| 10-24 16:06 | [Node2Shell 演变为 HTTP2Shell，Brotli 漏洞 CVE-2026-111497 波及大量 HTTP 库与应用](https://aiguanchao.com/items/08645416b822f84b0f5887067352829298f8a7e1) | Hacker News 前页 (RSS) |
-| 10-24 11:19 | [别再嵌套 try/finally 做清理了，JavaScript 已支持 using 声明](https://aiguanchao.com/items/11cff77c336c07dac135802814523cf654df9e11) | DEV Community |
-| 10-24 05:01 | [我的编程智能体通过了所有测试，代码却是错的](https://aiguanchao.com/items/282e955eb8d6ae124161f5acb813f20752f0fb9e) | Towards AI |
-| 10-24 04:20 | [美国政府下令立即移除所有 DeepSeek 产品及使用 DeepSeek 开发的第三方服务](https://aiguanchao.com/items/fa623337b4e6a4ef46d49dab18374324fb9183bf) | Latest from TechRadar |
-| 10-24 03:46 | [OpenAI 说明前沿模型训练环境安全加固与离线隔离机制](https://aiguanchao.com/items/9aec386a922d406b7573aef72257c407cecd6d51) | OpenAI |
-| 10-24 01:15 | [月之暗面发布 Kimi K3.1 Pro：3T 级开放权重多模态模型](https://aiguanchao.com/items/21fde02cae129ab275e2463434ecb1aea1ccade7) | Kimi.ai |
-| 10-24 00:00 | [AI 发现漏洞，黑客趁机利用：拯救“PHP2SHELL”的竞赛](https://aiguanchao.com/items/351b39f9d69d07902ea52b833f8476328eba7cbf) | NPR Technology |
-| 10-23 22:21 | [Anthropic 复盘 Claude Mythos 5 在 UK AISI 网络测试中用马甲账号为恶意代码背书](https://aiguanchao.com/items/3bf3ce0d507334071ffe286c42fddf35385c091a) | Rohan Paul |
-| 10-23 16:00 | [PHP2Shell 漏洞指南:QNAP、Nextcloud 和 OPNsense 用户需要检查什么](https://aiguanchao.com/items/2e8ebf31f35711e350baed8b72e01b5d791a1704) | Notebookcheck.net: News RSS Feed |
-| 10-23 15:34 | [微软报告：中国背景组织发动大规模 AI 代理攻击](https://aiguanchao.com/items/ff00066126087cdd14da8f1d16301f6a742a6839) | Impress Watch |
-| 10-23 11:09 | [半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复](https://aiguanchao.com/items/225ba9eda95a6132ab088d369dd47fa882ff4c72) | 新智元 |
-| 10-23 10:24 | [DeepSeek、MiniMax完成开源和海外授权，AI技术出口登记路径走通](https://aiguanchao.com/items/d1dbf3fde6ccbc394c90eceafb543fbb9ece2489) | 驱动中国 |
-| 10-23 04:01 | [Arc 浏览器将于 12 月 22 日停止服务，The Browser Company 全面转向 Dia](https://aiguanchao.com/items/511096e98f4e1c3f7d25aa018c9cd6949bc69d3e) | TechCrunch |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
