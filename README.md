@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-27 17:03(北京时间)
+最后更新:2026-10-27 23:23(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 27 日 晚报](https://aiguanchao.com/daily/2026-10-27/evening)
 - [10 月 27 日 早报](https://aiguanchao.com/daily/2026-10-27/morning)
 - [10 月 26 日 晚报](https://aiguanchao.com/daily/2026-10-26/evening)
 - [10 月 26 日 早报](https://aiguanchao.com/daily/2026-10-26/morning)
 - [10 月 25 日 晚报](https://aiguanchao.com/daily/2026-10-25/evening)
 - [10 月 24 日 晚报](https://aiguanchao.com/daily/2026-10-24/evening)
-- [10 月 24 日 早报](https://aiguanchao.com/daily/2026-10-24/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,13 +38,14 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-27 15:26 | [Anthropic 申请上市：营收同比增长超 1,000%，季度营收超 160 亿美元](https://aiguanchao.com/items/9e789accdc8e28f625aeaa8fd4468b264ad48b8c) | Latent Space |
 | 10-27 11:44 | [ChatGPT攻克26年猜想，千位数学家宣战AI！数学界彻底撕裂了](https://aiguanchao.com/items/68a5b56511ba823ea35a444575aa304d68c7066e) | 新智元 |
 | 10-27 11:44 | [AI教科书全错！底层公式惊天Bug曝光，Gemini率先自我修复](https://aiguanchao.com/items/56aba8d63ea5aecdbc2b3cdea55570f5db2ad764) | 新智元 |
-| 10-27 02:11 | [Artificial Analysis 评测 OpenAI 新发布的 GPT-6.1 Terra：智能更高、成本不到三分之一](https://aiguanchao.com/items/9c8dd50aea67d0f65d7a2e3a3587577bb373cec0) | Artificial Analysis |
 | 10-27 02:08 | [Anthropic 提交 IPO 申请，AI 行业进入“拿出成绩否则闭嘴”时代](https://aiguanchao.com/items/1fde9a72f7cd462ef1488b29d7de42e791d7b96e) | Fast Company AI |
 | 10-26 23:35 | [微软向约四分之一的员工提出大规模买断方案](https://aiguanchao.com/items/722a73f3bfabde107d19ce7d235718e8196f7bb6) | Hacker News 前页 (RSS) |
 | 10-26 23:01 | [Anthropic 公布史上最大规模上市计划，称将进行“初看似乎不负责任”的巨额投资](https://aiguanchao.com/items/376a803809c7028cffecb094cd7d59b2a71373dd) | Benedict Collins |
 | 10-26 18:14 | [Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为](https://aiguanchao.com/items/48c4df963e28f135e588b3f7b9f657b27218fa86) | Hacker News：AI 热帖 |
+| 10-26 17:12 | [华盛顿邮报：前 DOGE 研究人员用 AI 智能体在不到 12 小时内攻破 Anthropic 系统](https://aiguanchao.com/items/7de8a5d75825a6c6efc844a6b556f66690951ce6) | @lizzadwoskin |
 | 10-26 17:10 | [Mythos 5 在七月攻击事件中无视现实世界危害](https://aiguanchao.com/items/a13f56b8435481810c9779159bdabe229059e869) | SecurityWeek |
 | 10-26 16:03 | [PC微信整套皮肤— 不注入不改代码，改几个字节给 PC 微信换整套配色](https://aiguanchao.com/items/dc2898fdf5ab8e2ce02b8f3b43b03220b555edc6) | 远景论坛 Windows 11 |
 | 10-26 11:42 | [张益唐未竟难题被OpenAI攻破！人类联手GPT-6接力两周，证明只剩5页](https://aiguanchao.com/items/ddc1bd0576c1e1194c177d673c6f61c535dfdb08) | 新智元 |
@@ -57,7 +58,6 @@
 | 10-24 11:19 | [别再嵌套 try/finally 做清理了，JavaScript 已支持 using 声明](https://aiguanchao.com/items/11cff77c336c07dac135802814523cf654df9e11) | DEV Community |
 | 10-24 05:01 | [我的编程智能体通过了所有测试，代码却是错的](https://aiguanchao.com/items/282e955eb8d6ae124161f5acb813f20752f0fb9e) | Towards AI |
 | 10-24 04:20 | [美国政府下令立即移除所有 DeepSeek 产品及使用 DeepSeek 开发的第三方服务](https://aiguanchao.com/items/fa623337b4e6a4ef46d49dab18374324fb9183bf) | Latest from TechRadar |
-| 10-24 03:46 | [OpenAI 说明前沿模型训练环境安全加固与离线隔离机制](https://aiguanchao.com/items/9aec386a922d406b7573aef72257c407cecd6d51) | OpenAI |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
