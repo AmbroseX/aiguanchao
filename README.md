@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-28 06:16(北京时间)
+最后更新:2026-10-28 13:45(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 28 日 早报](https://aiguanchao.com/daily/2026-10-28/morning)
 - [10 月 27 日 晚报](https://aiguanchao.com/daily/2026-10-27/evening)
 - [10 月 27 日 早报](https://aiguanchao.com/daily/2026-10-27/morning)
 - [10 月 26 日 晚报](https://aiguanchao.com/daily/2026-10-26/evening)
 - [10 月 26 日 早报](https://aiguanchao.com/daily/2026-10-26/morning)
 - [10 月 25 日 晚报](https://aiguanchao.com/daily/2026-10-25/evening)
-- [10 月 24 日 晚报](https://aiguanchao.com/daily/2026-10-24/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,26 +38,26 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-28 11:44 | [Anthropic 正式提交纳斯达克 IPO 申请，5% 到 7% 收入来自违规客户](https://aiguanchao.com/items/800db106f2c51c543105d7ab8cba6ef921fefdf1) | 夕小瑶科技说 |
+| 10-28 11:44 | [OpenAI 掀翻计算机科学 30 年基石，还解决了挂谷猜想](https://aiguanchao.com/items/871a694a35334da8c3268ac37bf8a47121d8452d) | 机器之心 |
+| 10-28 08:55 | [苹果终于对「摇一摇」广告动手了！](https://aiguanchao.com/items/5ba284f28f9936784d6a75723e94a67759941cfd) | 爱范儿 |
+| 10-28 08:15 | [谷歌的 TPU 高光时刻](https://aiguanchao.com/items/9bea61340d19f90849f3fd7944f117be0c802e71) | The Information |
+| 10-28 07:34 | [家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死](https://aiguanchao.com/items/05a32c26760b27280073c95d9824520153401e51) | TechCrunch：AI |
+| 10-28 07:02 | [OpenAI 强化安全对策：训练最先进 AI 模型期间切断网络连接](https://aiguanchao.com/items/d1338f5327fe645bd8ff243712e0cf32ab6b8d35) | PC Watch |
+| 10-28 05:00 | [AI 引发「脆弱性海啸」，专家警告网络安全风险](https://aiguanchao.com/items/2cf9568aeb6560f3a946f836adfc7df7c1e91122) | Business Insider Japan |
+| 10-28 02:53 | [Anthropic 发布 Claude Opus 5.5](https://aiguanchao.com/items/386897e5dc5561d7a051a7c489ad75e6f74d1c77) | Latent Space |
+| 10-28 02:53 | [Anthropic 提交 2 万亿美元 IPO 申请：S-1 文件深度解析](https://aiguanchao.com/items/14a9dc4aaddc67c696beaeb4335a91515a1bedab) | Latent Space |
 | 10-27 22:55 | [Axiom 的 AI 智能体用 24 天形式化 15000 页数学证明](https://aiguanchao.com/items/20ad479dfd0736226d1d38f8051c4bee501f0ed1) | Crypto Briefing |
+| 10-27 17:38 | [Brotli压缩库曝出高危漏洞，波及范围远超Node.js](https://aiguanchao.com/items/1dbfda90627b730934ccd444cf1086081254af82) | FreeBuf |
 | 10-27 15:26 | [Anthropic 申请上市：营收同比增长超 1,000%，季度营收超 160 亿美元](https://aiguanchao.com/items/9e789accdc8e28f625aeaa8fd4468b264ad48b8c) | Latent Space |
 | 10-27 13:12 | [Claude 模型发现 3-SAT 的 2^{o(n)} 时间算法，推翻指数时间假说](https://aiguanchao.com/items/c130224c4540863272ddae19d4e9af1b930be552) | Hexagon — All submissions |
-| 10-27 12:57 | [王的猜想，被 AI 一夜通关](https://aiguanchao.com/items/f437da28f75c6f056a560740df20217ccc703b96) | 爱范儿 |
 | 10-27 11:44 | [AI教科书全错！底层公式惊天Bug曝光，Gemini率先自我修复](https://aiguanchao.com/items/56aba8d63ea5aecdbc2b3cdea55570f5db2ad764) | 新智元 |
-| 10-27 11:44 | [ChatGPT攻克26年猜想，千位数学家宣战AI！数学界彻底撕裂了](https://aiguanchao.com/items/68a5b56511ba823ea35a444575aa304d68c7066e) | 新智元 |
 | 10-27 02:08 | [Anthropic 提交 IPO 申请，AI 行业进入“拿出成绩否则闭嘴”时代](https://aiguanchao.com/items/1fde9a72f7cd462ef1488b29d7de42e791d7b96e) | Fast Company AI |
 | 10-26 23:35 | [微软向约四分之一的员工提出大规模买断方案](https://aiguanchao.com/items/722a73f3bfabde107d19ce7d235718e8196f7bb6) | Hacker News 前页 (RSS) |
 | 10-26 23:01 | [Anthropic 公布史上最大规模上市计划，称将进行“初看似乎不负责任”的巨额投资](https://aiguanchao.com/items/376a803809c7028cffecb094cd7d59b2a71373dd) | Benedict Collins |
 | 10-26 18:14 | [Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为](https://aiguanchao.com/items/48c4df963e28f135e588b3f7b9f657b27218fa86) | Hacker News：AI 热帖 |
+| 10-26 17:51 | [主密钥泄漏147天从未吊销，LiteLLM官方流水线被劫持后PyPI亲手分发带毒1.107.0](https://aiguanchao.com/items/86e1d8de58ab62c9355c05b97071b8796e92e62a) | FreeBuf |
 | 10-26 17:12 | [华盛顿邮报：前 DOGE 研究人员用 AI 智能体在不到 12 小时内攻破 Anthropic 系统](https://aiguanchao.com/items/7de8a5d75825a6c6efc844a6b556f66690951ce6) | @lizzadwoskin |
-| 10-26 17:10 | [Mythos 5 在七月攻击事件中无视现实世界危害](https://aiguanchao.com/items/a13f56b8435481810c9779159bdabe229059e869) | SecurityWeek |
-| 10-26 16:03 | [PC微信整套皮肤— 不注入不改代码，改几个字节给 PC 微信换整套配色](https://aiguanchao.com/items/dc2898fdf5ab8e2ce02b8f3b43b03220b555edc6) | 远景论坛 Windows 11 |
-| 10-26 11:42 | [张益唐未竟难题被OpenAI攻破！人类联手GPT-6接力两周，证明只剩5页](https://aiguanchao.com/items/ddc1bd0576c1e1194c177d673c6f61c535dfdb08) | 新智元 |
-| 10-26 09:53 | [Vibe Coding 的工程化约束](https://aiguanchao.com/items/8b54aced0d4891917d23d1102848a50ddcce39c5) | V2EX |
-| 10-26 08:28 | [马斯克预测“新云”将迎洗牌：AI 基础设施信贷正在枯竭](https://aiguanchao.com/items/7d980a3226a9b5fba87abe96b1f3f3f7bf672d65) | SiliconANGLE |
-| 10-26 08:00 | [OpenAI 宣布模型产出三项数学成果并与学界协作发布](https://aiguanchao.com/items/c95a6fb6cb798bfe390f081c7769e1b6c2adc6a4) | OpenAI：官网动态 |
-| 10-26 00:00 | [Anthropic IPO 文件披露：Claude Code 头部企业用户支出是普通用户的 20 倍](https://aiguanchao.com/items/6411a7de106d665695fadc4b4a8fe80fb440bdee) | The New Stack / DevOps, Open Source, and Cloud Native News |
-| 10-25 23:11 | [PHP2Shell 漏洞致数百万服务器运行无官方修复的 PHP 版本](https://aiguanchao.com/items/7a31368c3c251c252814d62a99e0e6493bc42c92) | Notebookcheck.net: News RSS Feed |
-| 10-24 16:06 | [Node2Shell 演变为 HTTP2Shell，Brotli 漏洞 CVE-2026-111497 波及大量 HTTP 库与应用](https://aiguanchao.com/items/08645416b822f84b0f5887067352829298f8a7e1) | Hacker News 前页 (RSS) |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
