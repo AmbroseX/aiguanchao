@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-29 09:00(北京时间)
+最后更新:2026-10-29 18:01(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,6 +38,7 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-29 06:35 | [Claude AI 找漏洞实战：安卓手机锁屏下提取照片、53 分钟攻破 Linux 获取最高权限](https://aiguanchao.com/items/52d64e972718b88745a3da113d73db1c4b20b3f4) | IT之家 |
 | 10-29 05:46 | [你的游标分页可能正在悄悄丢数据（JS Date 毫秒精度 vs Postgres 微秒）](https://aiguanchao.com/items/30e65d2f3d6e8ca5bf8f5254e770d6706bb019a2) | DEV Community |
 | 10-29 01:23 | [Artificial Analysis：Gemini 4 Carbon 登顶 Intelligence Index v5，编码智能体仅次于 Claude Opus 5.5](https://aiguanchao.com/items/221d0e54d834cd4758cd14fcc265cd4ebf4c9f76) | Artificial Analysis |
 | 10-29 00:45 | [GitHub Octoverse 2026：月度合并 PR 一年内增至 2.2 亿](https://aiguanchao.com/items/ea8eb7f07ff80e38238fd92d10b7352217174e52) | Simon Willison 博客 |
@@ -57,7 +58,6 @@
 | 10-27 02:08 | [Anthropic 提交 IPO 申请，AI 行业进入“拿出成绩否则闭嘴”时代](https://aiguanchao.com/items/1fde9a72f7cd462ef1488b29d7de42e791d7b96e) | Fast Company AI |
 | 10-26 23:35 | [微软向约四分之一的员工提出大规模买断方案](https://aiguanchao.com/items/722a73f3bfabde107d19ce7d235718e8196f7bb6) | Hacker News 前页 (RSS) |
 | 10-26 23:01 | [Anthropic 公布史上最大规模上市计划，称将进行“初看似乎不负责任”的巨额投资](https://aiguanchao.com/items/376a803809c7028cffecb094cd7d59b2a71373dd) | Benedict Collins |
-| 10-26 18:14 | [Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为](https://aiguanchao.com/items/48c4df963e28f135e588b3f7b9f657b27218fa86) | Hacker News：AI 热帖 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
