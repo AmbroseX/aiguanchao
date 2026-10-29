@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-29 18:01(北京时间)
+最后更新:2026-10-30 02:29(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 29 日 晚报](https://aiguanchao.com/daily/2026-10-29/evening)
 - [10 月 29 日 早报](https://aiguanchao.com/daily/2026-10-29/morning)
 - [10 月 28 日 晚报](https://aiguanchao.com/daily/2026-10-28/evening)
 - [10 月 28 日 早报](https://aiguanchao.com/daily/2026-10-28/morning)
 - [10 月 27 日 晚报](https://aiguanchao.com/daily/2026-10-27/evening)
 - [10 月 27 日 早报](https://aiguanchao.com/daily/2026-10-27/morning)
-- [10 月 26 日 晚报](https://aiguanchao.com/daily/2026-10-26/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,26 +38,26 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-29 23:19 | [Google AI 搜索产生的收入低于传统搜索](https://aiguanchao.com/items/d430ed5cb6270e4421959fed1f2f5e783170dbe3) | 奇客 Solidot |
+| 10-29 22:27 | [Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型](https://aiguanchao.com/items/757acd072d1d7183a225b95acbd4f699f49f0f9d) | Unsloth |
+| 10-29 21:42 | [Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times](https://aiguanchao.com/items/880fff2abcc24fc3e37a25fcb81fb265bb29e3f2) | THE DECODER |
+| 10-29 20:05 | [How Instacart Ended Up in DoorDash’s Cart](https://aiguanchao.com/items/1556da0399fd2ce3e4052f2a7483bfceae5bbb74) | The Information |
+| 10-29 19:30 | [Anthropic’s IPO filing shows most of its compute goes to R&D, not serving customers](https://aiguanchao.com/items/0980f5b77eafd07f05f7715eb45191ee3e084bd5) | Latest from Tom's Hardware |
+| 10-29 17:07 | [谷歌搜索收入占比史上首次跌破 50%](https://aiguanchao.com/items/1a456e1dcc1fe8c3ccb8e16dee33401bbf47571c) | OfficeChai |
+| 10-29 11:46 | [position: sticky 不生效？揪出隐藏的 overflow 元凶](https://aiguanchao.com/items/58a6ece42e3afcf438876cd16cc856ddc75f78e8) | DEV Community |
+| 10-29 11:43 | [数十agent，24天挑战数学界巨型工程，还揪出40年前漏洞](https://aiguanchao.com/items/2749c3d3fd94eea663bc819696671cfb95ba1a54) | 机器之心 |
 | 10-29 06:35 | [Claude AI 找漏洞实战：安卓手机锁屏下提取照片、53 分钟攻破 Linux 获取最高权限](https://aiguanchao.com/items/52d64e972718b88745a3da113d73db1c4b20b3f4) | IT之家 |
+| 10-29 06:31 | [刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一](https://aiguanchao.com/items/158d58fe7ab11ebb424e7300629306173ca72048) | 爱范儿 |
 | 10-29 05:46 | [你的游标分页可能正在悄悄丢数据（JS Date 毫秒精度 vs Postgres 微秒）](https://aiguanchao.com/items/30e65d2f3d6e8ca5bf8f5254e770d6706bb019a2) | DEV Community |
 | 10-29 01:23 | [Artificial Analysis：Gemini 4 Carbon 登顶 Intelligence Index v5，编码智能体仅次于 Claude Opus 5.5](https://aiguanchao.com/items/221d0e54d834cd4758cd14fcc265cd4ebf4c9f76) | Artificial Analysis |
 | 10-29 00:45 | [GitHub Octoverse 2026：月度合并 PR 一年内增至 2.2 亿](https://aiguanchao.com/items/ea8eb7f07ff80e38238fd92d10b7352217174e52) | Simon Willison 博客 |
 | 10-28 17:10 | [ClickFix 攻击：如何在 Windows 和 Mac 上识别复制粘贴陷阱](https://aiguanchao.com/items/8cea322ad267d065c24cee9cbc1213ca1ffcb457) | Notebookcheck.net: News RSS Feed |
+| 10-28 12:58 | [仅用逻辑漏洞攻破 Microsoft Edge 全链 exploit](https://aiguanchao.com/items/64c976bc33b1b781875e4391204c289ed1ca76e3) | Hacker News 热门 |
 | 10-28 08:55 | [苹果终于对「摇一摇」广告动手了！](https://aiguanchao.com/items/5ba284f28f9936784d6a75723e94a67759941cfd) | 爱范儿 |
 | 10-28 08:15 | [谷歌的 TPU 高光时刻](https://aiguanchao.com/items/9bea61340d19f90849f3fd7944f117be0c802e71) | The Information |
 | 10-28 07:34 | [家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死](https://aiguanchao.com/items/05a32c26760b27280073c95d9824520153401e51) | TechCrunch：AI |
 | 10-28 07:02 | [OpenAI 强化安全对策：训练最先进 AI 模型期间切断网络连接](https://aiguanchao.com/items/d1338f5327fe645bd8ff243712e0cf32ab6b8d35) | PC Watch |
 | 10-28 05:00 | [AI 引发「脆弱性海啸」，专家警告网络安全风险](https://aiguanchao.com/items/2cf9568aeb6560f3a946f836adfc7df7c1e91122) | Business Insider Japan |
-| 10-28 02:53 | [Anthropic 发布 Claude Opus 5.5](https://aiguanchao.com/items/386897e5dc5561d7a051a7c489ad75e6f74d1c77) | Latent Space |
-| 10-28 02:53 | [Anthropic 提交 2 万亿美元 IPO 申请：S-1 文件深度解析](https://aiguanchao.com/items/14a9dc4aaddc67c696beaeb4335a91515a1bedab) | Latent Space |
-| 10-27 22:55 | [Axiom 的 AI 智能体用 24 天形式化 15000 页数学证明](https://aiguanchao.com/items/20ad479dfd0736226d1d38f8051c4bee501f0ed1) | Crypto Briefing |
-| 10-27 17:38 | [Brotli压缩库曝出高危漏洞，波及范围远超Node.js](https://aiguanchao.com/items/1dbfda90627b730934ccd444cf1086081254af82) | FreeBuf |
-| 10-27 15:26 | [Anthropic 申请上市：营收同比增长超 1,000%，季度营收超 160 亿美元](https://aiguanchao.com/items/9e789accdc8e28f625aeaa8fd4468b264ad48b8c) | Latent Space |
-| 10-27 13:12 | [Claude 模型发现 3-SAT 的 2^{o(n)} 时间算法，推翻指数时间假说](https://aiguanchao.com/items/c130224c4540863272ddae19d4e9af1b930be552) | Hexagon — All submissions |
-| 10-27 11:44 | [AI教科书全错！底层公式惊天Bug曝光，Gemini率先自我修复](https://aiguanchao.com/items/56aba8d63ea5aecdbc2b3cdea55570f5db2ad764) | 新智元 |
-| 10-27 02:08 | [Anthropic 提交 IPO 申请，AI 行业进入“拿出成绩否则闭嘴”时代](https://aiguanchao.com/items/1fde9a72f7cd462ef1488b29d7de42e791d7b96e) | Fast Company AI |
-| 10-26 23:35 | [微软向约四分之一的员工提出大规模买断方案](https://aiguanchao.com/items/722a73f3bfabde107d19ce7d235718e8196f7bb6) | Hacker News 前页 (RSS) |
-| 10-26 23:01 | [Anthropic 公布史上最大规模上市计划，称将进行“初看似乎不负责任”的巨额投资](https://aiguanchao.com/items/376a803809c7028cffecb094cd7d59b2a71373dd) | Benedict Collins |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
