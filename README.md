@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-31 02:02(北京时间)
+最后更新:2026-10-31 06:23(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,11 +38,12 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-30 23:12 | [Northflank 遭遇安全入侵，官方敦促用户立即轮换环境变量](https://aiguanchao.com/items/ea27461df4276a4feb4e7676259bd436a79758ac) | Hacker News 热门 |
+| 10-30 20:21 | [币安遭遇史上最大加密货币盗窃案：朝鲜黑客20分钟窃取63亿美元](https://aiguanchao.com/items/f66344314bb084e0fb1df360d2fe94025ec6e9c0) | Latest from TechRadar |
 | 10-30 18:56 | [DeepSeek千亿融资曝光：估值达6155亿元](https://aiguanchao.com/items/6e6124a1313057fc7238888755a83ed676193265) | 钛媒体 |
 | 10-30 07:37 | [OpenAI 称其耗资 1000 万美元的 Navier-Stokes 证明明年或只需 10 万美元](https://aiguanchao.com/items/f85207e7c70638a9a4b95b2414fc65b8be728967) | Crypto Briefing |
 | 10-30 06:05 | [WordPress远程代码执行漏洞遭利用，补丁发布仅数小时即现攻击](https://aiguanchao.com/items/5a6c09d947f0de58b7f2c75caf54b6c21d3d5bd7) | FreeBuf |
 | 10-30 05:40 | [AI 可在用户收到更新前将安全补丁转化为可用漏洞利用](https://aiguanchao.com/items/dadf6229d3d7b8c72c2c67b110987911b52ca507) | Epoch AI — Latest |
-| 10-30 05:38 | [币安遭攻击 56 亿美元被盗](https://aiguanchao.com/items/3fe418dce295e740b94eab9be8eeffd47ca73cbf) | Hacker News 热门 |
 | 10-30 04:08 | [Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑](https://aiguanchao.com/items/e1ad670224f614adb80c899c029322fc945f27d3) | TechCrunch：AI |
 | 10-29 22:58 | [Google 遭遇其亲手点燃的 AI 革命冲击](https://aiguanchao.com/items/f199eef20e511e913acf47dd742e334cae8a7ef5) | Le Monde.fr - Actualités et Infos en France et dans le monde |
 | 10-29 22:27 | [Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型](https://aiguanchao.com/items/757acd072d1d7183a225b95acbd4f699f49f0f9d) | Unsloth |
@@ -57,7 +58,6 @@
 | 10-29 05:46 | [你的游标分页可能正在悄悄丢数据（JS Date 毫秒精度 vs Postgres 微秒）](https://aiguanchao.com/items/30e65d2f3d6e8ca5bf8f5254e770d6706bb019a2) | DEV Community |
 | 10-29 01:23 | [Artificial Analysis：Gemini 4 Carbon 登顶 Intelligence Index v5，编码智能体仅次于 Claude Opus 5.5](https://aiguanchao.com/items/221d0e54d834cd4758cd14fcc265cd4ebf4c9f76) | Artificial Analysis |
 | 10-29 00:45 | [GitHub Octoverse 2026：月度合并 PR 一年内增至 2.2 亿](https://aiguanchao.com/items/ea8eb7f07ff80e38238fd92d10b7352217174e52) | Simon Willison 博客 |
-| 10-28 17:10 | [ClickFix 攻击：如何在 Windows 和 Mac 上识别复制粘贴陷阱](https://aiguanchao.com/items/8cea322ad267d065c24cee9cbc1213ca1ffcb457) | Notebookcheck.net: News RSS Feed |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
