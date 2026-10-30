@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-30 09:03(北京时间)
+最后更新:2026-10-30 18:04(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,14 +38,14 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-30 07:37 | [OpenAI 称其耗资 1000 万美元的 Navier-Stokes 证明明年或只需 10 万美元](https://aiguanchao.com/items/f85207e7c70638a9a4b95b2414fc65b8be728967) | Crypto Briefing |
+| 10-30 06:05 | [WordPress远程代码执行漏洞遭利用，补丁发布仅数小时即现攻击](https://aiguanchao.com/items/5a6c09d947f0de58b7f2c75caf54b6c21d3d5bd7) | FreeBuf |
 | 10-30 05:40 | [AI 可在用户收到更新前将安全补丁转化为可用漏洞利用](https://aiguanchao.com/items/dadf6229d3d7b8c72c2c67b110987911b52ca507) | Epoch AI — Latest |
 | 10-30 05:38 | [币安遭攻击 56 亿美元被盗](https://aiguanchao.com/items/3fe418dce295e740b94eab9be8eeffd47ca73cbf) | Hacker News 热门 |
 | 10-30 04:08 | [Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑](https://aiguanchao.com/items/e1ad670224f614adb80c899c029322fc945f27d3) | TechCrunch：AI |
-| 10-29 23:19 | [Google AI 搜索产生的收入低于传统搜索](https://aiguanchao.com/items/d430ed5cb6270e4421959fed1f2f5e783170dbe3) | 奇客 Solidot |
 | 10-29 22:58 | [Google 遭遇其亲手点燃的 AI 革命冲击](https://aiguanchao.com/items/f199eef20e511e913acf47dd742e334cae8a7ef5) | Le Monde.fr - Actualités et Infos en France et dans le monde |
 | 10-29 22:27 | [Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型](https://aiguanchao.com/items/757acd072d1d7183a225b95acbd4f699f49f0f9d) | Unsloth |
 | 10-29 21:42 | [《纽约时报》：中国间谍瞄准了英伟达 CEO 黄仁勋](https://aiguanchao.com/items/880fff2abcc24fc3e37a25fcb81fb265bb29e3f2) | THE DECODER |
-| 10-29 21:12 | [Linux 内核 IPv4/TCP 协议栈 9.8 分漏洞 CVE-2026-98432](https://aiguanchao.com/items/4a348d0d19c69fff926ec2ddb4d0bb340c6d0a73) | V2EX |
 | 10-29 20:05 | [Instacart 为何最终落入 DoorDash 的购物车](https://aiguanchao.com/items/1556da0399fd2ce3e4052f2a7483bfceae5bbb74) | The Information |
 | 10-29 19:30 | [Anthropic 招股书披露：其算力大部分用于研发，而非服务客户](https://aiguanchao.com/items/0980f5b77eafd07f05f7715eb45191ee3e084bd5) | Latest from Tom's Hardware |
 | 10-29 17:07 | [谷歌搜索收入占比史上首次跌破 50%](https://aiguanchao.com/items/1a456e1dcc1fe8c3ccb8e16dee33401bbf47571c) | OfficeChai |
