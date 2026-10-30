@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-30 18:04(北京时间)
+最后更新:2026-10-31 02:02(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 30 日 晚报](https://aiguanchao.com/daily/2026-10-30/evening)
 - [10 月 30 日 早报](https://aiguanchao.com/daily/2026-10-30/morning)
 - [10 月 29 日 晚报](https://aiguanchao.com/daily/2026-10-29/evening)
 - [10 月 29 日 早报](https://aiguanchao.com/daily/2026-10-29/morning)
 - [10 月 28 日 晚报](https://aiguanchao.com/daily/2026-10-28/evening)
 - [10 月 28 日 早报](https://aiguanchao.com/daily/2026-10-28/morning)
-- [10 月 27 日 晚报](https://aiguanchao.com/daily/2026-10-27/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,7 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-30 18:56 | [DeepSeek千亿融资曝光：估值达6155亿元](https://aiguanchao.com/items/6e6124a1313057fc7238888755a83ed676193265) | 钛媒体 |
 | 10-30 07:37 | [OpenAI 称其耗资 1000 万美元的 Navier-Stokes 证明明年或只需 10 万美元](https://aiguanchao.com/items/f85207e7c70638a9a4b95b2414fc65b8be728967) | Crypto Briefing |
 | 10-30 06:05 | [WordPress远程代码执行漏洞遭利用，补丁发布仅数小时即现攻击](https://aiguanchao.com/items/5a6c09d947f0de58b7f2c75caf54b6c21d3d5bd7) | FreeBuf |
 | 10-30 05:40 | [AI 可在用户收到更新前将安全补丁转化为可用漏洞利用](https://aiguanchao.com/items/dadf6229d3d7b8c72c2c67b110987911b52ca507) | Epoch AI — Latest |
@@ -57,7 +58,6 @@
 | 10-29 01:23 | [Artificial Analysis：Gemini 4 Carbon 登顶 Intelligence Index v5，编码智能体仅次于 Claude Opus 5.5](https://aiguanchao.com/items/221d0e54d834cd4758cd14fcc265cd4ebf4c9f76) | Artificial Analysis |
 | 10-29 00:45 | [GitHub Octoverse 2026：月度合并 PR 一年内增至 2.2 亿](https://aiguanchao.com/items/ea8eb7f07ff80e38238fd92d10b7352217174e52) | Simon Willison 博客 |
 | 10-28 17:10 | [ClickFix 攻击：如何在 Windows 和 Mac 上识别复制粘贴陷阱](https://aiguanchao.com/items/8cea322ad267d065c24cee9cbc1213ca1ffcb457) | Notebookcheck.net: News RSS Feed |
-| 10-28 12:58 | [仅用逻辑漏洞攻破 Microsoft Edge 全链 exploit](https://aiguanchao.com/items/64c976bc33b1b781875e4391204c289ed1ca76e3) | Hacker News 热门 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
