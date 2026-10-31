@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-10-31 13:46(北京时间)
+最后更新:2026-10-31 20:36(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [10 月 31 日 晚报](https://aiguanchao.com/daily/2026-10-31/evening)
 - [10 月 31 日 早报](https://aiguanchao.com/daily/2026-10-31/morning)
 - [10 月 30 日 晚报](https://aiguanchao.com/daily/2026-10-30/evening)
 - [10 月 30 日 早报](https://aiguanchao.com/daily/2026-10-30/morning)
 - [10 月 29 日 晚报](https://aiguanchao.com/daily/2026-10-29/evening)
 - [10 月 29 日 早报](https://aiguanchao.com/daily/2026-10-29/morning)
-- [10 月 28 日 晚报](https://aiguanchao.com/daily/2026-10-28/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,12 +38,14 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 10-31 17:57 | [npm 最低发布年龄：为依赖设置一个冷却期](https://aiguanchao.com/items/f378fcccafdf1b5a610a33bdcfc9873df68ca649) | DEV Community |
+| 10-31 16:49 | [美国以国安为由 计划禁止中国电信企业直接接入美国电话号码](https://aiguanchao.com/items/e987e13984b8b870baabdcad11f24fef5679e472) | 法广中文 |
+| 10-31 13:00 | [Google 承认 AI Mode 拖累搜索收入，股价跌 15%、市值蒸发 5000 亿美元](https://aiguanchao.com/items/c713749ef72ff9d148acd659e293de4877a0de02) | Latent Space |
 | 10-31 11:46 | [重磅！AI补全人类史上最大数学证明，数学家当场泪崩](https://aiguanchao.com/items/313b41addb2c393f99c22f407581f524bf954718) | 新智元 |
 | 10-31 11:25 | [Anthropic IPO 招股文件披露近 9000 亿美元隐性债务](https://aiguanchao.com/items/43b60f07fef568daf242b2cb9fe2b554b5369fb0) | IT之家·人工智能 |
 | 10-31 09:20 | [Nvidia 考虑为 Nscale 在西弗吉尼亚州的 AI 数据中心担任债务担保人](https://aiguanchao.com/items/f03028b7b703bce2800be2b8758907794c76b9e7) | TechCrunch |
 | 10-31 06:59 | [苹果和阿里巴巴达成合作 千问集成到Apple智能](https://aiguanchao.com/items/601dba4af16cf42b36668987d85ea58fd20a3e34) | 财联社 电报 |
 | 10-31 05:09 | [Linux 内核严重漏洞可对 MPTCP 服务器发起远程 root 攻击](https://aiguanchao.com/items/ff93ce5d22fcce2f9ac0d561013586de7f15c0e2) | BleepingComputer |
-| 10-31 01:15 | [Reddit CEO Huffman 警告：Google AI Mode 不会给任何人带来流量](https://aiguanchao.com/items/74f5c4a55327771a2669710857b0e7dfb257dbcd) | THE DECODER |
 | 10-30 23:12 | [Northflank 遭遇安全入侵，官方敦促用户立即轮换环境变量](https://aiguanchao.com/items/ea27461df4276a4feb4e7676259bd436a79758ac) | Hacker News 热门 |
 | 10-30 18:56 | [DeepSeek千亿融资曝光：估值达6155亿元](https://aiguanchao.com/items/6e6124a1313057fc7238888755a83ed676193265) | 钛媒体 |
 | 10-30 08:00 | [Cursor 市场上的 Claude Code for VS Code 官方扩展被发现植入后门](https://aiguanchao.com/items/5bd425da52a08100e5466c26e57e46025fadf78b) | Hacker News 前页 (RSS) |
@@ -56,8 +58,6 @@
 | 10-29 21:42 | [《纽约时报》：中国间谍瞄准了英伟达 CEO 黄仁勋](https://aiguanchao.com/items/880fff2abcc24fc3e37a25fcb81fb265bb29e3f2) | THE DECODER |
 | 10-29 20:05 | [Instacart 为何最终落入 DoorDash 的购物车](https://aiguanchao.com/items/1556da0399fd2ce3e4052f2a7483bfceae5bbb74) | The Information |
 | 10-29 19:30 | [Anthropic 招股书披露：其算力大部分用于研发，而非服务客户](https://aiguanchao.com/items/0980f5b77eafd07f05f7715eb45191ee3e084bd5) | Latest from Tom's Hardware |
-| 10-29 17:07 | [谷歌搜索收入占比史上首次跌破 50%](https://aiguanchao.com/items/1a456e1dcc1fe8c3ccb8e16dee33401bbf47571c) | OfficeChai |
-| 10-29 11:46 | [position: sticky 不生效？揪出隐藏的 overflow 元凶](https://aiguanchao.com/items/58a6ece42e3afcf438876cd16cc856ddc75f78e8) | DEV Community |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
