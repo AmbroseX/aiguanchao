@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-01 03:19(北京时间)
+最后更新:2026-11-01 14:10(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 1 日 早报](https://aiguanchao.com/daily/2026-11-01/morning)
 - [10 月 31 日 晚报](https://aiguanchao.com/daily/2026-10-31/evening)
 - [10 月 31 日 早报](https://aiguanchao.com/daily/2026-10-31/morning)
 - [10 月 30 日 晚报](https://aiguanchao.com/daily/2026-10-30/evening)
 - [10 月 30 日 早报](https://aiguanchao.com/daily/2026-10-30/morning)
 - [10 月 29 日 晚报](https://aiguanchao.com/daily/2026-10-29/evening)
-- [10 月 29 日 早报](https://aiguanchao.com/daily/2026-10-29/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,7 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-01 07:15 | [我们如何接管 ChatGPT 账户](https://aiguanchao.com/items/562c2f93d155650261ade976bf0e1540444598b9) | Simon Willison's Blog |
 | 10-31 23:56 | [AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元](https://aiguanchao.com/items/b09fe95c6b0a708171d375711a14146455f10ebe) | IT之家 |
 | 10-31 17:57 | [npm 最低发布年龄：为依赖设置一个冷却期](https://aiguanchao.com/items/f378fcccafdf1b5a610a33bdcfc9873df68ca649) | DEV Community |
 | 10-31 16:49 | [美国以国安为由 计划禁止中国电信企业直接接入美国电话号码](https://aiguanchao.com/items/e987e13984b8b870baabdcad11f24fef5679e472) | 法广中文 |
@@ -57,7 +58,6 @@
 | 10-29 22:58 | [Google 遭遇其亲手点燃的 AI 革命冲击](https://aiguanchao.com/items/f199eef20e511e913acf47dd742e334cae8a7ef5) | Le Monde.fr - Actualités et Infos en France et dans le monde |
 | 10-29 22:27 | [Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型](https://aiguanchao.com/items/757acd072d1d7183a225b95acbd4f699f49f0f9d) | Unsloth |
 | 10-29 21:42 | [《纽约时报》：中国间谍瞄准了英伟达 CEO 黄仁勋](https://aiguanchao.com/items/880fff2abcc24fc3e37a25fcb81fb265bb29e3f2) | THE DECODER |
-| 10-29 20:05 | [Instacart 为何最终落入 DoorDash 的购物车](https://aiguanchao.com/items/1556da0399fd2ce3e4052f2a7483bfceae5bbb74) | The Information |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
