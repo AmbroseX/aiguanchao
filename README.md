@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-02 19:13(北京时间)
+最后更新:2026-11-03 05:43(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,6 +38,9 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-02 22:28 | [Anthropic第三季度营收同比增长1127% Claude营收达170亿美元](https://aiguanchao.com/items/c3cde9c55e16f731e9cabdb68fb50a699632a367) | 财联社 电报 |
+| 11-02 21:17 | [阿联酋高管：全球石油库存较伊朗战事前减少10亿桶](https://aiguanchao.com/items/a61b62336d6c866f4b182d8d23e2e142551ed4e4) | 财联社 电报 |
+| 11-02 19:41 | [一次群晖 NAS 勒索病毒被坑与恢复实录](https://aiguanchao.com/items/e723ab812a63c72b210c5e90474903a7996744f4) | V2EX |
 | 11-02 09:17 | [Anthropic冲刺史上最大IPO：半年营收暴增13倍，估值预期却缩水四分之一](https://aiguanchao.com/items/fd1e4dd8e13ec49d5ba2ae64c6dbaef4d422ca7f) | 驱动中国 |
 | 11-02 08:26 | [币安遭遇史上最大规模黑客攻击后重新开放，用户净提现36亿美元](https://aiguanchao.com/items/7105abf3d83241c524a691c98dc35e03f685c164) | BBC Technology |
 | 11-02 06:04 | [Magma 正与 CASSA 合作调查近期意外模型行为事件](https://aiguanchao.com/items/ed598f6c8c79bd282d227724a79228fba61bbf83) | LessWrong |
@@ -55,9 +58,6 @@
 | 10-30 23:12 | [Northflank 遭遇安全入侵，官方敦促用户立即轮换环境变量](https://aiguanchao.com/items/ea27461df4276a4feb4e7676259bd436a79758ac) | Hacker News 热门 |
 | 10-30 18:56 | [DeepSeek千亿融资曝光：估值达6155亿元](https://aiguanchao.com/items/6e6124a1313057fc7238888755a83ed676193265) | 钛媒体 |
 | 10-30 08:00 | [Cursor 市场上的 Claude Code for VS Code 官方扩展被发现植入后门](https://aiguanchao.com/items/5bd425da52a08100e5466c26e57e46025fadf78b) | Hacker News 前页 (RSS) |
-| 10-30 07:37 | [OpenAI 称其耗资 1000 万美元的 Navier-Stokes 证明明年或只需 10 万美元](https://aiguanchao.com/items/f85207e7c70638a9a4b95b2414fc65b8be728967) | Crypto Briefing |
-| 10-30 06:05 | [WordPress远程代码执行漏洞遭利用，补丁发布仅数小时即现攻击](https://aiguanchao.com/items/5a6c09d947f0de58b7f2c75caf54b6c21d3d5bd7) | FreeBuf |
-| 10-30 05:40 | [AI 可在用户收到更新前将安全补丁转化为可用漏洞利用](https://aiguanchao.com/items/dadf6229d3d7b8c72c2c67b110987911b52ca507) | Epoch AI — Latest |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
