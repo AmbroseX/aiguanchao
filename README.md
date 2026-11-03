@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-03 05:43(北京时间)
+最后更新:2026-11-03 14:51(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 3 日 早报](https://aiguanchao.com/daily/2026-11-03/morning)
 - [11 月 2 日 晚报](https://aiguanchao.com/daily/2026-11-02/evening)
 - [11 月 2 日 早报](https://aiguanchao.com/daily/2026-11-02/morning)
 - [11 月 1 日 晚报](https://aiguanchao.com/daily/2026-11-01/evening)
 - [11 月 1 日 早报](https://aiguanchao.com/daily/2026-11-01/morning)
 - [10 月 31 日 晚报](https://aiguanchao.com/daily/2026-10-31/evening)
-- [10 月 31 日 早报](https://aiguanchao.com/daily/2026-10-31/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,8 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-03 11:49 | [31岁华人女工程师离世！ChatGPT被控25天诱导停药，27万条聊天曝光](https://aiguanchao.com/items/24ef5a86d326c579aa2c3600025d9a6b19416413) | 新智元 |
+| 11-03 02:12 | [AI 热潮面临新一轮供给紧缩：这次是资本供给跟不上硅谷无止境的资金需求](https://aiguanchao.com/items/44a5134b7332e09edce3cdaaab81600eb672d83d) | Fortune / FORTUNE |
 | 11-02 22:28 | [Anthropic第三季度营收同比增长1127% Claude营收达170亿美元](https://aiguanchao.com/items/c3cde9c55e16f731e9cabdb68fb50a699632a367) | 财联社 电报 |
 | 11-02 21:17 | [阿联酋高管：全球石油库存较伊朗战事前减少10亿桶](https://aiguanchao.com/items/a61b62336d6c866f4b182d8d23e2e142551ed4e4) | 财联社 电报 |
 | 11-02 19:41 | [一次群晖 NAS 勒索病毒被坑与恢复实录](https://aiguanchao.com/items/e723ab812a63c72b210c5e90474903a7996744f4) | V2EX |
@@ -45,6 +47,7 @@
 | 11-02 08:26 | [币安遭遇史上最大规模黑客攻击后重新开放，用户净提现36亿美元](https://aiguanchao.com/items/7105abf3d83241c524a691c98dc35e03f685c164) | BBC Technology |
 | 11-02 06:04 | [Magma 正与 CASSA 合作调查近期意外模型行为事件](https://aiguanchao.com/items/ed598f6c8c79bd282d227724a79228fba61bbf83) | LessWrong |
 | 11-02 02:14 | [Andrej Karpathy 用 Claude 打造 HackerTube 视频推荐站](https://aiguanchao.com/items/ed8757e13affc2e251ca5323b7a7cd0b145287c5) | Andrej Karpathy |
+| 11-01 19:23 | [FBI指认朝鲜盗窃币安60亿美元加密资产，敦促行业拦截涉案交易](https://aiguanchao.com/items/8a322cc6275ff9e3331d50f06c06a62ae90e4cba) | FreeBuf |
 | 11-01 07:15 | [我们如何接管 ChatGPT 账户](https://aiguanchao.com/items/562c2f93d155650261ade976bf0e1540444598b9) | Simon Willison's Blog |
 | 10-31 23:56 | [AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元](https://aiguanchao.com/items/b09fe95c6b0a708171d375711a14146455f10ebe) | IT之家 |
 | 10-31 17:57 | [npm 最低发布年龄：为依赖设置一个冷却期](https://aiguanchao.com/items/f378fcccafdf1b5a610a33bdcfc9873df68ca649) | DEV Community |
@@ -55,9 +58,6 @@
 | 10-31 09:20 | [Nvidia 考虑为 Nscale 在西弗吉尼亚州的 AI 数据中心担任债务担保人](https://aiguanchao.com/items/f03028b7b703bce2800be2b8758907794c76b9e7) | TechCrunch |
 | 10-31 06:59 | [苹果和阿里巴巴达成合作 千问集成到Apple智能](https://aiguanchao.com/items/601dba4af16cf42b36668987d85ea58fd20a3e34) | 财联社 电报 |
 | 10-31 05:09 | [Linux 内核严重漏洞可对 MPTCP 服务器发起远程 root 攻击](https://aiguanchao.com/items/ff93ce5d22fcce2f9ac0d561013586de7f15c0e2) | BleepingComputer |
-| 10-30 23:12 | [Northflank 遭遇安全入侵，官方敦促用户立即轮换环境变量](https://aiguanchao.com/items/ea27461df4276a4feb4e7676259bd436a79758ac) | Hacker News 热门 |
-| 10-30 18:56 | [DeepSeek千亿融资曝光：估值达6155亿元](https://aiguanchao.com/items/6e6124a1313057fc7238888755a83ed676193265) | 钛媒体 |
-| 10-30 08:00 | [Cursor 市场上的 Claude Code for VS Code 官方扩展被发现植入后门](https://aiguanchao.com/items/5bd425da52a08100e5466c26e57e46025fadf78b) | Hacker News 前页 (RSS) |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
