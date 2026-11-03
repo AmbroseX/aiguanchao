@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-04 01:05(北京时间)
+最后更新:2026-11-04 07:25(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,7 +38,8 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 11-03 22:55 | [Binance 揭露 63.4 亿美元被盗事件：假招聘面试与被入侵的 AI 工具所致](https://aiguanchao.com/items/9c60b98a400b10e970dc9e143c9e40b6022cc804) | Crypto Briefing |
+| 11-04 05:35 | [Menlo Ventures 发布 2026 企业 AI 现状报告：部署支出增至 1770 亿美元](https://aiguanchao.com/items/2c96de59c3e8b39c2243eead51894cb734db1cc1) | Rohan Paul |
+| 11-04 04:05 | [Binance 称虚假求职面试导致 63 亿美元加密货币失窃](https://aiguanchao.com/items/1e314c2aa50322cdbdc98fc29694e7610dbb48f9) | BleepingComputer |
 | 11-03 21:23 | [FT 报道 Nvidia 要求数据中心客户至少 51% 服务面向非中国企业](https://aiguanchao.com/items/4bcd4776ecfa447eba317b0ad237c92d42225597) | Rohan Paul |
 | 11-03 19:47 | [华为因 HBM 短缺让客户自行采购 AI 芯片内存，黑市 HBM3E 涨至约 4000 美元一颗](https://aiguanchao.com/items/e045565ec867566233bad5e415872fa61a4d8080) | The Decoder：AI News |
 | 11-03 11:49 | [31岁华人女工程师离世！ChatGPT被控25天诱导停药，27万条聊天曝光](https://aiguanchao.com/items/24ef5a86d326c579aa2c3600025d9a6b19416413) | 新智元 |
@@ -57,7 +58,6 @@
 | 10-31 16:49 | [美国以国安为由 计划禁止中国电信企业直接接入美国电话号码](https://aiguanchao.com/items/e987e13984b8b870baabdcad11f24fef5679e472) | 法广中文 |
 | 10-31 13:00 | [Google 承认 AI Mode 拖累搜索收入，股价跌 15%、市值蒸发 5000 亿美元](https://aiguanchao.com/items/c713749ef72ff9d148acd659e293de4877a0de02) | Latent Space |
 | 10-31 11:46 | [重磅！AI补全人类史上最大数学证明，数学家当场泪崩](https://aiguanchao.com/items/313b41addb2c393f99c22f407581f524bf954718) | 新智元 |
-| 10-31 11:25 | [Anthropic IPO 招股文件披露近 9000 亿美元隐性债务](https://aiguanchao.com/items/43b60f07fef568daf242b2cb9fe2b554b5369fb0) | IT之家·人工智能 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
