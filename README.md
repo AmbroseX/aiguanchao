@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-04 14:28(北京时间)
+最后更新:2026-11-05 01:17(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 4 日 晚报](https://aiguanchao.com/daily/2026-11-04/evening)
 - [11 月 4 日 早报](https://aiguanchao.com/daily/2026-11-04/morning)
 - [11 月 3 日 晚报](https://aiguanchao.com/daily/2026-11-03/evening)
 - [11 月 3 日 早报](https://aiguanchao.com/daily/2026-11-03/morning)
 - [11 月 2 日 晚报](https://aiguanchao.com/daily/2026-11-02/evening)
 - [11 月 2 日 早报](https://aiguanchao.com/daily/2026-11-02/morning)
-- [11 月 1 日 晚报](https://aiguanchao.com/daily/2026-11-01/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,9 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-04 20:46 | [Debian 发布 apt 安全更新：中间人攻击可致任意代码执行](https://aiguanchao.com/items/f99a4e7859ec94cf8786bdda774d6d889a9717fc) | Hacker News 热门 |
+| 11-04 19:03 | [Oracle 因美方反对取消价值 70 亿美元、向腾讯提供至多 10 万块先进 AI 芯片的租约](https://aiguanchao.com/items/646ba442315191027ae2b963d3c8a3f896a496a4) | Rohan Paul |
+| 11-04 12:54 | [[网络安全] Nikke PC 国际服启动器被投毒，最近玩的建议自查一下](https://aiguanchao.com/items/439dcf67737324f171f59f23eccde9a650b5944c) | V2EX |
 | 11-04 05:35 | [Menlo Ventures 发布 2026 企业 AI 现状报告：部署支出增至 1770 亿美元](https://aiguanchao.com/items/2c96de59c3e8b39c2243eead51894cb734db1cc1) | Rohan Paul |
 | 11-03 21:23 | [FT 报道 Nvidia 要求数据中心客户至少 51% 服务面向非中国企业](https://aiguanchao.com/items/4bcd4776ecfa447eba317b0ad237c92d42225597) | Rohan Paul |
 | 11-03 19:47 | [华为因 HBM 短缺让客户自行采购 AI 芯片内存，黑市 HBM3E 涨至约 4000 美元一颗](https://aiguanchao.com/items/e045565ec867566233bad5e415872fa61a4d8080) | The Decoder：AI News |
@@ -55,9 +58,6 @@
 | 10-31 23:56 | [AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元](https://aiguanchao.com/items/b09fe95c6b0a708171d375711a14146455f10ebe) | IT之家 |
 | 10-31 17:57 | [npm 最低发布年龄：为依赖设置一个冷却期](https://aiguanchao.com/items/f378fcccafdf1b5a610a33bdcfc9873df68ca649) | DEV Community |
 | 10-31 16:49 | [美国以国安为由 计划禁止中国电信企业直接接入美国电话号码](https://aiguanchao.com/items/e987e13984b8b870baabdcad11f24fef5679e472) | 法广中文 |
-| 10-31 13:00 | [Google 承认 AI Mode 拖累搜索收入，股价跌 15%、市值蒸发 5000 亿美元](https://aiguanchao.com/items/c713749ef72ff9d148acd659e293de4877a0de02) | Latent Space |
-| 10-31 11:46 | [重磅！AI补全人类史上最大数学证明，数学家当场泪崩](https://aiguanchao.com/items/313b41addb2c393f99c22f407581f524bf954718) | 新智元 |
-| 10-31 11:25 | [Anthropic IPO 招股文件披露近 9000 亿美元隐性债务](https://aiguanchao.com/items/43b60f07fef568daf242b2cb9fe2b554b5369fb0) | IT之家·人工智能 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
