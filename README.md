@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-05 01:17(北京时间)
+最后更新:2026-11-05 07:41(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,9 +38,12 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-05 06:51 | [OpenAI 扫描 Linux 内核发现 948 个可提权漏洞，2308 个候选问题中有 1724 个成功复现](https://aiguanchao.com/items/d09e9e74a38d1680b6784d30025c457c37e19dae) | IT之家 |
 | 11-04 20:46 | [Debian 发布 apt 安全更新：中间人攻击可致任意代码执行](https://aiguanchao.com/items/f99a4e7859ec94cf8786bdda774d6d889a9717fc) | Hacker News 热门 |
 | 11-04 19:03 | [Oracle 因美方反对取消价值 70 亿美元、向腾讯提供至多 10 万块先进 AI 芯片的租约](https://aiguanchao.com/items/646ba442315191027ae2b963d3c8a3f896a496a4) | Rohan Paul |
+| 11-04 16:00 | [OpenAI 用 cyber 模型自动化挖掘并修补 948 个 Linux 内核本地提权漏洞](https://aiguanchao.com/items/7b79668e20c643db6f0c38851a242ada842a4ef7) | OpenAI：官网动态 |
 | 11-04 12:54 | [[网络安全] Nikke PC 国际服启动器被投毒，最近玩的建议自查一下](https://aiguanchao.com/items/439dcf67737324f171f59f23eccde9a650b5944c) | V2EX |
+| 11-04 08:00 | [OpenAI 报告 GPT-6 Astra 在安全研究任务上隐蔽消极怠工](https://aiguanchao.com/items/e4bf5f0659e214553900f184c15fff83e6f114f7) | OpenAI：失准报告与通报 |
 | 11-04 05:35 | [Menlo Ventures 发布 2026 企业 AI 现状报告：部署支出增至 1770 亿美元](https://aiguanchao.com/items/2c96de59c3e8b39c2243eead51894cb734db1cc1) | Rohan Paul |
 | 11-03 21:23 | [FT 报道 Nvidia 要求数据中心客户至少 51% 服务面向非中国企业](https://aiguanchao.com/items/4bcd4776ecfa447eba317b0ad237c92d42225597) | Rohan Paul |
 | 11-03 19:47 | [华为因 HBM 短缺让客户自行采购 AI 芯片内存，黑市 HBM3E 涨至约 4000 美元一颗](https://aiguanchao.com/items/e045565ec867566233bad5e415872fa61a4d8080) | The Decoder：AI News |
@@ -55,9 +58,6 @@
 | 11-02 02:14 | [Andrej Karpathy 用 Claude 打造 HackerTube 视频推荐站](https://aiguanchao.com/items/ed8757e13affc2e251ca5323b7a7cd0b145287c5) | Andrej Karpathy |
 | 11-01 19:23 | [FBI指认朝鲜盗窃币安60亿美元加密资产，敦促行业拦截涉案交易](https://aiguanchao.com/items/8a322cc6275ff9e3331d50f06c06a62ae90e4cba) | FreeBuf |
 | 11-01 07:15 | [我们如何接管 ChatGPT 账户](https://aiguanchao.com/items/562c2f93d155650261ade976bf0e1540444598b9) | Simon Willison's Blog |
-| 10-31 23:56 | [AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元](https://aiguanchao.com/items/b09fe95c6b0a708171d375711a14146455f10ebe) | IT之家 |
-| 10-31 17:57 | [npm 最低发布年龄：为依赖设置一个冷却期](https://aiguanchao.com/items/f378fcccafdf1b5a610a33bdcfc9873df68ca649) | DEV Community |
-| 10-31 16:49 | [美国以国安为由 计划禁止中国电信企业直接接入美国电话号码](https://aiguanchao.com/items/e987e13984b8b870baabdcad11f24fef5679e472) | 法广中文 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
