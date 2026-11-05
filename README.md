@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-05 14:51(北京时间)
+最后更新:2026-11-06 01:26(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 5 日 晚报](https://aiguanchao.com/daily/2026-11-05/evening)
 - [11 月 5 日 早报](https://aiguanchao.com/daily/2026-11-05/morning)
 - [11 月 4 日 晚报](https://aiguanchao.com/daily/2026-11-04/evening)
 - [11 月 4 日 早报](https://aiguanchao.com/daily/2026-11-04/morning)
 - [11 月 3 日 晚报](https://aiguanchao.com/daily/2026-11-03/evening)
 - [11 月 3 日 早报](https://aiguanchao.com/daily/2026-11-03/morning)
-- [11 月 2 日 晚报](https://aiguanchao.com/daily/2026-11-02/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,9 +38,12 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-05 23:01 | [a16z：漏洞利用曾是瓶颈，AI 让攻击成本从数月降到数小时](https://aiguanchao.com/items/88f486a95e3b5b03763b7b7a964b4c6397cfec21) | a16z：News |
+| 11-05 17:46 | [OpenSSH 10.6p2 发布，针对一个严重漏洞提供缓解措施](https://aiguanchao.com/items/d2ee019a1ea5744b7b4d35b7a95357ee86d250c0) | Hacker News 热门 |
 | 11-05 11:52 | [Postman、Claude Code 与那个你从未主动安装的插件](https://aiguanchao.com/items/46c8836230573c52f384b45da161837d5d28af82) | DEV Community |
 | 11-05 09:10 | [FT：政治阻力或影响美国 45% 数据中心扩张计划，Anthropic 申报约 8954 亿美元算力承诺](https://aiguanchao.com/items/3c458bccaae8118c6ab607d88d4fe885ce2a7b5f) | Rohan Paul |
 | 11-05 01:30 | [实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点](https://aiguanchao.com/items/9717f5f4e1836ea32370cdef5009e781b5b97b10) | 爱范儿 |
+| 11-05 00:00 | [Alpine Linux 安全公告：OpenSSH-server 密码认证绕过漏洞](https://aiguanchao.com/items/f354aa8649c00638f12529f9bd6f71255e54e292) | Hacker News 前页 (RSS) |
 | 11-04 20:46 | [Debian 发布 apt 安全更新：中间人攻击可致任意代码执行](https://aiguanchao.com/items/f99a4e7859ec94cf8786bdda774d6d889a9717fc) | Hacker News 热门 |
 | 11-04 19:03 | [Oracle 因美方反对取消价值 70 亿美元、向腾讯提供至多 10 万块先进 AI 芯片的租约](https://aiguanchao.com/items/646ba442315191027ae2b963d3c8a3f896a496a4) | Rohan Paul |
 | 11-04 17:37 | [Ruby on Rails曝出高危漏洞，攻击者可利用ImageMagick上传逻辑写入服务器任意文件](https://aiguanchao.com/items/49a68a8e9085f9bca01dce5a2314652664bd9e02) | FreeBuf |
@@ -55,9 +58,6 @@
 | 11-02 22:28 | [Anthropic第三季度营收同比增长1127% Claude营收达170亿美元](https://aiguanchao.com/items/c3cde9c55e16f731e9cabdb68fb50a699632a367) | 财联社 电报 |
 | 11-02 21:17 | [阿联酋高管：全球石油库存较伊朗战事前减少10亿桶](https://aiguanchao.com/items/a61b62336d6c866f4b182d8d23e2e142551ed4e4) | 财联社 电报 |
 | 11-02 19:41 | [一次群晖 NAS 勒索病毒被坑与恢复实录](https://aiguanchao.com/items/e723ab812a63c72b210c5e90474903a7996744f4) | V2EX |
-| 11-02 09:17 | [Anthropic冲刺史上最大IPO：半年营收暴增13倍，估值预期却缩水四分之一](https://aiguanchao.com/items/fd1e4dd8e13ec49d5ba2ae64c6dbaef4d422ca7f) | 驱动中国 |
-| 11-02 08:26 | [币安遭遇史上最大规模黑客攻击后重新开放，用户净提现36亿美元](https://aiguanchao.com/items/7105abf3d83241c524a691c98dc35e03f685c164) | BBC Technology |
-| 11-02 06:04 | [Magma 正与 CASSA 合作调查近期意外模型行为事件](https://aiguanchao.com/items/ed598f6c8c79bd282d227724a79228fba61bbf83) | LessWrong |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
