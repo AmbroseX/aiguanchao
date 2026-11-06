@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-06 07:39(北京时间)
+最后更新:2026-11-06 14:51(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 6 日 早报](https://aiguanchao.com/daily/2026-11-06/morning)
 - [11 月 5 日 晚报](https://aiguanchao.com/daily/2026-11-05/evening)
 - [11 月 5 日 早报](https://aiguanchao.com/daily/2026-11-05/morning)
 - [11 月 4 日 晚报](https://aiguanchao.com/daily/2026-11-04/evening)
 - [11 月 4 日 早报](https://aiguanchao.com/daily/2026-11-04/morning)
 - [11 月 3 日 晚报](https://aiguanchao.com/daily/2026-11-03/evening)
-- [11 月 3 日 早报](https://aiguanchao.com/daily/2026-11-03/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,14 +38,9 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 11-06 06:27 | [OpenAI 发布 GPT-6 Cyber 漏洞挖掘模型，被评为最高网络风险等级](https://aiguanchao.com/items/748b622245111680bae25eb8738b9def2d5661ff) | Rohan Paul |
 | 11-06 03:06 | [METR：对 Anthropic AI 研发加速的独立评估（2026 年 10 月）](https://aiguanchao.com/items/ef549a9abfeeb4dcb38911e2b6979dfa911b7caf) | LessWrong |
-| 11-06 02:14 | [OpenSSH 与 musl-libc 组合漏洞：在 Alpine Linux 等发行版输入超 256 字符密码即可任意登录](https://aiguanchao.com/items/cdd45e15ea3a2b503c762709dcc18966f455ec78) | Bruno Ferreira |
 | 11-06 02:14 | [OpenAI 团队用网络安全模型扫描开源项目，发现 Firefox 111 个渲染器 RCE](https://aiguanchao.com/items/7b6bd69e43cd4e1d4109f565ea0a2417b0108e2a) | Greg Brockman |
-| 11-06 01:45 | [OpenSSH 漏洞允许攻击者登录已禁用密码的 Linux 账户](https://aiguanchao.com/items/d5f024c522642623e43924c636285a8fe83104da) | BleepingComputer |
 | 11-05 23:01 | [a16z：漏洞利用曾是瓶颈，AI 让攻击成本从数月降到数小时](https://aiguanchao.com/items/88f486a95e3b5b03763b7b7a964b4c6397cfec21) | a16z：News |
-| 11-05 17:46 | [OpenSSH 10.6p2 发布，针对一个严重漏洞提供缓解措施](https://aiguanchao.com/items/d2ee019a1ea5744b7b4d35b7a95357ee86d250c0) | Hacker News 热门 |
-| 11-05 17:00 | [OpenAI 发布 GPT-6 Cyber 网络安全模型](https://aiguanchao.com/items/5845296b40cf6ee9e9b6bc8439acbf2227cd993a) | OpenAI：官网动态 |
 | 11-05 11:52 | [Postman、Claude Code 与那个你从未主动安装的插件](https://aiguanchao.com/items/46c8836230573c52f384b45da161837d5d28af82) | DEV Community |
 | 11-05 09:10 | [FT：政治阻力或影响美国 45% 数据中心扩张计划，Anthropic 申报约 8954 亿美元算力承诺](https://aiguanchao.com/items/3c458bccaae8118c6ab607d88d4fe885ce2a7b5f) | Rohan Paul |
 | 11-05 01:30 | [实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点](https://aiguanchao.com/items/9717f5f4e1836ea32370cdef5009e781b5b97b10) | 爱范儿 |
@@ -58,6 +53,9 @@
 | 11-04 08:00 | [OpenAI 报告 GPT-6 Astra 在安全研究任务上隐蔽消极怠工](https://aiguanchao.com/items/e4bf5f0659e214553900f184c15fff83e6f114f7) | OpenAI：失准报告与通报 |
 | 11-04 05:35 | [Menlo Ventures 发布 2026 企业 AI 现状报告：部署支出增至 1770 亿美元](https://aiguanchao.com/items/2c96de59c3e8b39c2243eead51894cb734db1cc1) | Rohan Paul |
 | 11-03 21:23 | [FT 报道 Nvidia 要求数据中心客户至少 51% 服务面向非中国企业](https://aiguanchao.com/items/4bcd4776ecfa447eba317b0ad237c92d42225597) | Rohan Paul |
+| 11-03 19:47 | [华为因 HBM 短缺让客户自行采购 AI 芯片内存，黑市 HBM3E 涨至约 4000 美元一颗](https://aiguanchao.com/items/e045565ec867566233bad5e415872fa61a4d8080) | The Decoder：AI News |
+| 11-03 11:49 | [31岁华人女工程师离世！ChatGPT被控25天诱导停药，27万条聊天曝光](https://aiguanchao.com/items/24ef5a86d326c579aa2c3600025d9a6b19416413) | 新智元 |
+| 11-03 02:12 | [AI 热潮面临新一轮供给紧缩：这次是资本供给跟不上硅谷无止境的资金需求](https://aiguanchao.com/items/44a5134b7332e09edce3cdaaab81600eb672d83d) | Fortune / FORTUNE |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
