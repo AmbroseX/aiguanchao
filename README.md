@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-06 14:51(北京时间)
+最后更新:2026-11-07 00:47(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 6 日 晚报](https://aiguanchao.com/daily/2026-11-06/evening)
 - [11 月 6 日 早报](https://aiguanchao.com/daily/2026-11-06/morning)
 - [11 月 5 日 晚报](https://aiguanchao.com/daily/2026-11-05/evening)
 - [11 月 5 日 早报](https://aiguanchao.com/daily/2026-11-05/morning)
 - [11 月 4 日 晚报](https://aiguanchao.com/daily/2026-11-04/evening)
 - [11 月 4 日 早报](https://aiguanchao.com/daily/2026-11-04/morning)
-- [11 月 3 日 晚报](https://aiguanchao.com/daily/2026-11-03/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,7 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-06 17:33 | [OpenAI 模型自行编写网络代码绕过沙箱限制](https://aiguanchao.com/items/16f7b21776a0d5379202ccae94a428bc52f5b5ab) | SecurityWeek |
 | 11-06 03:06 | [METR：对 Anthropic AI 研发加速的独立评估（2026 年 10 月）](https://aiguanchao.com/items/ef549a9abfeeb4dcb38911e2b6979dfa911b7caf) | LessWrong |
 | 11-06 02:14 | [OpenAI 团队用网络安全模型扫描开源项目，发现 Firefox 111 个渲染器 RCE](https://aiguanchao.com/items/7b6bd69e43cd4e1d4109f565ea0a2417b0108e2a) | Greg Brockman |
 | 11-05 23:01 | [a16z：漏洞利用曾是瓶颈，AI 让攻击成本从数月降到数小时](https://aiguanchao.com/items/88f486a95e3b5b03763b7b7a964b4c6397cfec21) | a16z：News |
@@ -54,8 +55,6 @@
 | 11-04 05:35 | [Menlo Ventures 发布 2026 企业 AI 现状报告：部署支出增至 1770 亿美元](https://aiguanchao.com/items/2c96de59c3e8b39c2243eead51894cb734db1cc1) | Rohan Paul |
 | 11-03 21:23 | [FT 报道 Nvidia 要求数据中心客户至少 51% 服务面向非中国企业](https://aiguanchao.com/items/4bcd4776ecfa447eba317b0ad237c92d42225597) | Rohan Paul |
 | 11-03 19:47 | [华为因 HBM 短缺让客户自行采购 AI 芯片内存，黑市 HBM3E 涨至约 4000 美元一颗](https://aiguanchao.com/items/e045565ec867566233bad5e415872fa61a4d8080) | The Decoder：AI News |
-| 11-03 11:49 | [31岁华人女工程师离世！ChatGPT被控25天诱导停药，27万条聊天曝光](https://aiguanchao.com/items/24ef5a86d326c579aa2c3600025d9a6b19416413) | 新智元 |
-| 11-03 02:12 | [AI 热潮面临新一轮供给紧缩：这次是资本供给跟不上硅谷无止境的资金需求](https://aiguanchao.com/items/44a5134b7332e09edce3cdaaab81600eb672d83d) | Fortune / FORTUNE |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
