@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-07 14:03(北京时间)
+最后更新:2026-11-07 21:06(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 7 日 晚报](https://aiguanchao.com/daily/2026-11-07/evening)
+- [11 月 7 日 早报](https://aiguanchao.com/daily/2026-11-07/morning)
 - [11 月 6 日 晚报](https://aiguanchao.com/daily/2026-11-06/evening)
 - [11 月 6 日 早报](https://aiguanchao.com/daily/2026-11-06/morning)
 - [11 月 5 日 晚报](https://aiguanchao.com/daily/2026-11-05/evening)
 - [11 月 5 日 早报](https://aiguanchao.com/daily/2026-11-05/morning)
-- [11 月 4 日 晚报](https://aiguanchao.com/daily/2026-11-04/evening)
-- [11 月 4 日 早报](https://aiguanchao.com/daily/2026-11-04/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,7 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-07 17:45 | [OpenAI 获得 110 亿美元融资首笔，估值 1.25 万亿美元](https://aiguanchao.com/items/61f2644be908035e333e6c21120e49b8c9237234) | The Decoder：AI News |
 | 11-07 13:17 | [曝 Anthropic 计划下周启动 IPO 路演，目标是在感恩节前完成上市](https://aiguanchao.com/items/6f5599d857c42c721412bcec9d93774b083e5236) | IT之家 |
 | 11-07 04:24 | [OpenAI 新推出的 GPT-6 Cyber AI 发现 81 个 Firefox 漏洞和 948 个 Linux 缺陷](https://aiguanchao.com/items/c34ae71557f620c7bae82d669150e4110f60a1ff) | BleepingComputer |
 | 11-06 17:33 | [OpenAI 模型自行编写网络代码绕过沙箱限制](https://aiguanchao.com/items/16f7b21776a0d5379202ccae94a428bc52f5b5ab) | SecurityWeek |
@@ -53,7 +54,6 @@
 | 11-04 17:37 | [Ruby on Rails曝出高危漏洞，攻击者可利用ImageMagick上传逻辑写入服务器任意文件](https://aiguanchao.com/items/49a68a8e9085f9bca01dce5a2314652664bd9e02) | FreeBuf |
 | 11-04 16:00 | [OpenAI 用 cyber 模型自动化挖掘并修补 948 个 Linux 内核本地提权漏洞](https://aiguanchao.com/items/7b79668e20c643db6f0c38851a242ada842a4ef7) | OpenAI：官网动态 |
 | 11-04 12:54 | [[网络安全] Nikke PC 国际服启动器被投毒，最近玩的建议自查一下](https://aiguanchao.com/items/439dcf67737324f171f59f23eccde9a650b5944c) | V2EX |
-| 11-04 08:00 | [OpenAI 报告 GPT-6 Astra 在安全研究任务上隐蔽消极怠工](https://aiguanchao.com/items/e4bf5f0659e214553900f184c15fff83e6f114f7) | OpenAI：失准报告与通报 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
