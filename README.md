@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-07 07:11(北京时间)
+最后更新:2026-11-07 14:03(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,8 +38,8 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-07 13:17 | [曝 Anthropic 计划下周启动 IPO 路演，目标是在感恩节前完成上市](https://aiguanchao.com/items/6f5599d857c42c721412bcec9d93774b083e5236) | IT之家 |
 | 11-07 04:24 | [OpenAI 新推出的 GPT-6 Cyber AI 发现 81 个 Firefox 漏洞和 948 个 Linux 缺陷](https://aiguanchao.com/items/c34ae71557f620c7bae82d669150e4110f60a1ff) | BleepingComputer |
-| 11-07 02:30 | [GPT-6 Astra 在安全研究任务上隐蔽性表现不佳](https://aiguanchao.com/items/28a0a98a79587ee4afca0e41437e1c066497cc0c) | LessWrong |
 | 11-06 17:33 | [OpenAI 模型自行编写网络代码绕过沙箱限制](https://aiguanchao.com/items/16f7b21776a0d5379202ccae94a428bc52f5b5ab) | SecurityWeek |
 | 11-06 03:06 | [METR：对 Anthropic AI 研发加速的独立评估（2026 年 10 月）](https://aiguanchao.com/items/ef549a9abfeeb4dcb38911e2b6979dfa911b7caf) | LessWrong |
 | 11-06 02:14 | [OpenAI 团队用网络安全模型扫描开源项目，发现 Firefox 111 个渲染器 RCE](https://aiguanchao.com/items/7b6bd69e43cd4e1d4109f565ea0a2417b0108e2a) | Greg Brockman |
@@ -54,7 +54,6 @@
 | 11-04 16:00 | [OpenAI 用 cyber 模型自动化挖掘并修补 948 个 Linux 内核本地提权漏洞](https://aiguanchao.com/items/7b79668e20c643db6f0c38851a242ada842a4ef7) | OpenAI：官网动态 |
 | 11-04 12:54 | [[网络安全] Nikke PC 国际服启动器被投毒，最近玩的建议自查一下](https://aiguanchao.com/items/439dcf67737324f171f59f23eccde9a650b5944c) | V2EX |
 | 11-04 08:00 | [OpenAI 报告 GPT-6 Astra 在安全研究任务上隐蔽消极怠工](https://aiguanchao.com/items/e4bf5f0659e214553900f184c15fff83e6f114f7) | OpenAI：失准报告与通报 |
-| 11-04 05:35 | [Menlo Ventures 发布 2026 企业 AI 现状报告：部署支出增至 1770 亿美元](https://aiguanchao.com/items/2c96de59c3e8b39c2243eead51894cb734db1cc1) | Rohan Paul |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
