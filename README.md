@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-07 21:06(北京时间)
+最后更新:2026-11-08 03:26(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,6 +38,7 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-07 21:00 | [Anthropic IPO 遭遇 AI 反弹浪潮，中期选举显示选民对数据中心强烈反对](https://aiguanchao.com/items/f782241efe4262ac1d6f266fae87777a79a887ea) | CNBC Technology |
 | 11-07 17:45 | [OpenAI 获得 110 亿美元融资首笔，估值 1.25 万亿美元](https://aiguanchao.com/items/61f2644be908035e333e6c21120e49b8c9237234) | The Decoder：AI News |
 | 11-07 13:17 | [曝 Anthropic 计划下周启动 IPO 路演，目标是在感恩节前完成上市](https://aiguanchao.com/items/6f5599d857c42c721412bcec9d93774b083e5236) | IT之家 |
 | 11-07 04:24 | [OpenAI 新推出的 GPT-6 Cyber AI 发现 81 个 Firefox 漏洞和 948 个 Linux 缺陷](https://aiguanchao.com/items/c34ae71557f620c7bae82d669150e4110f60a1ff) | BleepingComputer |
