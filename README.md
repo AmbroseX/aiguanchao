@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-08 08:39(北京时间)
+最后更新:2026-11-08 18:26(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 8 日 晚报](https://aiguanchao.com/daily/2026-11-08/evening)
 - [11 月 8 日 早报](https://aiguanchao.com/daily/2026-11-08/morning)
 - [11 月 7 日 晚报](https://aiguanchao.com/daily/2026-11-07/evening)
 - [11 月 7 日 早报](https://aiguanchao.com/daily/2026-11-07/morning)
 - [11 月 6 日 晚报](https://aiguanchao.com/daily/2026-11-06/evening)
 - [11 月 6 日 早报](https://aiguanchao.com/daily/2026-11-06/morning)
-- [11 月 5 日 晚报](https://aiguanchao.com/daily/2026-11-05/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
