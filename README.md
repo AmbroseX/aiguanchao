@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-08 18:26(北京时间)
+最后更新:2026-11-09 01:56(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,6 +38,7 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-08 22:10 | [GPT-6 Cyber: OpenAI rates its new security model as Critical](https://aiguanchao.com/items/60ddf5ff701b1bee45aceaae86856bdedc21a5bd) | Notebookcheck.net: News RSS Feed |
 | 11-08 01:12 | [任意阶全局周期有理差分方程问题被完全解决，证明主要由 Claude 生成并以 Lean 形式化](https://aiguanchao.com/items/b4ee9d1bf39d7c53060e8a0b5f98e499bda38b1e) | Hexagon — All submissions |
 | 11-07 21:00 | [Anthropic IPO 遭遇 AI 反弹浪潮，中期选举显示选民对数据中心强烈反对](https://aiguanchao.com/items/f782241efe4262ac1d6f266fae87777a79a887ea) | CNBC Technology |
 | 11-07 17:45 | [OpenAI 获得 110 亿美元融资首笔，估值 1.25 万亿美元](https://aiguanchao.com/items/61f2644be908035e333e6c21120e49b8c9237234) | The Decoder：AI News |
@@ -55,7 +56,6 @@
 | 11-04 19:03 | [Oracle 因美方反对取消价值 70 亿美元、向腾讯提供至多 10 万块先进 AI 芯片的租约](https://aiguanchao.com/items/646ba442315191027ae2b963d3c8a3f896a496a4) | Rohan Paul |
 | 11-04 17:37 | [Ruby on Rails曝出高危漏洞，攻击者可利用ImageMagick上传逻辑写入服务器任意文件](https://aiguanchao.com/items/49a68a8e9085f9bca01dce5a2314652664bd9e02) | FreeBuf |
 | 11-04 16:00 | [OpenAI 用 cyber 模型自动化挖掘并修补 948 个 Linux 内核本地提权漏洞](https://aiguanchao.com/items/7b79668e20c643db6f0c38851a242ada842a4ef7) | OpenAI：官网动态 |
-| 11-04 12:54 | [[网络安全] Nikke PC 国际服启动器被投毒，最近玩的建议自查一下](https://aiguanchao.com/items/439dcf67737324f171f59f23eccde9a650b5944c) | V2EX |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
