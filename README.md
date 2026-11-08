@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-08 03:26(北京时间)
+最后更新:2026-11-08 08:39(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 8 日 早报](https://aiguanchao.com/daily/2026-11-08/morning)
 - [11 月 7 日 晚报](https://aiguanchao.com/daily/2026-11-07/evening)
 - [11 月 7 日 早报](https://aiguanchao.com/daily/2026-11-07/morning)
 - [11 月 6 日 晚报](https://aiguanchao.com/daily/2026-11-06/evening)
 - [11 月 6 日 早报](https://aiguanchao.com/daily/2026-11-06/morning)
 - [11 月 5 日 晚报](https://aiguanchao.com/daily/2026-11-05/evening)
-- [11 月 5 日 早报](https://aiguanchao.com/daily/2026-11-05/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,7 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-08 01:12 | [任意阶全局周期有理差分方程问题被完全解决，证明主要由 Claude 生成并以 Lean 形式化](https://aiguanchao.com/items/b4ee9d1bf39d7c53060e8a0b5f98e499bda38b1e) | Hexagon — All submissions |
 | 11-07 21:00 | [Anthropic IPO 遭遇 AI 反弹浪潮，中期选举显示选民对数据中心强烈反对](https://aiguanchao.com/items/f782241efe4262ac1d6f266fae87777a79a887ea) | CNBC Technology |
 | 11-07 17:45 | [OpenAI 获得 110 亿美元融资首笔，估值 1.25 万亿美元](https://aiguanchao.com/items/61f2644be908035e333e6c21120e49b8c9237234) | The Decoder：AI News |
 | 11-07 13:17 | [曝 Anthropic 计划下周启动 IPO 路演，目标是在感恩节前完成上市](https://aiguanchao.com/items/6f5599d857c42c721412bcec9d93774b083e5236) | IT之家 |
