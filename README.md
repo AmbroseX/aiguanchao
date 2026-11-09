@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-09 06:09(北京时间)
+最后更新:2026-11-09 14:37(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 9 日 早报](https://aiguanchao.com/daily/2026-11-09/morning)
 - [11 月 8 日 晚报](https://aiguanchao.com/daily/2026-11-08/evening)
 - [11 月 8 日 早报](https://aiguanchao.com/daily/2026-11-08/morning)
 - [11 月 7 日 晚报](https://aiguanchao.com/daily/2026-11-07/evening)
 - [11 月 7 日 早报](https://aiguanchao.com/daily/2026-11-07/morning)
 - [11 月 6 日 晚报](https://aiguanchao.com/daily/2026-11-06/evening)
-- [11 月 6 日 早报](https://aiguanchao.com/daily/2026-11-06/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,7 +38,8 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 11-09 05:27 | [英伟达 CEO 黄仁勋承认与疑似中国间谍有婚外情，并在致员工信中道歉](https://aiguanchao.com/items/1ce0d0e13b0188660c22cf13148ecd47f7e04e65) | Anton Shilov |
+| 11-09 11:51 | [小心，Claude Code 会擅自泄露你的邮箱！请抓紧时间更新](https://aiguanchao.com/items/67d0b9058de470b6d6a7818a2ee5aede55182403) | 新智元 |
+| 11-09 05:54 | [GitHub Actions 报错 "Resource not accessible by integration"：用最小 GITHUB_TOKEN 权限修复](https://aiguanchao.com/items/c7b2786d44548c55e1affa3e9b7039fc607a568a) | DEV Community |
 | 11-09 04:22 | [Nvidia 调查黄仁勋与中国间谍的关系](https://aiguanchao.com/items/c933ef853846540e835affbcc14df1922e08ae78) | The Verge：AI |
 | 11-08 22:10 | [GPT-6 Cyber：OpenAI 将其新网络安全模型定为 Critical 级](https://aiguanchao.com/items/60ddf5ff701b1bee45aceaae86856bdedc21a5bd) | Notebookcheck.net: News RSS Feed |
 | 11-08 01:12 | [任意阶全局周期有理差分方程问题被完全解决，证明主要由 Claude 生成并以 Lean 形式化](https://aiguanchao.com/items/b4ee9d1bf39d7c53060e8a0b5f98e499bda38b1e) | Hexagon — All submissions |
@@ -55,8 +56,6 @@
 | 11-05 01:30 | [实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点](https://aiguanchao.com/items/9717f5f4e1836ea32370cdef5009e781b5b97b10) | 爱范儿 |
 | 11-05 00:00 | [Alpine Linux 安全公告：OpenSSH-server 密码认证绕过漏洞](https://aiguanchao.com/items/f354aa8649c00638f12529f9bd6f71255e54e292) | Hacker News 前页 (RSS) |
 | 11-04 20:46 | [Debian 发布 apt 安全更新：中间人攻击可致任意代码执行](https://aiguanchao.com/items/f99a4e7859ec94cf8786bdda774d6d889a9717fc) | Hacker News 热门 |
-| 11-04 19:03 | [Oracle 因美方反对取消价值 70 亿美元、向腾讯提供至多 10 万块先进 AI 芯片的租约](https://aiguanchao.com/items/646ba442315191027ae2b963d3c8a3f896a496a4) | Rohan Paul |
-| 11-04 17:37 | [Ruby on Rails曝出高危漏洞，攻击者可利用ImageMagick上传逻辑写入服务器任意文件](https://aiguanchao.com/items/49a68a8e9085f9bca01dce5a2314652664bd9e02) | FreeBuf |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
