@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-10 03:51(北京时间)
+最后更新:2026-11-10 11:35(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 10 日 早报](https://aiguanchao.com/daily/2026-11-10/morning)
 - [11 月 9 日 晚报](https://aiguanchao.com/daily/2026-11-09/evening)
 - [11 月 9 日 早报](https://aiguanchao.com/daily/2026-11-09/morning)
 - [11 月 8 日 晚报](https://aiguanchao.com/daily/2026-11-08/evening)
 - [11 月 8 日 早报](https://aiguanchao.com/daily/2026-11-08/morning)
 - [11 月 7 日 晚报](https://aiguanchao.com/daily/2026-11-07/evening)
-- [11 月 7 日 早报](https://aiguanchao.com/daily/2026-11-07/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,8 +38,7 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 11-09 23:11 | [黄仁勋被指陷入蜜罐事件后，英伟达董事会展开调查](https://aiguanchao.com/items/f9288dc96cc0aac86e8a1fc1c5c05b9dc6af76eb) | Big Technology |
-| 11-09 19:38 | [Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls](https://aiguanchao.com/items/fdbc94077973cd045f8abb271be2cc715990f592) | THE DECODER |
+| 11-09 23:57 | [Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy](https://aiguanchao.com/items/7694dcf798aa015ccbf0de0f711db049e778a49b) | Stephen Warwick |
 | 11-09 11:51 | [小心，Claude Code 会擅自泄露你的邮箱！请抓紧时间更新](https://aiguanchao.com/items/67d0b9058de470b6d6a7818a2ee5aede55182403) | 新智元 |
 | 11-09 11:25 | [英伟达 CEO 黄仁勋承认与涉嫌中国间谍的女性有染，董事会宣布启动调查](https://aiguanchao.com/items/15c9c24cd64fcbb67ee8923a4dd9fcb9531e18fe) | Le Monde.fr - Actualités et Infos en France et dans le monde |
 | 11-09 05:54 | [GitHub Actions 报错 "Resource not accessible by integration"：用最小 GITHUB_TOKEN 权限修复](https://aiguanchao.com/items/c7b2786d44548c55e1affa3e9b7039fc607a568a) | DEV Community |
