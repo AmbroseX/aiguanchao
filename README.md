@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-10 11:35(北京时间)
+最后更新:2026-11-10 22:56(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 10 日 晚报](https://aiguanchao.com/daily/2026-11-10/evening)
 - [11 月 10 日 早报](https://aiguanchao.com/daily/2026-11-10/morning)
 - [11 月 9 日 晚报](https://aiguanchao.com/daily/2026-11-09/evening)
 - [11 月 9 日 早报](https://aiguanchao.com/daily/2026-11-09/morning)
 - [11 月 8 日 晚报](https://aiguanchao.com/daily/2026-11-08/evening)
 - [11 月 8 日 早报](https://aiguanchao.com/daily/2026-11-08/morning)
-- [11 月 7 日 晚报](https://aiguanchao.com/daily/2026-11-07/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,10 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-10 10:30 | [美国商务部就芯片展开的调查在英伟达介入后中止](https://aiguanchao.com/items/05b20063e5236c7bf1cf4b942fdad2e2e5bd1b29) | 纽约时报中文网 |
+| 11-10 08:18 | [黄仁勋的麻烦令 AI 行业陷入动荡](https://aiguanchao.com/items/32ce9e564fb5a554080d49c678ceeaefc781f47c) | Wired AI |
+| 11-10 05:42 | [The Jensen Huang spy scandal is becoming a White House problem](https://aiguanchao.com/items/f93327a529362627208b7f6576ca81484a7cfdef) | Fast Company AI |
+| 11-10 02:56 | [Claude Fable 5.2 and Mythos 5.2](https://aiguanchao.com/items/b7d2d9faaca0b746802a3a1a341558c7e5849c65) | Hacker News 热门 |
 | 11-09 23:57 | [Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy](https://aiguanchao.com/items/7694dcf798aa015ccbf0de0f711db049e778a49b) | Stephen Warwick |
 | 11-09 11:51 | [小心，Claude Code 会擅自泄露你的邮箱！请抓紧时间更新](https://aiguanchao.com/items/67d0b9058de470b6d6a7818a2ee5aede55182403) | 新智元 |
 | 11-09 11:25 | [英伟达 CEO 黄仁勋承认与涉嫌中国间谍的女性有染，董事会宣布启动调查](https://aiguanchao.com/items/15c9c24cd64fcbb67ee8923a4dd9fcb9531e18fe) | Le Monde.fr - Actualités et Infos en France et dans le monde |
@@ -54,9 +58,6 @@
 | 11-06 02:14 | [OpenAI 团队用网络安全模型扫描开源项目，发现 Firefox 111 个渲染器 RCE](https://aiguanchao.com/items/7b6bd69e43cd4e1d4109f565ea0a2417b0108e2a) | Greg Brockman |
 | 11-05 23:01 | [a16z：漏洞利用曾是瓶颈，AI 让攻击成本从数月降到数小时](https://aiguanchao.com/items/88f486a95e3b5b03763b7b7a964b4c6397cfec21) | a16z：News |
 | 11-05 11:52 | [Postman、Claude Code 与那个你从未主动安装的插件](https://aiguanchao.com/items/46c8836230573c52f384b45da161837d5d28af82) | DEV Community |
-| 11-05 09:10 | [FT：政治阻力或影响美国 45% 数据中心扩张计划，Anthropic 申报约 8954 亿美元算力承诺](https://aiguanchao.com/items/3c458bccaae8118c6ab607d88d4fe885ce2a7b5f) | Rohan Paul |
-| 11-05 01:30 | [实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点](https://aiguanchao.com/items/9717f5f4e1836ea32370cdef5009e781b5b97b10) | 爱范儿 |
-| 11-05 00:00 | [Alpine Linux 安全公告：OpenSSH-server 密码认证绕过漏洞](https://aiguanchao.com/items/f354aa8649c00638f12529f9bd6f71255e54e292) | Hacker News 前页 (RSS) |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
