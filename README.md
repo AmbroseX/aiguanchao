@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-11 14:28(北京时间)
+最后更新:2026-11-12 01:10(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 11 日 晚报](https://aiguanchao.com/daily/2026-11-11/evening)
 - [11 月 11 日 早报](https://aiguanchao.com/daily/2026-11-11/morning)
 - [11 月 10 日 晚报](https://aiguanchao.com/daily/2026-11-10/evening)
 - [11 月 10 日 早报](https://aiguanchao.com/daily/2026-11-10/morning)
 - [11 月 9 日 晚报](https://aiguanchao.com/daily/2026-11-09/evening)
 - [11 月 9 日 早报](https://aiguanchao.com/daily/2026-11-09/morning)
-- [11 月 8 日 晚报](https://aiguanchao.com/daily/2026-11-08/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,15 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-11 21:56 | [Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼](https://aiguanchao.com/items/05924fbc76c47977d9cc564d0e042c17d343af3a) | IT之家·人工智能 |
+| 11-11 20:08 | [英伟达聘请美国顶尖律所调查黄仁勋关系风波](https://aiguanchao.com/items/16081e932f6701f22d22e9cf062e9ffb0b2fc2af) | 卫报 World |
+| 11-11 12:14 | [Anthropic 修订版 S1 文件披露与 Microsoft 和 Google 超 100 亿美元级新算力协议](https://aiguanchao.com/items/7154c6899b232e96a3c321be07bffdefe6379be7) | Rohan Paul |
+| 11-11 11:52 | [Anthropic正式启动IPO路演，估值腰斩仍破万亿！](https://aiguanchao.com/items/9a450fc89e63da5c0bcbcca3a2cd36145ae45635) | 新智元 |
+| 11-11 11:52 | [突发！特朗普自曝警告某AI巨头CEO：准备坐牢吧](https://aiguanchao.com/items/68411801db983653d548596e1ea0f24d2e7995a9) | 新智元 |
+| 11-11 11:14 | [黄仁勋事件中的"女主角"黄乐是谁？](https://aiguanchao.com/items/89502c3557272cd8a51c39414b5d77c484b68c83) | 纽约时报中文网 |
+| 11-11 10:12 | [Anthropic IPO估值较预期高点近乎腰斩，七位联合创始人拟套现超18亿美元](https://aiguanchao.com/items/d415de8a449fe719b408495fcf335cfc45e0b2a2) | 驱动中国 |
+| 11-11 08:02 | [Anthropic、IPOの仮条件を1株70～78ドルに 調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資](https://aiguanchao.com/items/106c729315103fd9baa86cdaec253e1e13179fab) | ITmedia TOP STORIES 最新記事一覧 |
+| 11-11 07:17 | [Anthropic启动IPO路演拟募资最高643.5亿美元](https://aiguanchao.com/items/fd3bd4eaff52d61540ace6ec4b36efab3c0dc89e) | 驱动中国 |
 | 11-11 07:08 | [Anthropic 发布 IPO 路演视频正式启动最高 643.5 亿美元募资计划，估值约在 1~1.4 万亿美元](https://aiguanchao.com/items/9e34a63af76469535abf727b9eda8f2ada7669b7) | IT之家 |
 | 11-11 05:33 | [Anthropic launches IPO roadshow with $64B fundraising goal](https://aiguanchao.com/items/c4965e47425ce74a9eb2a658dc9143d26ce3ca74) | SiliconANGLE |
 | 11-11 04:28 | [FT 曝 Alice Huang 借 Megaspeed 走私 Nvidia 芯片](https://aiguanchao.com/items/ec2900279b90bc615b06d45a5783ad48090022a4) | Rohan Paul |
@@ -49,15 +58,6 @@
 | 11-10 21:20 | [Anthropic Targets $1.4 Trillion Valuation in IPO](https://aiguanchao.com/items/0c161e6845415833de9ff3d61c6f61cb51b5643a) | Bloomberg Technology |
 | 11-10 20:25 | [Anthropic IPO 每股定价区间 70-78 美元，剑指 1.4 万亿美元完全摊薄估值](https://aiguanchao.com/items/49fefdea06e151da458bdd450e47559ddae9fc80) | IT之家 |
 | 11-10 19:43 | [SEC文件：Anthropic拟发行8.25亿股股票 IPO定价区间为70至78美元](https://aiguanchao.com/items/dd48474bdf82538f3171c8141a658f25fea55fbb) | 财联社 电报 |
-| 11-10 19:41 | [Anthropic：IPO目标市值约1万亿美元 下周三确定发行价、周四开始交易](https://aiguanchao.com/items/ded7e669a61e227216b33f3d4e4971326fd0fd41) | 财联社 电报 |
-| 11-10 18:47 | [招股说明书草案：Anthropic拟通过IPO筹集最多644亿美元](https://aiguanchao.com/items/7da796228ace01365681c3096874174e618b89d1) | 华尔街见闻 快讯 |
-| 11-10 15:37 | [Anthropic 称定价细节不准确，撤回“拟 IPO 筹资 693 亿美元”文件](https://aiguanchao.com/items/f6cbac8ba5824236f7da4e433add198592b27e44) | IT之家 |
-| 11-10 10:30 | [美国商务部就芯片展开的调查在英伟达介入后中止](https://aiguanchao.com/items/05b20063e5236c7bf1cf4b942fdad2e2e5bd1b29) | 纽约时报中文网 |
-| 11-10 08:18 | [黄仁勋的麻烦令 AI 行业陷入动荡](https://aiguanchao.com/items/32ce9e564fb5a554080d49c678ceeaefc781f47c) | Wired AI |
-| 11-10 07:05 | [特朗普称 FBI 正调查英伟达 CEO 黄仁勋与疑似中国间谍的关联](https://aiguanchao.com/items/a9c55f1fb6d26fbec1774353ad36437c4c22b023) | Superpower Daily |
-| 11-10 05:42 | [The Jensen Huang spy scandal is becoming a White House problem](https://aiguanchao.com/items/f93327a529362627208b7f6576ca81484a7cfdef) | Fast Company AI |
-| 11-10 02:56 | [Claude Fable 5.2 and Mythos 5.2](https://aiguanchao.com/items/b7d2d9faaca0b746802a3a1a341558c7e5849c65) | Hacker News 热门 |
-| 11-10 00:00 | [如何排查 Cursor 商店中 Claude Code 扩展的后门并将其清除](https://aiguanchao.com/items/8a10e6f4b148f10b24220bfff0e470f9e923792e) | Towards AI |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
