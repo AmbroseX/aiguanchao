@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-11 05:19(北京时间)
+最后更新:2026-11-11 14:28(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 11 日 早报](https://aiguanchao.com/daily/2026-11-11/morning)
 - [11 月 10 日 晚报](https://aiguanchao.com/daily/2026-11-10/evening)
 - [11 月 10 日 早报](https://aiguanchao.com/daily/2026-11-10/morning)
 - [11 月 9 日 晚报](https://aiguanchao.com/daily/2026-11-09/evening)
 - [11 月 9 日 早报](https://aiguanchao.com/daily/2026-11-09/morning)
 - [11 月 8 日 晚报](https://aiguanchao.com/daily/2026-11-08/evening)
-- [11 月 8 日 早报](https://aiguanchao.com/daily/2026-11-08/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,15 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-11 07:08 | [Anthropic 发布 IPO 路演视频正式启动最高 643.5 亿美元募资计划，估值约在 1~1.4 万亿美元](https://aiguanchao.com/items/9e34a63af76469535abf727b9eda8f2ada7669b7) | IT之家 |
+| 11-11 05:33 | [Anthropic launches IPO roadshow with $64B fundraising goal](https://aiguanchao.com/items/c4965e47425ce74a9eb2a658dc9143d26ce3ca74) | SiliconANGLE |
+| 11-11 04:28 | [FT 曝 Alice Huang 借 Megaspeed 走私 Nvidia 芯片](https://aiguanchao.com/items/ec2900279b90bc615b06d45a5783ad48090022a4) | Rohan Paul |
+| 11-11 03:26 | [Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe](https://aiguanchao.com/items/8395f93c760b69c1e31a7f066e9e0bc146dfdd81) | CNBC Technology |
+| 11-11 03:04 | [Anthropic 再次修订 S-1：宣布已达责任扩展政策能力阈值，IPO 定价 $70-$78](https://aiguanchao.com/items/98a84a36ccff9889e90ca266abffeb7073d0f09e) | Rohan Paul |
+| 11-11 02:45 | [Anthropic 启动 IPO 路演：拟以每股 70 至 78 美元发行，估值最高约 1.4 万亿美元](https://aiguanchao.com/items/1246194b698151ab465860422b8e2406e0ab2def) | Rohan Paul |
+| 11-11 01:21 | [Anthropic targets $1.4 trillion valuation in massive stock market debut](https://aiguanchao.com/items/e5045f5c782943e56a063ff8ba1a686b63437872) | Al Jazeera – Breaking News, World News and Video from Al Jaz |
+| 11-11 00:50 | [Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang](https://aiguanchao.com/items/92f49738e4d851d92b9a02dc0ae192e78735c299) | Jowi Morales |
+| 11-10 21:20 | [Anthropic Targets $1.4 Trillion Valuation in IPO](https://aiguanchao.com/items/0c161e6845415833de9ff3d61c6f61cb51b5643a) | Bloomberg Technology |
 | 11-10 20:25 | [Anthropic IPO 每股定价区间 70-78 美元，剑指 1.4 万亿美元完全摊薄估值](https://aiguanchao.com/items/49fefdea06e151da458bdd450e47559ddae9fc80) | IT之家 |
 | 11-10 19:43 | [SEC文件：Anthropic拟发行8.25亿股股票 IPO定价区间为70至78美元](https://aiguanchao.com/items/dd48474bdf82538f3171c8141a658f25fea55fbb) | 财联社 电报 |
 | 11-10 19:41 | [Anthropic：IPO目标市值约1万亿美元 下周三确定发行价、周四开始交易](https://aiguanchao.com/items/ded7e669a61e227216b33f3d4e4971326fd0fd41) | 财联社 电报 |
@@ -45,19 +54,10 @@
 | 11-10 15:37 | [Anthropic 称定价细节不准确，撤回“拟 IPO 筹资 693 亿美元”文件](https://aiguanchao.com/items/f6cbac8ba5824236f7da4e433add198592b27e44) | IT之家 |
 | 11-10 10:30 | [美国商务部就芯片展开的调查在英伟达介入后中止](https://aiguanchao.com/items/05b20063e5236c7bf1cf4b942fdad2e2e5bd1b29) | 纽约时报中文网 |
 | 11-10 08:18 | [黄仁勋的麻烦令 AI 行业陷入动荡](https://aiguanchao.com/items/32ce9e564fb5a554080d49c678ceeaefc781f47c) | Wired AI |
-| 11-10 07:52 | [Trump stands by Nvidia boss Jensen Huang despite spy scandal, but FBI is investigating](https://aiguanchao.com/items/ca8a86a02415c2b4a90e4322189a2f16184b02ee) | SiliconANGLE |
 | 11-10 07:05 | [特朗普称 FBI 正调查英伟达 CEO 黄仁勋与疑似中国间谍的关联](https://aiguanchao.com/items/a9c55f1fb6d26fbec1774353ad36437c4c22b023) | Superpower Daily |
 | 11-10 05:42 | [The Jensen Huang spy scandal is becoming a White House problem](https://aiguanchao.com/items/f93327a529362627208b7f6576ca81484a7cfdef) | Fast Company AI |
 | 11-10 02:56 | [Claude Fable 5.2 and Mythos 5.2](https://aiguanchao.com/items/b7d2d9faaca0b746802a3a1a341558c7e5849c65) | Hacker News 热门 |
 | 11-10 00:00 | [如何排查 Cursor 商店中 Claude Code 扩展的后门并将其清除](https://aiguanchao.com/items/8a10e6f4b148f10b24220bfff0e470f9e923792e) | Towards AI |
-| 11-10 00:00 | [Anthropic 启动 IPO 路演，拟发行 8.25 亿股 A 类普通股并申请以代码 ANT 上市纳斯达克](https://aiguanchao.com/items/4defeffd2750500473f2e6da72314d8f76f266fa) | Anthropic：Newsroom |
-| 11-09 23:57 | [Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy](https://aiguanchao.com/items/7694dcf798aa015ccbf0de0f711db049e778a49b) | Stephen Warwick |
-| 11-09 11:51 | [小心，Claude Code 会擅自泄露你的邮箱！请抓紧时间更新](https://aiguanchao.com/items/67d0b9058de470b6d6a7818a2ee5aede55182403) | 新智元 |
-| 11-09 11:25 | [英伟达 CEO 黄仁勋承认与涉嫌中国间谍的女性有染，董事会宣布启动调查](https://aiguanchao.com/items/15c9c24cd64fcbb67ee8923a4dd9fcb9531e18fe) | Le Monde.fr - Actualités et Infos en France et dans le monde |
-| 11-09 05:54 | [GitHub Actions 报错 "Resource not accessible by integration"：用最小 GITHUB_TOKEN 权限修复](https://aiguanchao.com/items/c7b2786d44548c55e1affa3e9b7039fc607a568a) | DEV Community |
-| 11-09 04:22 | [Nvidia 调查黄仁勋与中国间谍的关系](https://aiguanchao.com/items/c933ef853846540e835affbcc14df1922e08ae78) | The Verge：AI |
-| 11-08 22:10 | [GPT-6 Cyber：OpenAI 将其新网络安全模型定为 Critical 级](https://aiguanchao.com/items/60ddf5ff701b1bee45aceaae86856bdedc21a5bd) | Notebookcheck.net: News RSS Feed |
-| 11-08 01:12 | [任意阶全局周期有理差分方程问题被完全解决，证明主要由 Claude 生成并以 Lean 形式化](https://aiguanchao.com/items/b4ee9d1bf39d7c53060e8a0b5f98e499bda38b1e) | Hexagon — All submissions |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
