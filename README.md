@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-13 09:51(北京时间)
+最后更新:2026-11-13 19:02(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 13 日 晚报](https://aiguanchao.com/daily/2026-11-13/evening)
 - [11 月 13 日 早报](https://aiguanchao.com/daily/2026-11-13/morning)
 - [11 月 12 日 晚报](https://aiguanchao.com/daily/2026-11-12/evening)
 - [11 月 12 日 早报](https://aiguanchao.com/daily/2026-11-12/morning)
 - [11 月 11 日 晚报](https://aiguanchao.com/daily/2026-11-11/evening)
 - [11 月 11 日 早报](https://aiguanchao.com/daily/2026-11-11/morning)
-- [11 月 10 日 晚报](https://aiguanchao.com/daily/2026-11-10/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,26 +38,26 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 11-13 03:07 | [‘Dark Day’: Silicon Valley Mourns Nvidia’s Decision to Oust CEO](https://aiguanchao.com/items/70f4e66aac5135152bc76ff9e5391da60cf37257) | Bloomberg Technology |
-| 11-13 02:39 | [黄仁勋辞职引发对 Nvidia 开源 AI 战略延续性的疑问](https://aiguanchao.com/items/d07d767022b879a549b9bcd1eed9379ed42e87a1) | TechCrunch：AI |
-| 11-13 02:09 | [Google 发布 Gemini 4 Hydrogen：智能、速度与可靠性大幅提升](https://aiguanchao.com/items/5089641614b70bf3120c24bcb4ebd576ffa7e1ed) | Google |
-| 11-13 02:06 | [Gemini 4 Hydrogen 开始向全球所有用户推送](https://aiguanchao.com/items/696995c696d6f8740f0831f27959dbe68721fbde) | Gemini |
-| 11-13 02:03 | [Google 发布 Gemini 4 Hydrogen，面向消费者和开发者全面开放](https://aiguanchao.com/items/73adcaf89de5e983cd28a8927daec55c96018901) | Google AI |
-| 11-13 02:02 | [Google 发布 Gemini 4 Hydrogen，任务速度较 3.8 Flash 快 2.5 倍](https://aiguanchao.com/items/b384d611152e4a268fb4b344847b399e98cfa10a) | Sundar Pichai |
-| 11-13 02:00 | [Google DeepMind 发布 Gemini 4 Hydrogen](https://aiguanchao.com/items/b66637cd9a74ad05d78d48afa7944cfe45e4d301) | Google DeepMind：Blog |
-| 11-13 01:29 | [英伟达新任董事会主席琼斯给全体英伟达员工的信](https://aiguanchao.com/items/0f525f20ef12138dcc5a550f3320e2fa11370aa1) | 华尔街见闻 快讯 |
-| 11-13 01:27 | [新任临时CEO克雷斯给全体英伟达员工的信](https://aiguanchao.com/items/b7270385c40267e48e5789170380cce5213e9ef3) | 华尔街见闻 快讯 |
-| 11-13 00:30 | [黄仁勋辞任英伟达CEO：中国究竟想从他身上得到什么？](https://aiguanchao.com/items/e7e057e7e2d6f4678185a2af08c524d2da291497) | The Verge：AI |
-| 11-13 00:21 | [Trump Says Tim Cook Should Be Nvidia CEO as Jensen Huang Resigns](https://aiguanchao.com/items/ff72aae72834cb51b6a3c051c1837da801f1f9d5) | MacRumors: Mac News and Rumors - All Stories |
-| 11-12 23:57 | [黄仁勋辞职后，特朗普呼吁苹果执行董事长库克接任英伟达 CEO](https://aiguanchao.com/items/93dc5b6df10d210e97a13ae94762dc9595021399) | IT之家 |
-| 11-12 23:48 | [NVIDIA CEO 黄仁勋辞职，CFO Colette Kress 出任临时 CEO](https://aiguanchao.com/items/b79690e013b723e4b5f2fdfcda1dc433a573ce83) | The Verge：AI |
-| 11-12 23:37 | [Nvidia CEO 黄仁勋辞职，CFO Colette Kress 出任临时 CEO](https://aiguanchao.com/items/d85daa4c66a3dbaf0203cc5452440c590ca84196) | TechCrunch：AI |
-| 11-12 23:37 | [Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?](https://aiguanchao.com/items/f8decff3baa7a8812253381d237cc9d02f426e21) | TechCrunch |
-| 11-12 23:34 | [黄仁勋辞任英伟达 CEO 重创全球 AI 概念股，AMD、博通逆势上涨](https://aiguanchao.com/items/b2a678ca762c7236beda081c7475faf5fe838956) | IT之家 |
-| 11-12 23:25 | [‘It had to happen’ — Jim Cramer on Jensen Huang’s resignation and future for Nvidia stock](https://aiguanchao.com/items/7132f19888b5f32250565b28092621dd9695ee9d) | CNBC World |
-| 11-12 23:21 | [Jensen Huang has a ‘rockstar’ reputation in Taiwan. Will it survive now that he’s out of Nvidia?](https://aiguanchao.com/items/cbc311ac145de25a47a90b6f6914061e7836ed68) | Fortune / FORTUNE |
-| 11-12 23:12 | [英伟达关于黄仁勋辞职及领导团队调整的声明全文](https://aiguanchao.com/items/d756c05a4b911b2a0b47956a3226573aa5499a62) | 华尔街见闻 快讯 |
-| 11-12 23:03 | [黄仁勋辞去 CEO 后，英伟达首任董事会主席哈维 · 琼斯发表内部信](https://aiguanchao.com/items/1e794e55a40e9432e03b2d48f9ac48231e450695) | IT之家 |
+| 11-13 15:12 | [What we know about the global Microsoft outage](https://aiguanchao.com/items/d22a87b85d821fd1e0062cf7772542dfd76bacad) | BBC Technology |
+| 11-13 14:35 | [Nvidia scandal sparks US national security furore and calls to take tough line on China](https://aiguanchao.com/items/232ad1680f822c471116a761ef8e0015bead3e28) | 卫报 World |
+| 11-13 14:20 | [英伟达员工发起挽留行动：内部投票超 97% 希望黄仁勋回归](https://aiguanchao.com/items/eff2f9a88cc4a21652ee6e4740009e95d0194d73) | IT之家 |
+| 11-13 12:49 | [Anthropic IPO 认购需求约为 6 倍：拟募资最高 644 亿美元，目标估值约 1.4 万亿美元](https://aiguanchao.com/items/8e69942ea49eafbad0e86f40e4acf29fc6815120) | IT之家 |
+| 11-13 12:17 | [黄仁勋辞任英伟达 CEO 全时间线复盘：两桩风波、接班人与 33 年生涯](https://aiguanchao.com/items/a8b3cbab59c0dab81bf0857fb75521115ad09ecf) | 卡尔的 AI 沃茨 |
+| 11-13 11:53 | [突发！黄仁勋正式辞职](https://aiguanchao.com/items/f14ed49eb29427c3b6e94c780ff0e19f09ffb43e) | 机器之心 |
+| 11-13 11:18 | [黄仁勋辞职始末。](https://aiguanchao.com/items/2a50c2bd6888013e59f0e71924a5e4c4364a9b86) | 人人都是产品经理 |
+| 11-13 10:56 | [黄仁勋婚外情丑闻如何改变中美关系前景](https://aiguanchao.com/items/0013359b13c739148d98bd22e72909b2ea747081) | CNBC World |
+| 11-13 10:30 | [From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang](https://aiguanchao.com/items/318f9dac3715a41c4452b11af946e3e165b1a31d) | The Guardian AI |
+| 11-13 10:14 | [Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live](https://aiguanchao.com/items/87576840ee3f20e6ab72ce990b62e9d589677fa4) | 卫报 World |
+| 11-13 10:01 | [【笠原一辉专栏】黄仁勋辞任的NVIDIA：支撑33年成功的CUDA与下一任领导者的条件](https://aiguanchao.com/items/1993637593092ea64e5829dfebb3ae9309c0824f) | PC Watch |
+| 11-13 10:01 | [黄仁勋卸任英伟达 CEO：约 1.08 亿美元股权奖励作废，约占其身价的 0.08%](https://aiguanchao.com/items/9332d532acc901e28cb70dd058c36062d7f1a27b) | IT之家 |
+| 11-13 09:51 | [马斯克谈黄仁勋结束 33 年掌舵英伟达生涯：创始人很难被取代](https://aiguanchao.com/items/589cd6fde9fa1b7c8ebf9e999bdcb349920c458a) | IT之家 |
+| 11-13 09:43 | [黄仁勋辞任 Nvidia CEO，Casey Newton 撰文评析硅谷创始人崇拜的终结](https://aiguanchao.com/items/800d46d27e3062c1e62ab61adde55abe4658040b) | Platformer |
+| 11-13 09:17 | [上一个让CFO接班的芯片巨头，是英特尔](https://aiguanchao.com/items/6578aff44be36f9c2b3405958a22624d369295d6) | 钛媒体 |
+| 11-13 09:17 | [黄仁勋时代落幕，英伟达宣布其卸任，CFO克雷斯出任临时CEO](https://aiguanchao.com/items/4cc164682c43b8b252a5a9b1441d7f257b4208ad) | 钛媒体 |
+| 11-13 08:48 | [派早报：英伟达 CEO 黄仁勋宣布辞职等](https://aiguanchao.com/items/91149ef3a6bbe1709601f1918dda672210a0d6c0) | 少数派 |
+| 11-13 08:46 | [特朗普非常希望 Tim Cook 执掌英伟达](https://aiguanchao.com/items/35fd92c3b97ce587fbbcda0e42378060e1205341) | The Verge |
+| 11-13 08:29 | [黄仁勋辞去英伟达总裁与CEO职务，卡兹克梳理事件始末](https://aiguanchao.com/items/b5cd059924a63f9ecc4c12e765b3af78255b6d98) | 卡兹克 |
+| 11-13 08:05 | [谁能接替离职的黄仁勋出任英伟达CEO？](https://aiguanchao.com/items/68ed0a344cb786ad1a1d9ae8fa3f4c8189d46dc5) | 卫报 World |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
