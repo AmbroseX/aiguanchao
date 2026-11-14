@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-14 09:27(北京时间)
+最后更新:2026-11-14 18:29(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 14 日 晚报](https://aiguanchao.com/daily/2026-11-14/evening)
 - [11 月 14 日 早报](https://aiguanchao.com/daily/2026-11-14/morning)
 - [11 月 13 日 晚报](https://aiguanchao.com/daily/2026-11-13/evening)
 - [11 月 13 日 早报](https://aiguanchao.com/daily/2026-11-13/morning)
 - [11 月 12 日 晚报](https://aiguanchao.com/daily/2026-11-12/evening)
 - [11 月 12 日 早报](https://aiguanchao.com/daily/2026-11-12/morning)
-- [11 月 11 日 晚报](https://aiguanchao.com/daily/2026-11-11/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,26 +38,26 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-14 14:27 | [超 5 万人请愿恢复黄仁勋英伟达 CEO 职务，马斯克参与签名](https://aiguanchao.com/items/61ad98acfa223d243be17129fdc7082003d6f90c) | IT之家 |
+| 11-14 07:39 | [Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意](https://aiguanchao.com/items/bc3bc71843d3423e514692a5a3dfe19fa287f076) | Rohan Paul |
+| 11-14 07:05 | [Nvidia approaches Arm’s Rene Haas as employees push for Jensen Huang’s return](https://aiguanchao.com/items/9648c1e9eb3b950717b20b5bb6a5c21dd2dc9e3e) | Crypto Briefing |
+| 11-14 07:00 | [黄仁勋丑闻如何让亲商的新加坡陷入难题](https://aiguanchao.com/items/aa667f7787fe77e930da1038cc57ecf34ccf983b) | BBC World |
+| 11-14 06:58 | [FAA 因电信故障停飞全美所有航班，官方称无迹象表明是恶意攻击但尚不能排除网络攻击](https://aiguanchao.com/items/aeac9f44ca14187508beaf9df0aca0f1dea86b4d) | Lance Ulanoff |
+| 11-14 06:43 | [Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧](https://aiguanchao.com/items/38e0a673196cfcf85cb51fcfa0ad5884822fa182) | TechCrunch：AI |
+| 11-14 06:14 | [黄仁勋辞去英伟达职务，1400 亿美元持股由夫妻共同信托持有](https://aiguanchao.com/items/4f6781e81510d81a771d19aa56273d4284151463) | Crypto Briefing |
+| 11-14 05:44 | [美国政府以特殊情况为由停飞全美所有航班](https://aiguanchao.com/items/6e9bc1feebbf6453ef9f90e326fa10da5ec23f15) | TechCrunch |
+| 11-14 05:04 | [Nvidia is done with Jensen Huang. The fallout in Washington is just beginning](https://aiguanchao.com/items/99e03596318d6ddf02785c1e4d4e7a4d468a080e) | CNBC World |
+| 11-14 04:49 | [微软就持续近24小时的全球服务中断致歉](https://aiguanchao.com/items/79fabb23cc3a6fd4786a187bbddbe5f74162cb21) | BBC World |
+| 11-14 04:21 | [英伟达董事会向 CNBC 表示：尚未选定猎头公司物色黄仁勋的正式继任者](https://aiguanchao.com/items/593a31d746d529d89f1743d3a806be5300e3155c) | CNBC Technology |
+| 11-14 04:07 | [黄仁勋下台原因或更多归咎于英伟达高风险商业做法而非其私生活](https://aiguanchao.com/items/2ba61a533f288e5619f6c50de9ff794930a21eab) | THE DECODER |
 | 11-14 04:07 | [WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活](https://aiguanchao.com/items/5618576278804f2a0ffaa7f66754913e1a8ffc57) | The Decoder：AI News |
-| 11-13 23:04 | [Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague](https://aiguanchao.com/items/6d9b76a52e9a2fd4b1ee53539ddb33664a7d2acb) | BBC World |
+| 11-14 03:18 | [‘The easiest way to penetrate a billion-dollar company’: Ex-FBI operative on how spies target CEOs](https://aiguanchao.com/items/c02043a0d3aebc37d4c48a42f29183842a9a849f) | Fortune / FORTUNE |
+| 11-14 03:07 | [Jensen Huang’s resignation from Nvidia won’t end his problems with Congress](https://aiguanchao.com/items/ddcf05ed0f651df8bd03ee091210a4e5dff4001c) | Fast Company AI |
+| 11-13 23:58 | [黄仁勋丑闻时间线：婚外情、疑似中国间谍与辞任英伟达 CEO](https://aiguanchao.com/items/16f79067827057d2c4b1f7ded37780b0edc7c4cc) | TechCrunch：AI |
+| 11-13 23:15 | [Anthropic IPO 获六倍超额认购，有望成史上最大规模 IPO](https://aiguanchao.com/items/e84e3b242d28f45cb43344dceedbcbdce14683d3) | The Decoder：AI News |
+| 11-13 23:04 | [英伟达丑闻风波扩大 特朗普财长指责内阁同僚](https://aiguanchao.com/items/6d9b76a52e9a2fd4b1ee53539ddb33664a7d2acb) | BBC World |
 | 11-13 21:03 | [英伟达国安疑云正在扩大](https://aiguanchao.com/items/f54dd5949a2a965e7f6b583d35a5d2bc8843589f) | 法广中文 |
 | 11-13 20:30 | [Jensen Huang Resigns After Having Another Affair In Addition to the Chinese Spy](https://aiguanchao.com/items/55090ab06b162aba26c233a15d3ffb45b2aac09d) | LessWrong |
-| 11-13 20:07 | [从“他到底是谁”到丑闻曝光后力挺：特朗普与黄仁勋的交往时间线梳理](https://aiguanchao.com/items/c99bfd7fa49c4a08857fbca796de11c59d89b2a6) | 德国之声中文 |
-| 11-13 20:00 | [Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here](https://aiguanchao.com/items/68f5991408966a5857d915f36fd52aef13fd4670) | CNBC Technology |
-| 11-13 18:19 | [Cairn 自主攻击侵入 10 家组织](https://aiguanchao.com/items/c0110a91a427e2fd6b7e73eadca8007a1a777b69) | DEV Community |
-| 11-13 18:00 | [黄仁勋此前就中国、出口管制与AI开发竞争发表过哪些言论](https://aiguanchao.com/items/368273ef1cefcea2eba6ecf3021c69055340b8c0) | Business Insider Japan |
-| 11-13 18:00 | [王なきAIの世界で ジェンスン・フアン氏退任とAIへの逆風](https://aiguanchao.com/items/1e676bce6c4202306f7cce5979e3455d9e11732c) | Impress Watch |
-| 11-13 17:56 | [黄仁勋走了，英伟达5300亿美元的承诺谁来签字](https://aiguanchao.com/items/4bfe95f38825c86d73ead0a64d42495f72c75036) | 钛媒体 |
-| 11-13 17:39 | [一个时代结束了：没有老黄，英伟达会走向哪里？](https://aiguanchao.com/items/6176675b0dffcebeeff43b11311c4bb984dad0b7) | 雪球今日话题 |
-| 11-13 17:19 | [Nvidia 股价小幅走高，投资者继续消化黄仁勋离任影响](https://aiguanchao.com/items/599138298050f366dbd05620a2d24ed9995a07ae) | CNBC World |
-| 11-13 17:04 | [AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO](https://aiguanchao.com/items/88422b22e9f392fde9637afd8e41af8fe1149298) | Latent Space |
-| 11-13 16:49 | [Nvidia’s Huang, Lutnick summoned to testify to US Senate](https://aiguanchao.com/items/b499156b25f7e7cc15b538724df81c81d0437ff8) | Al Jazeera – Breaking News, World News and Video from Al Jaz |
-| 11-13 16:28 | [20 位被迫离开自己创办公司的创始人与 CEO](https://aiguanchao.com/items/a5ee6e466be241fd209948d36212313e59aed074) | OfficeChai |
-| 11-13 16:03 | [Jensen Huang is out at Nvidia. Elon Musk says hiring him would be ‘an honor’](https://aiguanchao.com/items/64cd09c442e294cbc98794077f69c2e7cc2cadf7) | Fortune / FORTUNE |
-| 11-13 15:12 | [A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia’s Jensen Huang?](https://aiguanchao.com/items/05da0e4f6d2644ef4e0769f27e3121b1c7271367) | 卫报 World |
-| 11-13 15:12 | [What we know about the global Microsoft outage](https://aiguanchao.com/items/d22a87b85d821fd1e0062cf7772542dfd76bacad) | BBC Technology |
-| 11-13 14:49 | [英伟达 CEO 搜寻：谁能成为正式继任人选？](https://aiguanchao.com/items/7507352abbeeebb25b14a44966c2617e3e6860f6) | Bloomberg Technology |
-| 11-13 14:35 | [英伟达丑闻在美国引发国家安全风波与对华强硬呼声](https://aiguanchao.com/items/232ad1680f822c471116a761ef8e0015bead3e28) | 卫报 World |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
