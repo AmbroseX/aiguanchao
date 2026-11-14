@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-14 03:44(北京时间)
+最后更新:2026-11-14 09:27(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 14 日 早报](https://aiguanchao.com/daily/2026-11-14/morning)
 - [11 月 13 日 晚报](https://aiguanchao.com/daily/2026-11-13/evening)
 - [11 月 13 日 早报](https://aiguanchao.com/daily/2026-11-13/morning)
 - [11 月 12 日 晚报](https://aiguanchao.com/daily/2026-11-12/evening)
 - [11 月 12 日 早报](https://aiguanchao.com/daily/2026-11-12/morning)
 - [11 月 11 日 晚报](https://aiguanchao.com/daily/2026-11-11/evening)
-- [11 月 11 日 早报](https://aiguanchao.com/daily/2026-11-11/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,8 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-14 04:07 | [WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活](https://aiguanchao.com/items/5618576278804f2a0ffaa7f66754913e1a8ffc57) | The Decoder：AI News |
+| 11-13 23:04 | [Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague](https://aiguanchao.com/items/6d9b76a52e9a2fd4b1ee53539ddb33664a7d2acb) | BBC World |
 | 11-13 21:03 | [英伟达国安疑云正在扩大](https://aiguanchao.com/items/f54dd5949a2a965e7f6b583d35a5d2bc8843589f) | 法广中文 |
 | 11-13 20:30 | [Jensen Huang Resigns After Having Another Affair In Addition to the Chinese Spy](https://aiguanchao.com/items/55090ab06b162aba26c233a15d3ffb45b2aac09d) | LessWrong |
 | 11-13 20:07 | [从“他到底是谁”到丑闻曝光后力挺：特朗普与黄仁勋的交往时间线梳理](https://aiguanchao.com/items/c99bfd7fa49c4a08857fbca796de11c59d89b2a6) | 德国之声中文 |
@@ -56,8 +58,6 @@
 | 11-13 15:12 | [What we know about the global Microsoft outage](https://aiguanchao.com/items/d22a87b85d821fd1e0062cf7772542dfd76bacad) | BBC Technology |
 | 11-13 14:49 | [英伟达 CEO 搜寻：谁能成为正式继任人选？](https://aiguanchao.com/items/7507352abbeeebb25b14a44966c2617e3e6860f6) | Bloomberg Technology |
 | 11-13 14:35 | [英伟达丑闻在美国引发国家安全风波与对华强硬呼声](https://aiguanchao.com/items/232ad1680f822c471116a761ef8e0015bead3e28) | 卫报 World |
-| 11-13 14:20 | [英伟达员工发起挽留行动：内部投票超 97% 希望黄仁勋回归](https://aiguanchao.com/items/eff2f9a88cc4a21652ee6e4740009e95d0194d73) | IT之家 |
-| 11-13 12:49 | [Anthropic IPO 认购需求约为 6 倍：拟募资最高 644 亿美元，目标估值约 1.4 万亿美元](https://aiguanchao.com/items/8e69942ea49eafbad0e86f40e4acf29fc6815120) | IT之家 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
