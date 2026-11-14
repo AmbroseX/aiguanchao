@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-15 02:07(北京时间)
+最后更新:2026-11-15 06:27(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,7 +38,9 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-14 22:36 | [Nvidia: Jensen Huang renuncia y Kress asume como CEO](https://aiguanchao.com/items/60bf40a7b86a7dd56778ab9ea153cf2e2fc7cd11) | El Ecosistema Startup |
 | 11-14 20:00 | [黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕](https://aiguanchao.com/items/f0f30d10601b83c2dd61e7afef1c390218a3887b) | The Verge：AI |
+| 11-14 19:25 | [Microsoft Services Restored After 36-Hour Global Outage](https://aiguanchao.com/items/958002675f456ae1d4831df55679c6a3dff0f308) | Seoul Economic Daily - English Edition |
 | 11-14 17:19 | [黄仁勋离任英伟达 CEO，华尔街对 AI 投资热潮“并不太担心”](https://aiguanchao.com/items/12479ced8fa481f4df19ddffea1caf0fb0534491) | IT之家 |
 | 11-14 16:14 | [“我是个烂人”，黄仁勋辞职前最后几小时的内幕曝光](https://aiguanchao.com/items/d1f732e2510360864fd401b91bd2f9ac1b9b46b2) | BestBlogs.dev |
 | 11-14 16:12 | [“这是世代级错误”“不会再买英伟达股票”，黄仁勋走了，硅谷吵翻了，Twitter 前 CEO 预测他 3 年后王者归来](https://aiguanchao.com/items/75a79d69416764947e084f4c2c0f4211d6beafce) | BestBlogs.dev |
@@ -54,10 +56,8 @@
 | 11-14 04:49 | [微软就持续近24小时的全球服务中断致歉](https://aiguanchao.com/items/79fabb23cc3a6fd4786a187bbddbe5f74162cb21) | BBC World |
 | 11-14 04:34 | [英伟达的黄仁勋与特朗普如何越过出口管制护栏](https://aiguanchao.com/items/a9e40c71771eaeb93a11e57c30eb9f285589504a) | Semafor |
 | 11-14 04:21 | [英伟达董事会向 CNBC 表示：尚未选定猎头公司物色黄仁勋的正式继任者](https://aiguanchao.com/items/593a31d746d529d89f1743d3a806be5300e3155c) | CNBC Technology |
-| 11-14 04:07 | [黄仁勋下台原因或更多归咎于英伟达高风险商业做法而非其私生活](https://aiguanchao.com/items/2ba61a533f288e5619f6c50de9ff794930a21eab) | THE DECODER |
 | 11-14 04:07 | [WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活](https://aiguanchao.com/items/5618576278804f2a0ffaa7f66754913e1a8ffc57) | The Decoder：AI News |
-| 11-14 03:18 | [‘The easiest way to penetrate a billion-dollar company’: Ex-FBI operative on how spies target CEOs](https://aiguanchao.com/items/c02043a0d3aebc37d4c48a42f29183842a9a849f) | Fortune / FORTUNE |
-| 11-14 03:07 | [Jensen Huang’s resignation from Nvidia won’t end his problems with Congress](https://aiguanchao.com/items/ddcf05ed0f651df8bd03ee091210a4e5dff4001c) | Fast Company AI |
+| 11-14 04:07 | [黄仁勋下台原因或更多归咎于英伟达高风险商业做法而非其私生活](https://aiguanchao.com/items/2ba61a533f288e5619f6c50de9ff794930a21eab) | THE DECODER |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
