@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-15 14:37(北京时间)
+最后更新:2026-11-16 00:23(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 15 日 晚报](https://aiguanchao.com/daily/2026-11-15/evening)
 - [11 月 15 日 早报](https://aiguanchao.com/daily/2026-11-15/morning)
 - [11 月 14 日 晚报](https://aiguanchao.com/daily/2026-11-14/evening)
 - [11 月 14 日 早报](https://aiguanchao.com/daily/2026-11-14/morning)
 - [11 月 13 日 晚报](https://aiguanchao.com/daily/2026-11-13/evening)
 - [11 月 13 日 早报](https://aiguanchao.com/daily/2026-11-13/morning)
-- [11 月 12 日 晚报](https://aiguanchao.com/daily/2026-11-12/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,11 +38,17 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-15 05:41 | [马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务](https://aiguanchao.com/items/182b42773f51cf9cfb4a4f818f383fda3cdb6bc8) | TechCrunch：AI |
+| 11-15 02:08 | [輝達風暴 貝森特點名美商務部不作為](https://aiguanchao.com/items/2b0a7e691a2e8e629e61a35075293bc73d236311) | 聯合新聞網：觸動未來 新識力 |
+| 11-15 02:08 | [Musk Questions Nvidia’s Supply Chain Stability After Jensen Huang Resigns](https://aiguanchao.com/items/da91e5bf3184363e65f8928383bf16bc917afb3e) | The 420.in |
+| 11-15 01:04 | [Petition for Jensen Huang’s return as Nvidia CEO hits 100,000 signatures](https://aiguanchao.com/items/687061ba4533c007ce9b3bac9d285732ab3b8db6) | Crypto Briefing |
 | 11-14 22:40 | [Contre-espionnage ou bataille politique ? Le rôle de Marco Rubio dans la chute de Jensen Huang relance les soupçons autour de l’affaire Nvidia](https://aiguanchao.com/items/e03918aaa02f52143e6f5e44b0f4a54b171a6fa1) | Frandroid |
 | 11-14 22:36 | [Nvidia: Jensen Huang renuncia y Kress asume como CEO](https://aiguanchao.com/items/60bf40a7b86a7dd56778ab9ea153cf2e2fc7cd11) | El Ecosistema Startup |
+| 11-14 22:06 | [黄仁勋辞职，留下六个待解问题](https://aiguanchao.com/items/8e4dec897a5f41459f379946289ac7867272a4de) | BestBlogs.dev |
 | 11-14 21:55 | [微软云服务宕机持续逾 24 小时](https://aiguanchao.com/items/b243f49d6d2c8f63328f877d1d22401331202de0) | 奇客 Solidot |
 | 11-14 21:30 | [エヌビディアのフアンCEOが辞任。カリスマを失った巨大企業の行く末は？](https://aiguanchao.com/items/ab62bf34fa7c5baa525bbda670cad6fecdcf6af7) | ギズモード・ジャパン |
 | 11-14 20:00 | [黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕](https://aiguanchao.com/items/f0f30d10601b83c2dd61e7afef1c390218a3887b) | The Verge：AI |
+| 11-14 19:46 | [黄仁勋时代落幕，英伟达面临三重考验](https://aiguanchao.com/items/656e6e0e9708928701d5d2d4de126060f5594f83) | BestBlogs.dev |
 | 11-14 19:25 | [Microsoft Services Restored After 36-Hour Global Outage](https://aiguanchao.com/items/958002675f456ae1d4831df55679c6a3dff0f308) | Seoul Economic Daily - English Edition |
 | 11-14 19:00 | [Affaire Jensen Huang : tout ce qu’on sait sur le scandale Nvidia](https://aiguanchao.com/items/16ea45d2c6036bb9186aba1582500ff5048ffa9b) | Frandroid |
 | 11-14 18:08 | [英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！](https://aiguanchao.com/items/c3ecf06ba4428c3d252bbfcacedb40508fc1a2ec) | 量子位 |
@@ -52,12 +58,6 @@
 | 11-14 16:12 | [“这是世代级错误”“不会再买英伟达股票”，黄仁勋走了，硅谷吵翻了，Twitter 前 CEO 预测他 3 年后王者归来](https://aiguanchao.com/items/75a79d69416764947e084f4c2c0f4211d6beafce) | BestBlogs.dev |
 | 11-14 14:27 | [超 5 万人请愿恢复黄仁勋英伟达 CEO 职务，马斯克参与签名](https://aiguanchao.com/items/61ad98acfa223d243be17129fdc7082003d6f90c) | IT之家 |
 | 11-14 07:39 | [Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意](https://aiguanchao.com/items/bc3bc71843d3423e514692a5a3dfe19fa287f076) | Rohan Paul |
-| 11-14 07:05 | [Nvidia approaches Arm’s Rene Haas as employees push for Jensen Huang’s return](https://aiguanchao.com/items/9648c1e9eb3b950717b20b5bb6a5c21dd2dc9e3e) | Crypto Briefing |
-| 11-14 07:00 | [黄仁勋丑闻如何让亲商的新加坡陷入难题](https://aiguanchao.com/items/aa667f7787fe77e930da1038cc57ecf34ccf983b) | BBC World |
-| 11-14 06:58 | [FAA 因电信故障停飞全美所有航班，官方称无迹象表明是恶意攻击但尚不能排除网络攻击](https://aiguanchao.com/items/aeac9f44ca14187508beaf9df0aca0f1dea86b4d) | Lance Ulanoff |
-| 11-14 06:43 | [Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧](https://aiguanchao.com/items/38e0a673196cfcf85cb51fcfa0ad5884822fa182) | TechCrunch：AI |
-| 11-14 06:14 | [黄仁勋辞去英伟达职务，1400 亿美元持股由夫妻共同信托持有](https://aiguanchao.com/items/4f6781e81510d81a771d19aa56273d4284151463) | Crypto Briefing |
-| 11-14 05:44 | [美国政府以特殊情况为由停飞全美所有航班](https://aiguanchao.com/items/6e9bc1feebbf6453ef9f90e326fa10da5ec23f15) | TechCrunch |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
