@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-16 00:23(北京时间)
+最后更新:2026-11-16 06:51(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,9 +38,15 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-15 11:56 | [英伟达内部炸锅！员工集体逼宫董事会「把老黄请回来」，马斯克都签了](https://aiguanchao.com/items/306d2d470c068118a51e8fc81c14f17e26abbc37) | 新智元 |
+| 11-15 10:47 | [刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船](https://aiguanchao.com/items/708a9ee70b27eb8b13ab3be802e3f81fd51a639a) | 爱范儿 |
+| 11-15 09:51 | [Jensen Huang renuncia a Nvidia; Colette Kress es CEO](https://aiguanchao.com/items/5cc8eff482f2d69f37e6d4a7670e0037b8b9d1e6) | El Ecosistema Startup |
+| 11-15 07:02 | [SpaceX首度完成太空船捕捉回收 星艦返回發射台](https://aiguanchao.com/items/24610225dd3ed4304beaebbf57364279cba72f2e) | 聯合新聞網：觸動未來 新識力 |
+| 11-15 06:45 | [Over 100,000 People Now Call For Jensen Huang’s Return To NVIDIA, As The PayPal Veteran David Sacks Terms His Forced Exit “The Stupidest, Most Moot Hill To Die On”](https://aiguanchao.com/items/61ebbbd6cbebe81044ccde5caf4ba6d433d02680) | Wccftech |
 | 11-15 05:41 | [马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务](https://aiguanchao.com/items/182b42773f51cf9cfb4a4f818f383fda3cdb6bc8) | TechCrunch：AI |
 | 11-15 02:08 | [輝達風暴 貝森特點名美商務部不作為](https://aiguanchao.com/items/2b0a7e691a2e8e629e61a35075293bc73d236311) | 聯合新聞網：觸動未來 新識力 |
 | 11-15 02:08 | [Musk Questions Nvidia’s Supply Chain Stability After Jensen Huang Resigns](https://aiguanchao.com/items/da91e5bf3184363e65f8928383bf16bc917afb3e) | The 420.in |
+| 11-15 02:07 | [The downfall of AI’s $5.7 trillion man](https://aiguanchao.com/items/b03558bd6094b4da6a68ebd65cbc4560118204a2) | Fortune / FORTUNE |
 | 11-15 01:04 | [Petition for Jensen Huang’s return as Nvidia CEO hits 100,000 signatures](https://aiguanchao.com/items/687061ba4533c007ce9b3bac9d285732ab3b8db6) | Crypto Briefing |
 | 11-14 22:40 | [Contre-espionnage ou bataille politique ? Le rôle de Marco Rubio dans la chute de Jensen Huang relance les soupçons autour de l’affaire Nvidia](https://aiguanchao.com/items/e03918aaa02f52143e6f5e44b0f4a54b171a6fa1) | Frandroid |
 | 11-14 22:36 | [Nvidia: Jensen Huang renuncia y Kress asume como CEO](https://aiguanchao.com/items/60bf40a7b86a7dd56778ab9ea153cf2e2fc7cd11) | El Ecosistema Startup |
@@ -52,12 +58,6 @@
 | 11-14 19:25 | [Microsoft Services Restored After 36-Hour Global Outage](https://aiguanchao.com/items/958002675f456ae1d4831df55679c6a3dff0f308) | Seoul Economic Daily - English Edition |
 | 11-14 19:00 | [Affaire Jensen Huang : tout ce qu’on sait sur le scandale Nvidia](https://aiguanchao.com/items/16ea45d2c6036bb9186aba1582500ff5048ffa9b) | Frandroid |
 | 11-14 18:08 | [英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！](https://aiguanchao.com/items/c3ecf06ba4428c3d252bbfcacedb40508fc1a2ec) | 量子位 |
-| 11-14 17:30 | [突发！6万人请愿黄仁勋重回CEO，马斯克也出手了](https://aiguanchao.com/items/49634d8f053c612b81b535a8d2a0c4c9d236f730) | 人人都是产品经理 |
-| 11-14 17:19 | [黄仁勋离任英伟达 CEO，华尔街对 AI 投资热潮“并不太担心”](https://aiguanchao.com/items/12479ced8fa481f4df19ddffea1caf0fb0534491) | IT之家 |
-| 11-14 16:14 | [“我是个烂人”，黄仁勋辞职前最后几小时的内幕曝光](https://aiguanchao.com/items/d1f732e2510360864fd401b91bd2f9ac1b9b46b2) | BestBlogs.dev |
-| 11-14 16:12 | [“这是世代级错误”“不会再买英伟达股票”，黄仁勋走了，硅谷吵翻了，Twitter 前 CEO 预测他 3 年后王者归来](https://aiguanchao.com/items/75a79d69416764947e084f4c2c0f4211d6beafce) | BestBlogs.dev |
-| 11-14 14:27 | [超 5 万人请愿恢复黄仁勋英伟达 CEO 职务，马斯克参与签名](https://aiguanchao.com/items/61ad98acfa223d243be17129fdc7082003d6f90c) | IT之家 |
-| 11-14 07:39 | [Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意](https://aiguanchao.com/items/bc3bc71843d3423e514692a5a3dfe19fa287f076) | Rohan Paul |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
