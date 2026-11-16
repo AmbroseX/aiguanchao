@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-16 14:34(北京时间)
+最后更新:2026-11-17 03:38(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 16 日 晚报](https://aiguanchao.com/daily/2026-11-16/evening)
 - [11 月 16 日 早报](https://aiguanchao.com/daily/2026-11-16/morning)
 - [11 月 15 日 晚报](https://aiguanchao.com/daily/2026-11-15/evening)
 - [11 月 15 日 早报](https://aiguanchao.com/daily/2026-11-15/morning)
 - [11 月 14 日 晚报](https://aiguanchao.com/daily/2026-11-14/evening)
 - [11 月 14 日 早报](https://aiguanchao.com/daily/2026-11-14/morning)
-- [11 月 13 日 晚报](https://aiguanchao.com/daily/2026-11-13/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,16 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-16 04:49 | [法人圈談「黃仁勳溢價」退燒 上市櫃千億訂單恐受波及](https://aiguanchao.com/items/74bba232d56892fa6ae774139264f954c7f161c0) | 聯合新聞網：觸動未來 新識力 |
+| 11-16 04:05 | [SpaceX Catches Starship Upper Stage for First Time](https://aiguanchao.com/items/3c3d38736b859557bb72f5ee8b7189836b453ccb) | Seoul Economic Daily - English Edition |
+| 11-16 03:36 | [Nvidia: el Congreso quiere frenar chips de IA a China](https://aiguanchao.com/items/61511fe8756b463aff1a9690c7fb6914ccb2fa88) | El Ecosistema Startup |
+| 11-16 03:07 | [黃仁勳低調參與接班人遴選 馬斯克：輝達恐流失部分關鍵交易](https://aiguanchao.com/items/cd6646182c7c7c381babb7622a5e67b53e3ebadd) | 聯合新聞網：觸動未來 新識力 |
+| 11-16 02:33 | [SpaceX 首度完成太空船回收 NASA：更接近再次登月目標](https://aiguanchao.com/items/545d9464eaab4c6d8a164480c06f6965ff882efe) | 聯合新聞網：觸動未來 新識力 |
+| 11-16 01:10 | [美財長貝森特：輝達須「從公司外部」尋找新執行長](https://aiguanchao.com/items/dce3e111c5b788d5dd3f96426504269f90f627e1) | 聯合新聞網：觸動未來 新識力 |
+| 11-16 00:49 | [Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO](https://aiguanchao.com/items/f4c7bf8f822f15937f5d2788c15cc721eb96fe2f) | CNBC World |
+| 11-16 00:01 | [貝森特：輝達必須從外部找新CEO](https://aiguanchao.com/items/377cee5df4df34a8dfc14a63a3511e2eb6906f8c) | 聯合新聞網：觸動未來 新識力 |
+| 11-15 23:24 | [黃仁勳下台 紐時稱台灣陷入錯愕與哀傷](https://aiguanchao.com/items/6fd733aaa2f006d7ebf130e00872f64b8b597303) | 聯合新聞網：觸動未來 新識力 |
+| 11-15 20:40 | [Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. - The New York Times](https://aiguanchao.com/items/2258a41759cb7337a43c5d5ee8fd545c8edf9839) | Top stories - Google News |
 | 11-15 17:45 | [消息称黄仁勋离职后参与遴选接班人，已与至少一位英伟达新 CEO 候选人通话](https://aiguanchao.com/items/d91873857bfa23fe4b95cce40fdce61ad5a59f89) | IT之家 |
 | 11-15 15:58 | [Mirae Asset's Park Joins Petition Seeking Jensen Huang's Return](https://aiguanchao.com/items/bdf2bba3c690dc87049d54bfcdefe059d7d3b5ca) | Seoul Economic Daily - English Edition |
 | 11-15 12:34 | [漏洞预警！7-Zip解压恶意压缩包即可触发 RCE](https://aiguanchao.com/items/d9a44f80dde319620a8e585377ffe9ab3a99a0af) | CN-SEC 中文网 |
@@ -48,16 +58,6 @@
 | 11-15 07:02 | [SpaceX首度完成太空船捕捉回收 星艦返回發射台](https://aiguanchao.com/items/24610225dd3ed4304beaebbf57364279cba72f2e) | 聯合新聞網：觸動未來 新識力 |
 | 11-15 06:45 | [Over 100,000 People Now Call For Jensen Huang’s Return To NVIDIA, As The PayPal Veteran David Sacks Terms His Forced Exit “The Stupidest, Most Moot Hill To Die On”](https://aiguanchao.com/items/61ebbbd6cbebe81044ccde5caf4ba6d433d02680) | Wccftech |
 | 11-15 05:41 | [马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务](https://aiguanchao.com/items/182b42773f51cf9cfb4a4f818f383fda3cdb6bc8) | TechCrunch：AI |
-| 11-15 02:08 | [輝達風暴 貝森特點名美商務部不作為](https://aiguanchao.com/items/2b0a7e691a2e8e629e61a35075293bc73d236311) | 聯合新聞網：觸動未來 新識力 |
-| 11-15 02:08 | [Musk Questions Nvidia’s Supply Chain Stability After Jensen Huang Resigns](https://aiguanchao.com/items/da91e5bf3184363e65f8928383bf16bc917afb3e) | The 420.in |
-| 11-15 02:07 | [The downfall of AI’s $5.7 trillion man](https://aiguanchao.com/items/b03558bd6094b4da6a68ebd65cbc4560118204a2) | Fortune / FORTUNE |
-| 11-15 01:04 | [Petition for Jensen Huang’s return as Nvidia CEO hits 100,000 signatures](https://aiguanchao.com/items/687061ba4533c007ce9b3bac9d285732ab3b8db6) | Crypto Briefing |
-| 11-14 22:40 | [Contre-espionnage ou bataille politique ? Le rôle de Marco Rubio dans la chute de Jensen Huang relance les soupçons autour de l’affaire Nvidia](https://aiguanchao.com/items/e03918aaa02f52143e6f5e44b0f4a54b171a6fa1) | Frandroid |
-| 11-14 22:36 | [Nvidia: Jensen Huang renuncia y Kress asume como CEO](https://aiguanchao.com/items/60bf40a7b86a7dd56778ab9ea153cf2e2fc7cd11) | El Ecosistema Startup |
-| 11-14 22:06 | [黄仁勋辞职，留下六个待解问题](https://aiguanchao.com/items/8e4dec897a5f41459f379946289ac7867272a4de) | BestBlogs.dev |
-| 11-14 21:55 | [微软云服务宕机持续逾 24 小时](https://aiguanchao.com/items/b243f49d6d2c8f63328f877d1d22401331202de0) | 奇客 Solidot |
-| 11-14 21:30 | [エヌビディアのフアンCEOが辞任。カリスマを失った巨大企業の行く末は？](https://aiguanchao.com/items/ab62bf34fa7c5baa525bbda670cad6fecdcf6af7) | ギズモード・ジャパン |
-| 11-14 20:00 | [黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕](https://aiguanchao.com/items/f0f30d10601b83c2dd61e7afef1c390218a3887b) | The Verge：AI |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
