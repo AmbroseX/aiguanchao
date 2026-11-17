@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-17 03:38(北京时间)
+最后更新:2026-11-17 11:55(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 17 日 早报](https://aiguanchao.com/daily/2026-11-17/morning)
 - [11 月 16 日 晚报](https://aiguanchao.com/daily/2026-11-16/evening)
 - [11 月 16 日 早报](https://aiguanchao.com/daily/2026-11-16/morning)
 - [11 月 15 日 晚报](https://aiguanchao.com/daily/2026-11-15/evening)
 - [11 月 15 日 早报](https://aiguanchao.com/daily/2026-11-15/morning)
 - [11 月 14 日 晚报](https://aiguanchao.com/daily/2026-11-14/evening)
-- [11 月 14 日 早报](https://aiguanchao.com/daily/2026-11-14/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,7 +38,15 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-16 14:57 | [黄仁勋卸任英伟达 CEO 次日，日本市场 RTX 50 系显卡大幅降价](https://aiguanchao.com/items/382cda9f42b0a38a4458dfd80cbeb62162c3ed4c) | IT之家 |
+| 11-16 10:43 | [手機定位資料流海外 日經：自衛隊逾300設施曝光](https://aiguanchao.com/items/41a8c96a931e4edf59bb0be3c5de578725fa9154) | 聯合新聞網：觸動未來 新識力 |
+| 11-16 09:53 | [Petition to Reinstate Jensen Huang Tops 140,000 Signatures](https://aiguanchao.com/items/a037a5da7d13ce9b5251656944368c36094df607) | Seoul Economic Daily - English Edition |
+| 11-16 09:11 | [超 16 万人请愿，黄仁勋准备「回宫」](https://aiguanchao.com/items/b1d426d8c1fc34c49c3f03254359dc5a7074379f) | 爱范儿 |
+| 11-16 09:06 | [Nvidia sin Jensen Huang: el relevo que define su futuro](https://aiguanchao.com/items/77d7f196639a47df23e79c1ffbfcad4b0d3464ae) | El Ecosistema Startup |
+| 11-16 08:30 | [意大利对Facebook罚款8.05亿美元 原因是其安卓版未经用户授权访问整个相册](https://aiguanchao.com/items/9087479c83c6e403f4b7f17ef56d709171744a2d) | 蓝点网 |
+| 11-16 07:56 | [刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船](https://aiguanchao.com/items/73af554f3c7c843bcd19cb4fb8e2d2662f5f007e) | BestBlogs.dev |
 | 11-16 04:49 | [法人圈談「黃仁勳溢價」退燒 上市櫃千億訂單恐受波及](https://aiguanchao.com/items/74bba232d56892fa6ae774139264f954c7f161c0) | 聯合新聞網：觸動未來 新識力 |
+| 11-16 04:20 | [《金融时报》报道：黄仁勋考虑重任英伟达 CEO](https://aiguanchao.com/items/8be811bb9e354bc900acf76ad33d1919cf41b729) | BestBlogs.dev |
 | 11-16 04:05 | [SpaceX Catches Starship Upper Stage for First Time](https://aiguanchao.com/items/3c3d38736b859557bb72f5ee8b7189836b453ccb) | Seoul Economic Daily - English Edition |
 | 11-16 03:36 | [Nvidia: el Congreso quiere frenar chips de IA a China](https://aiguanchao.com/items/61511fe8756b463aff1a9690c7fb6914ccb2fa88) | El Ecosistema Startup |
 | 11-16 03:07 | [黃仁勳低調參與接班人遴選 馬斯克：輝達恐流失部分關鍵交易](https://aiguanchao.com/items/cd6646182c7c7c381babb7622a5e67b53e3ebadd) | 聯合新聞網：觸動未來 新識力 |
@@ -50,14 +58,6 @@
 | 11-15 20:40 | [Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. - The New York Times](https://aiguanchao.com/items/2258a41759cb7337a43c5d5ee8fd545c8edf9839) | Top stories - Google News |
 | 11-15 17:45 | [消息称黄仁勋离职后参与遴选接班人，已与至少一位英伟达新 CEO 候选人通话](https://aiguanchao.com/items/d91873857bfa23fe4b95cce40fdce61ad5a59f89) | IT之家 |
 | 11-15 15:58 | [Mirae Asset's Park Joins Petition Seeking Jensen Huang's Return](https://aiguanchao.com/items/bdf2bba3c690dc87049d54bfcdefe059d7d3b5ca) | Seoul Economic Daily - English Edition |
-| 11-15 12:34 | [漏洞预警！7-Zip解压恶意压缩包即可触发 RCE](https://aiguanchao.com/items/d9a44f80dde319620a8e585377ffe9ab3a99a0af) | CN-SEC 中文网 |
-| 11-15 11:56 | [英伟达内部炸锅！员工集体逼宫董事会「把老黄请回来」，马斯克都签了](https://aiguanchao.com/items/306d2d470c068118a51e8fc81c14f17e26abbc37) | 新智元 |
-| 11-15 10:47 | [刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船](https://aiguanchao.com/items/708a9ee70b27eb8b13ab3be802e3f81fd51a639a) | 爱范儿 |
-| 11-15 09:51 | [Jensen Huang renuncia a Nvidia; Colette Kress es CEO](https://aiguanchao.com/items/5cc8eff482f2d69f37e6d4a7670e0037b8b9d1e6) | El Ecosistema Startup |
-| 11-15 08:00 | [ChatMate and Remote Prompt Execution: Copilot Sandbox Escape Explained](https://aiguanchao.com/items/e459fe03d1da20227bc4af9412c0b88d0e6729c5) | explainx.ai — AI news, guides & explainers |
-| 11-15 07:02 | [SpaceX首度完成太空船捕捉回收 星艦返回發射台](https://aiguanchao.com/items/24610225dd3ed4304beaebbf57364279cba72f2e) | 聯合新聞網：觸動未來 新識力 |
-| 11-15 06:45 | [Over 100,000 People Now Call For Jensen Huang’s Return To NVIDIA, As The PayPal Veteran David Sacks Terms His Forced Exit “The Stupidest, Most Moot Hill To Die On”](https://aiguanchao.com/items/61ebbbd6cbebe81044ccde5caf4ba6d433d02680) | Wccftech |
-| 11-15 05:41 | [马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务](https://aiguanchao.com/items/182b42773f51cf9cfb4a4f818f383fda3cdb6bc8) | TechCrunch：AI |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
