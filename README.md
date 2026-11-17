@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-17 11:55(北京时间)
+最后更新:2026-11-18 00:04(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 17 日 晚报](https://aiguanchao.com/daily/2026-11-17/evening)
 - [11 月 17 日 早报](https://aiguanchao.com/daily/2026-11-17/morning)
 - [11 月 16 日 晚报](https://aiguanchao.com/daily/2026-11-16/evening)
 - [11 月 16 日 早报](https://aiguanchao.com/daily/2026-11-16/morning)
 - [11 月 15 日 晚报](https://aiguanchao.com/daily/2026-11-15/evening)
 - [11 月 15 日 早报](https://aiguanchao.com/daily/2026-11-15/morning)
-- [11 月 14 日 晚报](https://aiguanchao.com/daily/2026-11-14/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,6 +38,12 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-16 22:36 | [Jensen Huang busca volver como CEO de NVIDIA](https://aiguanchao.com/items/4cf54755cdaa5d765f12d57420cd96e1baba5562) | El Ecosistema Startup |
+| 11-16 22:21 | [Nvidia: Tesoro de EE.UU. pide un CEO externo tras Huang](https://aiguanchao.com/items/4f1bf594d5297bead88701fcb7f48b720f212b9b) | El Ecosistema Startup |
+| 11-16 21:33 | [Microsoft: un bug de julio tumbó Outlook casi 24 horas](https://aiguanchao.com/items/dfa0271b81f50127516b728199405e12c81d5af6) | El Ecosistema Startup |
+| 11-16 17:51 | [从英伟达谈谈算力信用与AI格局演变](https://aiguanchao.com/items/631c4baf25f38d81ba795e68f7f9f76c020e8677) | 雪球今日话题 |
+| 11-16 17:07 | [攻击者用开源 Cairn AI 框架两周自主打穿 19 家组织](https://aiguanchao.com/items/15b9a908e49a06cda0193b12bbcaa508fa07455f) | CN-SEC 中文网 |
+| 11-16 16:30 | [「ジェンスン・ファンの存在は重要だった」。エヌビディアCEO辞任を受け、投資家はAI関連銘柄全体を懸念している](https://aiguanchao.com/items/e2a2d70ee9e58b120caaf673a02f1bfdb1f200fe) | Business Insider Japan |
 | 11-16 14:57 | [黄仁勋卸任英伟达 CEO 次日，日本市场 RTX 50 系显卡大幅降价](https://aiguanchao.com/items/382cda9f42b0a38a4458dfd80cbeb62162c3ed4c) | IT之家 |
 | 11-16 10:43 | [手機定位資料流海外 日經：自衛隊逾300設施曝光](https://aiguanchao.com/items/41a8c96a931e4edf59bb0be3c5de578725fa9154) | 聯合新聞網：觸動未來 新識力 |
 | 11-16 09:53 | [Petition to Reinstate Jensen Huang Tops 140,000 Signatures](https://aiguanchao.com/items/a037a5da7d13ce9b5251656944368c36094df607) | Seoul Economic Daily - English Edition |
@@ -52,12 +58,6 @@
 | 11-16 03:07 | [黃仁勳低調參與接班人遴選 馬斯克：輝達恐流失部分關鍵交易](https://aiguanchao.com/items/cd6646182c7c7c381babb7622a5e67b53e3ebadd) | 聯合新聞網：觸動未來 新識力 |
 | 11-16 02:33 | [SpaceX 首度完成太空船回收 NASA：更接近再次登月目標](https://aiguanchao.com/items/545d9464eaab4c6d8a164480c06f6965ff882efe) | 聯合新聞網：觸動未來 新識力 |
 | 11-16 01:10 | [美財長貝森特：輝達須「從公司外部」尋找新執行長](https://aiguanchao.com/items/dce3e111c5b788d5dd3f96426504269f90f627e1) | 聯合新聞網：觸動未來 新識力 |
-| 11-16 00:49 | [Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO](https://aiguanchao.com/items/f4c7bf8f822f15937f5d2788c15cc721eb96fe2f) | CNBC World |
-| 11-16 00:01 | [貝森特：輝達必須從外部找新CEO](https://aiguanchao.com/items/377cee5df4df34a8dfc14a63a3511e2eb6906f8c) | 聯合新聞網：觸動未來 新識力 |
-| 11-15 23:24 | [黃仁勳下台 紐時稱台灣陷入錯愕與哀傷](https://aiguanchao.com/items/6fd733aaa2f006d7ebf130e00872f64b8b597303) | 聯合新聞網：觸動未來 新識力 |
-| 11-15 20:40 | [Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. - The New York Times](https://aiguanchao.com/items/2258a41759cb7337a43c5d5ee8fd545c8edf9839) | Top stories - Google News |
-| 11-15 17:45 | [消息称黄仁勋离职后参与遴选接班人，已与至少一位英伟达新 CEO 候选人通话](https://aiguanchao.com/items/d91873857bfa23fe4b95cce40fdce61ad5a59f89) | IT之家 |
-| 11-15 15:58 | [Mirae Asset's Park Joins Petition Seeking Jensen Huang's Return](https://aiguanchao.com/items/bdf2bba3c690dc87049d54bfcdefe059d7d3b5ca) | Seoul Economic Daily - English Edition |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
