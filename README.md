@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-18 19:46(北京时间)
+最后更新:2026-11-19 04:35(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,26 +38,26 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 11-17 18:22 | [How new US chip restrictions on South East Asia will hit China](https://aiguanchao.com/items/58d0e7c91aea75663a3d8f9a0d0b035b7c22d424) | BBC Technology |
-| 11-17 12:05 | [黄仁勋 X 账号更新：移除 CEO 头衔、撤下英伟达标识与横幅，仅保留“创始人”身份](https://aiguanchao.com/items/1f3d4b60961daf3d4f85afc3f1bb07c7d6d6220b) | IT之家 |
-| 11-17 10:04 | [Jensen Huang resigns as Nvidia CEO, Colette Kress named interim chief](https://aiguanchao.com/items/cab636ea39e391e748a024c71b713a630913d82a) | Crypto Briefing |
-| 11-17 04:07 | [加州总检察长起诉 OpenAI，指控其智能体失控事件构成公共危害](https://aiguanchao.com/items/e5a3491ccc22685b49c7fe54ef73fc8e618a45ea) | TechCrunch：AI |
-| 11-17 04:01 | [California sues OpenAI over ‘dangerous’ AI models](https://aiguanchao.com/items/7c49b2234dd7a960f0a11f78345525fd6308511f) | Courthouse News Service |
-| 11-17 04:00 | [Trump Administration Moves to Block China From Indirect Access to American AI Technology](https://aiguanchao.com/items/55ca9ac113a2d14a050b8fdae32b1d29052326f3) | SecurityWeek |
-| 11-17 02:13 | [NVIDIA's Leadership Vacuum Hands AMD Its Biggest Opportunity in Years: Analysts](https://aiguanchao.com/items/abbe4804eddff70a50eaca2be3e9fb0faea28805) | Benzinga |
-| 11-17 01:30 | [“Want This Job Till I’m 80”: How NVIDIA CEO Jensen Huang Had Thought About Succession Planning In 2009](https://aiguanchao.com/items/14d0066de88758d07af964e0babcffa0cfee0808) | OfficeChai |
-| 11-17 01:00 | [Jensen Huang Boasted in 2024 He Managed 'Not to Get Fired' in 31 Years at Nvidia — An Affair Scandal Ended His Run 2 Years Later](https://aiguanchao.com/items/44fb95425e446270c60f9d09852dfcb5700f35d0) | Benzinga |
-| 11-16 22:36 | [Jensen Huang busca volver como CEO de NVIDIA](https://aiguanchao.com/items/4cf54755cdaa5d765f12d57420cd96e1baba5562) | El Ecosistema Startup |
-| 11-16 22:34 | [U.S. Curbs AI Chip Exports to Singapore and Four Other Nations](https://aiguanchao.com/items/be606e219c57b0d472ef333a58cacc5820d0106f) | Seoul Economic Daily - English Edition |
-| 11-16 22:21 | [Nvidia: Tesoro de EE.UU. pide un CEO externo tras Huang](https://aiguanchao.com/items/4f1bf594d5297bead88701fcb7f48b720f212b9b) | El Ecosistema Startup |
-| 11-16 21:33 | [Microsoft: un bug de julio tumbó Outlook casi 24 horas](https://aiguanchao.com/items/dfa0271b81f50127516b728199405e12c81d5af6) | El Ecosistema Startup |
-| 11-16 17:51 | [从英伟达谈谈算力信用与AI格局演变](https://aiguanchao.com/items/631c4baf25f38d81ba795e68f7f9f76c020e8677) | 雪球今日话题 |
-| 11-16 17:36 | [U.S. Rallies 10 Nations Behind AI Supply Chain Pact Against China](https://aiguanchao.com/items/bc79b8dfb6041d480aac99a9ab2f0682c36358ae) | Seoul Economic Daily - English Edition |
-| 11-16 17:07 | [攻击者用开源 Cairn AI 框架两周自主打穿 19 家组织](https://aiguanchao.com/items/15b9a908e49a06cda0193b12bbcaa508fa07455f) | CN-SEC 中文网 |
-| 11-16 16:30 | [「ジェンスン・ファンの存在は重要だった」。エヌビディアCEO辞任を受け、投資家はAI関連銘柄全体を懸念している](https://aiguanchao.com/items/e2a2d70ee9e58b120caaf673a02f1bfdb1f200fe) | Business Insider Japan |
-| 11-16 14:57 | [黄仁勋卸任英伟达 CEO 次日，日本市场 RTX 50 系显卡大幅降价](https://aiguanchao.com/items/382cda9f42b0a38a4458dfd80cbeb62162c3ed4c) | IT之家 |
-| 11-16 12:41 | [Agents Are Not the Answer. Engineering Is.](https://aiguanchao.com/items/9b20987743d8691dd897ce05d2b9240af0e3f34b) | HackerNoon |
-| 11-16 10:43 | [手機定位資料流海外 日經：自衛隊逾300設施曝光](https://aiguanchao.com/items/41a8c96a931e4edf59bb0be3c5de578725fa9154) | 聯合新聞網：觸動未來 新識力 |
+| 11-18 17:48 | [Jensen Huang case exposes weaknesses in Trump administration's China policy](https://aiguanchao.com/items/fd904913820bf47412ac72b19831d573940f183b) | Le Monde.fr - Actualités et Infos en France et dans le monde |
+| 11-18 15:44 | [加州起诉 OpenAI，指控其 80 多起 AI 智能体失控事件](https://aiguanchao.com/items/044940f2471eb511314892f25d59b84125c61faa) | Notebookcheck.net: News RSS Feed |
+| 11-18 13:43 | [微软官方 agent-framework PyPI 包遭入侵，内含凭据窃取器](https://aiguanchao.com/items/f11cdc568311b4e7921491344b11d4a140a58b9d) | OpenSourceMalware Blog |
+| 11-18 13:30 | [Nvidia 临时 CEO Colette Kress 表示董事会不会恢复黄仁勋的 CEO 职务](https://aiguanchao.com/items/28877a512d2d5a324b34cc4b2468d33f06dcd365) | Rohan Paul |
+| 11-18 13:19 | [Semafor：部分 Nvidia 董事仍推动让黄仁勋回归，尽管董事长否认](https://aiguanchao.com/items/575ae80aa6a6fb9eb2321ce09d37283d9933df07) | Rohan Paul |
+| 11-18 11:00 | [英伟达业绩强劲仍否决黄仁勋回归呼声](https://aiguanchao.com/items/b7d97415cc5b20f0a3cce0f85a549cc0e7ba5647) | Al Jazeera – Breaking News, World News and Video from Al Jaz |
+| 11-18 09:43 | [英伟达临时CEO称黄仁勋离职未致客户员工流失](https://aiguanchao.com/items/96a805e87be2ccdfc741e52ea2d762bba9402c43) | 驱动中国 |
+| 11-18 08:57 | [黄仁勋辞职风波后首度发声：愿重返CEO，英伟达董事会明确拒绝](https://aiguanchao.com/items/e441790afd970c9dcb8ba9bd7f680f669e4f3a95) | 驱动中国 |
+| 11-18 07:58 | [英伟达Q3电话会：营收增103% 称不急于寻黄仁勋继任者](https://aiguanchao.com/items/0128020431062c6f45542babda18d15a86f8a764) | 驱动中国 |
+| 11-18 07:26 | [NVIDIA 董事长表示黄仁勋不会被复职为 CEO](https://aiguanchao.com/items/91c3d9f717ab88522a7e7daf1fcbb685cc1994c0) | TechPowerUp |
+| 11-18 07:20 | [英伟达董事长：董事会无意让黄仁勋重新担任CEO](https://aiguanchao.com/items/a56d1d043d937de8ff6b35986c5ce4d265badb20) | 驱动中国 |
+| 11-18 07:04 | [英伟达表示黄仁勋离任后其开源 AI 战略保持不变](https://aiguanchao.com/items/0a4c4e9c5750e5e5d6c5ab53e480fcb11be31f67) | Top stories - Google News |
+| 11-18 06:29 | [CVE-2026-114938：OpenJDK 远程代码执行漏洞（Java4Shell）完整解析](https://aiguanchao.com/items/6791207c110a3b0f94d66b730454c17ceb0f52ed) | Wiz Blog / RSS feed |
+| 11-18 06:24 | [漏洞末日级缺陷值得关注：研究人员借助 AI 披露 Java 严重漏洞](https://aiguanchao.com/items/9229cee98aff6c933099c0f705c67305c16a45d7) | CyberScoop |
+| 11-18 06:21 | [英伟达董事长表示公司不考虑让黄仁勋复任 CEO](https://aiguanchao.com/items/51992126432bb1eae9d6fcf03e94f963782c7a37) | Engadget - Technology News & Expert Reviews |
+| 11-18 05:22 | [黄仁勋辞职后首度发声，表示愿意重返英伟达 CEO 职位](https://aiguanchao.com/items/64b54a46941489522fbd3e54eb90068dfccacafd) | SiliconANGLE |
+| 11-18 02:41 | [Anthropic 提交 IPO 申请，竞逐 AI 领域主导地位](https://aiguanchao.com/items/16e5f3fbe2e326eaf1163a6d8b33e1279f35dd22) | Home - CBSNews.com |
+| 11-18 00:40 | [黄仁勋打破沉默：若董事会允许，愿重返英伟达担任 CEO](https://aiguanchao.com/items/7eb2768f8e8cbc3902ff14f9af8b8211d12bf508) | IT之家 |
+| 11-17 23:29 | [前 Nvidia CEO 黄仁勋同意就绯闻调查赴国会作证](https://aiguanchao.com/items/6f802fa56b03732869caeb8bec6e2f06a44e37d6) | Home - CBSNews.com |
+| 11-17 18:22 | [美国对东南亚新芯片限制将如何冲击中国](https://aiguanchao.com/items/58d0e7c91aea75663a3d8f9a0d0b035b7c22d424) | BBC Technology |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
