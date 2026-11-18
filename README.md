@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-18 08:58(北京时间)
+最后更新:2026-11-18 19:46(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 18 日 晚报](https://aiguanchao.com/daily/2026-11-18/evening)
 - [11 月 18 日 早报](https://aiguanchao.com/daily/2026-11-18/morning)
 - [11 月 17 日 晚报](https://aiguanchao.com/daily/2026-11-17/evening)
 - [11 月 17 日 早报](https://aiguanchao.com/daily/2026-11-17/morning)
 - [11 月 16 日 晚报](https://aiguanchao.com/daily/2026-11-16/evening)
 - [11 月 16 日 早报](https://aiguanchao.com/daily/2026-11-16/morning)
-- [11 月 15 日 晚报](https://aiguanchao.com/daily/2026-11-15/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,8 +38,15 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-17 18:22 | [How new US chip restrictions on South East Asia will hit China](https://aiguanchao.com/items/58d0e7c91aea75663a3d8f9a0d0b035b7c22d424) | BBC Technology |
+| 11-17 12:05 | [黄仁勋 X 账号更新：移除 CEO 头衔、撤下英伟达标识与横幅，仅保留“创始人”身份](https://aiguanchao.com/items/1f3d4b60961daf3d4f85afc3f1bb07c7d6d6220b) | IT之家 |
+| 11-17 10:04 | [Jensen Huang resigns as Nvidia CEO, Colette Kress named interim chief](https://aiguanchao.com/items/cab636ea39e391e748a024c71b713a630913d82a) | Crypto Briefing |
 | 11-17 04:07 | [加州总检察长起诉 OpenAI，指控其智能体失控事件构成公共危害](https://aiguanchao.com/items/e5a3491ccc22685b49c7fe54ef73fc8e618a45ea) | TechCrunch：AI |
 | 11-17 04:01 | [California sues OpenAI over ‘dangerous’ AI models](https://aiguanchao.com/items/7c49b2234dd7a960f0a11f78345525fd6308511f) | Courthouse News Service |
+| 11-17 04:00 | [Trump Administration Moves to Block China From Indirect Access to American AI Technology](https://aiguanchao.com/items/55ca9ac113a2d14a050b8fdae32b1d29052326f3) | SecurityWeek |
+| 11-17 02:13 | [NVIDIA's Leadership Vacuum Hands AMD Its Biggest Opportunity in Years: Analysts](https://aiguanchao.com/items/abbe4804eddff70a50eaca2be3e9fb0faea28805) | Benzinga |
+| 11-17 01:30 | [“Want This Job Till I’m 80”: How NVIDIA CEO Jensen Huang Had Thought About Succession Planning In 2009](https://aiguanchao.com/items/14d0066de88758d07af964e0babcffa0cfee0808) | OfficeChai |
+| 11-17 01:00 | [Jensen Huang Boasted in 2024 He Managed 'Not to Get Fired' in 31 Years at Nvidia — An Affair Scandal Ended His Run 2 Years Later](https://aiguanchao.com/items/44fb95425e446270c60f9d09852dfcb5700f35d0) | Benzinga |
 | 11-16 22:36 | [Jensen Huang busca volver como CEO de NVIDIA](https://aiguanchao.com/items/4cf54755cdaa5d765f12d57420cd96e1baba5562) | El Ecosistema Startup |
 | 11-16 22:34 | [U.S. Curbs AI Chip Exports to Singapore and Four Other Nations](https://aiguanchao.com/items/be606e219c57b0d472ef333a58cacc5820d0106f) | Seoul Economic Daily - English Edition |
 | 11-16 22:21 | [Nvidia: Tesoro de EE.UU. pide un CEO externo tras Huang](https://aiguanchao.com/items/4f1bf594d5297bead88701fcb7f48b720f212b9b) | El Ecosistema Startup |
@@ -51,13 +58,6 @@
 | 11-16 14:57 | [黄仁勋卸任英伟达 CEO 次日，日本市场 RTX 50 系显卡大幅降价](https://aiguanchao.com/items/382cda9f42b0a38a4458dfd80cbeb62162c3ed4c) | IT之家 |
 | 11-16 12:41 | [Agents Are Not the Answer. Engineering Is.](https://aiguanchao.com/items/9b20987743d8691dd897ce05d2b9240af0e3f34b) | HackerNoon |
 | 11-16 10:43 | [手機定位資料流海外 日經：自衛隊逾300設施曝光](https://aiguanchao.com/items/41a8c96a931e4edf59bb0be3c5de578725fa9154) | 聯合新聞網：觸動未來 新識力 |
-| 11-16 09:53 | [Petition to Reinstate Jensen Huang Tops 140,000 Signatures](https://aiguanchao.com/items/a037a5da7d13ce9b5251656944368c36094df607) | Seoul Economic Daily - English Edition |
-| 11-16 09:11 | [超 16 万人请愿，黄仁勋准备「回宫」](https://aiguanchao.com/items/b1d426d8c1fc34c49c3f03254359dc5a7074379f) | 爱范儿 |
-| 11-16 09:06 | [Nvidia sin Jensen Huang: el relevo que define su futuro](https://aiguanchao.com/items/77d7f196639a47df23e79c1ffbfcad4b0d3464ae) | El Ecosistema Startup |
-| 11-16 08:30 | [意大利对Facebook罚款8.05亿美元 原因是其安卓版未经用户授权访问整个相册](https://aiguanchao.com/items/9087479c83c6e403f4b7f17ef56d709171744a2d) | 蓝点网 |
-| 11-16 07:56 | [刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船](https://aiguanchao.com/items/73af554f3c7c843bcd19cb4fb8e2d2662f5f007e) | BestBlogs.dev |
-| 11-16 04:49 | [法人圈談「黃仁勳溢價」退燒 上市櫃千億訂單恐受波及](https://aiguanchao.com/items/74bba232d56892fa6ae774139264f954c7f161c0) | 聯合新聞網：觸動未來 新識力 |
-| 11-16 04:20 | [《金融时报》报道：黄仁勋考虑重任英伟达 CEO](https://aiguanchao.com/items/8be811bb9e354bc900acf76ad33d1919cf41b729) | BestBlogs.dev |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
