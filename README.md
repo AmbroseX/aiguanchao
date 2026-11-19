@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-19 19:44(北京时间)
+最后更新:2026-11-20 04:40(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,26 +38,26 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-19 17:00 | [Java4Shell Affected Products List: Atlassian, Elastic Patch Status](https://aiguanchao.com/items/8ffdd478fd7de16bea01733ebbe62216654f8259) | Daily CyberSecurity |
+| 11-19 16:02 | [Anthropic’s S-1, Dissected, Part 2: The Offering and the Valuation](https://aiguanchao.com/items/01d1aa33a613a67dbf8f67896b7961cefb268a0b) | The AI Insider |
+| 11-19 15:59 | [Ruby2ßhell：原版 Rails 默认配置下的预认证远程代码执行漏洞](https://aiguanchao.com/items/0f07368d3305e90124064211e3439fc4fe1c09f4) | Hacker News 热门 |
+| 11-19 14:39 | [Anthropic Raises $107.3 Billion in Watershed AI Debut](https://aiguanchao.com/items/d271128e58c920cb859bda73dda8a747078e3595) | Bloomberg Technology |
+| 11-19 10:55 | [Anthropic IPO 定价每股 83 美元，为超 1 万亿美元估值上市做准备](https://aiguanchao.com/items/1620053e9fcebe0c20d64885b017e62e18ce2638) | Business Insider Japan |
+| 11-19 10:35 | [Web服务器 nginx 现身10个漏洞：HTTP/2实现缺陷可遭未认证远程代码执行，警惕 CVE-2026-123633 与 CVE-2026-123007，v1.30.7/v1.31.9 已修复](https://aiguanchao.com/items/4a8c22b79cfae9607f5c01f739d20209f457fa6e) | 窓の杜 |
+| 11-19 09:53 | [輝達晶片恐供中國軍方使用 紐時揭供應鏈內幕](https://aiguanchao.com/items/1ed97f390ba832be42b87d7b0caf52fdb970afa8) | 聯合新聞網：觸動未來 新識力 |
+| 11-19 08:34 | [利用 GPT-6 Cyber 发现 Java 中潜伏 12 年以上的严重漏洞，Oracle 已发布补丁并建议立即应用](https://aiguanchao.com/items/6ecb450dd47d6017da25d91a9de5609a3c9c8fee) | テクノエッジ TechnoEdge |
 | 11-19 08:15 | [Anthropic IPO 定价每股 83 美元，发行 9.8 亿股 A 类股募资约 813 亿美元](https://aiguanchao.com/items/bd0ca2ba2304df436fb8ae5c001e08727a693c3f) | Rohan Paul |
 | 11-19 08:12 | [Anthropic IPO融资813亿美元 打破SpaceX创造的纪录](https://aiguanchao.com/items/ab52649e89dff48db433c79007c6dc75dbc9ade8) | 财联社 电报 |
+| 11-19 08:05 | [Elon Musk says no one can replace Nvidia’s Jensen Huang](https://aiguanchao.com/items/d3dd6fae6d07f9aaad895719a292ef80fc1a4373) | Crypto Briefing |
+| 11-19 08:00 | [Nvidia 全员大会：黄仁勋辞职后 Kress 告知员工向前看](https://aiguanchao.com/items/18a76a2b2983d1c632873da36c0289762b44f3d0) | explainx.ai — AI news, guides & explainers |
+| 11-19 07:56 | [刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5](https://aiguanchao.com/items/02d3b91516c522000954f20442537e1f66daed7d) | 爱范儿 |
 | 11-19 07:53 | [谷歌推出 Gemini 4 Neon 模型，AA 编程 AI 智能体指数超 Claude Opus 5.5 排第一](https://aiguanchao.com/items/cc880e6097a4ccd12687cfd2e99cd24028be9d5f) | IT之家 |
 | 11-19 07:29 | [Anthropic 将 IPO 定价定为每股 83 美元，明日登陆纳斯达克](https://aiguanchao.com/items/6d1d727f63d212408aebda5b7a741a2f71a189ff) | Anthropic |
+| 11-19 07:07 | [英伟达员工大会宣布告别黄仁勋时代 12月加薪启动新CEO遴选](https://aiguanchao.com/items/60fbaecd3c1a3f7b986df6761271097de9db237e) | 驱动中国 |
 | 11-19 06:36 | [史上最大 IPO：Anthropic 每股定价 83 美元，预计募资 944 亿美元超 SpaceX](https://aiguanchao.com/items/5497b1cf63982d5159d7ae1e057a9bc5f2b62b0b) | IT之家 |
 | 11-19 06:33 | [英伟达暂停向中国销售获美国批准的 H200 芯片](https://aiguanchao.com/items/82cf17084d7332d6791bbee9642f2a25699fdecb) | Semafor |
 | 11-19 05:51 | [Google 开始推送 Gemini 4 Neon，覆盖订阅端、API 与企业用户](https://aiguanchao.com/items/ffcbafd23cb73f2e3d0c318dbba1fb1839a4b995) | Google |
-| 11-19 03:38 | [輝達代理CEO宣布 停賣H200晶片給中國](https://aiguanchao.com/items/b1418329bef337b0abdca9a24a019b0bbe24f19c) | 聯合新聞網：觸動未來 新識力 |
-| 11-19 03:26 | [报道：英伟达董事会所聘猎头公司接洽Arm首席执行官Rene Haas](https://aiguanchao.com/items/de5febf6a56c70569221a847047a4886775adf99) | 华尔街见闻 快讯 |
-| 11-19 03:17 | [NGINXに認証不要RCEが可能な脆弱性「NGINX2Shell」（CVE-2026-123007） CVSS 9.2、修正版1.31.9・1.30.7公開](https://aiguanchao.com/items/2ea7847f525969a9f70b6ea9487d6d6c6c423441) | 合同会社ロケットボーイズ |
-| 11-19 03:05 | [据报道两台 HPE Juniper 路由器引发 FAA 全国停飞，所有美国航班停飞](https://aiguanchao.com/items/715c08469c2a538de2f23fe07336e1b0e064afc8) | Latest from TechRadar |
-| 11-19 01:59 | [Java4Shell 运行时漏洞影响面测绘分析与处置建议（CVE-2026-114938）](https://aiguanchao.com/items/8723803a943ee8747146bbd48c23193184242d87) | CN-SEC 中文网 |
-| 11-19 01:11 | [nginx2root: Critical nginx vulnerabilities, including one RCE [CVE-2026-123007, CVE-2026-123634, CVE-2026-123633, CVE-2026-121810, CVE-2026-113425]](https://aiguanchao.com/items/5995cc40145b696c66660e1f0ea11ddccb832bb1) | Aikido Security's Blog |
-| 11-18 23:13 | [Wiz 披露 NGINX 两个 HTTP/2 无需认证远程代码执行漏洞 CVE-2026-123633 与 CVE-2026-123007](https://aiguanchao.com/items/0bfbad73857fdbc586ac76ad5101476e9e2ce448) | Wiz：Research |
-| 11-18 23:13 | [NGINX HTTP/2 处理中的预认证远程代码执行漏洞](https://aiguanchao.com/items/cf6afe123a4713e15fc80b11df486edfeb73e078) | Hacker News 前页 (RSS) |
-| 11-18 22:10 | [黄仁勋的陨落：AI 基础设施之王因一连串指控与丑闻倒台的时间线](https://aiguanchao.com/items/ec592ea2297bf3ec2d3ae696f5b465b0c1db86b8) | Jowi Morales |
-| 11-18 22:02 | [英伟达业绩爆发遭遇公司治理考验](https://aiguanchao.com/items/bd6f8feda4a3242166d1fc9ae3ccbaf4ec4a0caf) | Fortune / FORTUNE |
-| 11-18 21:56 | [CVE-2026-123007：NGINX HTTP/2 整数下溢高危漏洞可致远程代码执行（已修复）](https://aiguanchao.com/items/140a7bc6aee533e1be93e927135a83698d4465ce) | Rapid7 Cybersecurity Blog |
-| 11-18 21:28 | [SEC probes Nvidia over undisclosed chip sales tied to China](https://aiguanchao.com/items/280576e8c206d7e46b40a31f590af7f6a5103409) | THE DECODER |
-| 11-18 19:04 | [英伟达 Kress 面临分裂的员工队伍，部分员工推动黄仁勋回归](https://aiguanchao.com/items/7ebc43c8f820b494ac453b1bdb5489f7f609940e) | CNBC World |
+| 11-19 05:31 | [Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated](https://aiguanchao.com/items/9c1515b502254e4175fb6b08603630ff6c3039f4) | TechCrunch |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
