@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-20 10:21(北京时间)
+最后更新:2026-11-20 19:44(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 20 日 晚报](https://aiguanchao.com/daily/2026-11-20/evening)
 - [11 月 20 日 早报](https://aiguanchao.com/daily/2026-11-20/morning)
 - [11 月 19 日 晚报](https://aiguanchao.com/daily/2026-11-19/evening)
 - [11 月 19 日 早报](https://aiguanchao.com/daily/2026-11-19/morning)
 - [11 月 18 日 晚报](https://aiguanchao.com/daily/2026-11-18/evening)
 - [11 月 18 日 早报](https://aiguanchao.com/daily/2026-11-18/morning)
-- [11 月 17 日 晚报](https://aiguanchao.com/daily/2026-11-17/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,26 +38,26 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-20 10:35 | [全球史上最大IPO今晚敲钟！诺奖图灵奖得主联名反对](https://aiguanchao.com/items/8d3884252c5b40700d6777bb6359fa0627c2e667) | 新智元 |
+| 11-20 09:52 | [CVSS 9.2 · 65 个字符打穿 Java：Java4Shell 未授权 RCE，Jira、Jenkins、Keycloak 全在射程内](https://aiguanchao.com/items/60ae4afec521b41054384a69c1141bfa486714d3) | CN-SEC 中文网 |
+| 11-20 09:37 | [Anthropic IPO 募资 813 亿美元创纪录，市值达 1.76 万亿美元引发安全争议](https://aiguanchao.com/items/3fb388a772d0f4159931b3a1c060a92018aff5c8) | Platformer |
+| 11-20 09:15 | [黃仁勳涉中國間諜疑雲 加州檢察長向輝達發傳票](https://aiguanchao.com/items/37e8ace64f0c8899fd24f13e8d3370fcea307406) | 聯合新聞網：觸動未來 新識力 |
+| 11-20 06:38 | [Anthropic 登陆纳斯达克：IPO 募资额创史上最大纪录达813亿美元，开盘价较发行价高出34%](https://aiguanchao.com/items/2e4ce423eb644ba24e64f202c1fd3e5adb97d686) | ITmedia TOP STORIES 最新記事一覧 |
+| 11-20 06:06 | [Anthropic 创纪录 IPO 让数千名早期员工跻身百万富翁](https://aiguanchao.com/items/d9079b637310eddf16c48f69f2d5e7271f326928) | Crypto Briefing |
+| 11-20 05:58 | [美国半年内批准近90万枚AI芯片销往中国](https://aiguanchao.com/items/b5f6a0051df8a6b087a95e0dbc82e5153770a4ec) | Al Jazeera – Breaking News, World News and Video from Al Jaz |
+| 11-20 05:45 | [Anthropic 在纳斯达克上市，市值一度突破 2 万亿美元，创史上最大规模 IPO](https://aiguanchao.com/items/1060ecafd0c480a1d87e342d7a09c5569a318304) | テクノエッジ TechnoEdge |
+| 11-20 05:06 | [CVE-2026-123890: Critical Authentication Bypass in VMware vCenter](https://aiguanchao.com/items/475d765baf195811d6c41f5f504522292695a667) | Rapid7 Cybersecurity Blog |
+| 11-20 03:36 | [Anthropic IPO 定价超出区间，开盘大涨 30%，市值一度达 2 万亿美元](https://aiguanchao.com/items/c85c313ffede390be5fd0eb50c57fcc13c045787) | Newcomer 新闻长文 |
+| 11-20 03:32 | [英伟达首次没有黄仁勋的财报电话会议带给我们的启示](https://aiguanchao.com/items/5a15de987540ed080d1102429f956f8570d6f93e) | SiliconANGLE |
+| 11-20 03:07 | [Jensen Huang Chinese Revenue, Affairs, Resignation, and Case for CEO Reinstatement Timeline](https://aiguanchao.com/items/c0a254daef197525297872ce526a6feb1a01e4d0) | HackerNoon |
+| 11-20 02:36 | [Anthropic 巨型 IPO 募资超 1000 亿美元，估值达 1.5 万亿美元](https://aiguanchao.com/items/5bb12a3ed4a5a0b53c3cebbe33b16132a1f5cb90) | Interesting Engineering |
 | 11-20 02:15 | [Anthropic纳斯达克上市首日大涨 市值突破两万亿美元](https://aiguanchao.com/items/fe93d49bec2c0a0bf04aa77c75114b411057561d) | 法广中文 |
+| 11-20 01:20 | [见证历史！纳斯达克门外在抗议，门内暴涨 36%，Anthropic 上市，成史上最大 IPO，市值近 1.5 万亿美元！](https://aiguanchao.com/items/4c0f2a4152e699187f246891f8a11ddf7bce7075) | BestBlogs.dev |
+| 11-20 01:15 | [消息人士：Alphabet 计划发行五部分加拿大债券至少融资 50 亿加元，此前 5 月首次加拿大发行已融资 85 亿加元](https://aiguanchao.com/items/7d6dc93f4df3c90adc446d885e10efe92fe21726) | Techmeme |
+| 11-20 01:03 | [Anthropic 创纪录 IPO 上市首秀](https://aiguanchao.com/items/4737fe658f27a40a43a6a0732e3bc98c706628c8) | Semafor |
 | 11-20 01:01 | [Anthropic CEO Dario Amodei 就公司 IPO 发表声明](https://aiguanchao.com/items/c58a127b77537eee26842ae4ec816038e6a1bd59) | Anthropic |
 | 11-20 00:59 | [Anthropic 登陆 NASDAQ，开盘价 111 美元高出发行价 33%](https://aiguanchao.com/items/4405fb7d03814ebb1b17e513665a7a1e77db8e58) | TechCrunch：AI |
-| 11-20 00:50 | [Anthropic上市首日开盘涨34% 市值达到1.5万亿美元](https://aiguanchao.com/items/4e852be6f1d39240f220832d19ff322b8cf0ea34) | 财联社 电报 |
-| 11-20 00:19 | [Anthropic 完成史上最大规模 IPO，Dario Amodei 敲钟演讲重申放慢 AI 开发节奏](https://aiguanchao.com/items/2818e46ae95f0cf7f33ec690df544854e33a9ed3) | TechCrunch：AI |
-| 11-19 23:43 | [Anthropic set to start trading after completing largest-ever IPO](https://aiguanchao.com/items/1a9cb23d1f491f4fee748a129cd2ba11b5a5ce11) | Home - CBSNews.com |
-| 11-19 23:42 | [美国新规生效，台积电与三星暂停部分中国客户先进制程订单](https://aiguanchao.com/items/00461dab0038a70729dfa78a05edb14fef6f6f39) | 法广中文 |
-| 11-19 23:30 | [Anthropic 完成史上最大 IPO，将以 1.5 万亿美元估值开始公开交易](https://aiguanchao.com/items/da5cf2f8351348dc6cac19ea264f7d40674598d7) | The Guardian AI |
-| 11-19 23:10 | [Разработчик Claude привлек рекордные $81,3 млрд на IPO](https://aiguanchao.com/items/ae56ab776590a88e36108caba2a917a5e27b0984) | Kursiv Media Узбекистан |
-| 11-19 21:34 | [Anthropic IPO 募资创纪录](https://aiguanchao.com/items/a155478e3989ec5c653bc357af49f5d0700807a9) | Semafor |
-| 11-19 21:14 | [Anthropic 以 813 亿美元创下史上最大规模 IPO 纪录，超越 SpaceX，以 1.5 万亿美元估值登陆纳斯达克](https://aiguanchao.com/items/2866046070c3fc87fb7ecf2b0672bfaeef74ebbc) | Tech Startups |
-| 11-19 18:26 | [F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public](https://aiguanchao.com/items/efe52a75b1494126560db0152b6d77b8115152e4) | SecurityWeek |
-| 11-19 17:00 | [Java4Shell 受影响产品清单：Atlassian、Elastic 补丁状态一览](https://aiguanchao.com/items/8ffdd478fd7de16bea01733ebbe62216654f8259) | Daily CyberSecurity |
-| 11-19 16:02 | [Anthropic S-1 文件深度解读（二）：发行方案与估值](https://aiguanchao.com/items/01d1aa33a613a67dbf8f67896b7961cefb268a0b) | The AI Insider |
-| 11-19 15:59 | [Ruby2ßhell：原版 Rails 默认配置下的预认证远程代码执行漏洞](https://aiguanchao.com/items/0f07368d3305e90124064211e3439fc4fe1c09f4) | Hacker News 热门 |
-| 11-19 14:39 | [Anthropic Raises $107.3 Billion in Watershed AI Debut](https://aiguanchao.com/items/d271128e58c920cb859bda73dda8a747078e3595) | Bloomberg Technology |
-| 11-19 10:55 | [Anthropic IPO 定价每股 83 美元，为超 1 万亿美元估值上市做准备](https://aiguanchao.com/items/1620053e9fcebe0c20d64885b017e62e18ce2638) | Business Insider Japan |
-| 11-19 10:35 | [Web服务器 nginx 现身10个漏洞：HTTP/2实现缺陷可遭未认证远程代码执行，警惕 CVE-2026-123633 与 CVE-2026-123007，v1.30.7/v1.31.9 已修复](https://aiguanchao.com/items/4a8c22b79cfae9607f5c01f739d20209f457fa6e) | 窓の杜 |
-| 11-19 09:53 | [輝達晶片恐供中國軍方使用 紐時揭供應鏈內幕](https://aiguanchao.com/items/1ed97f390ba832be42b87d7b0caf52fdb970afa8) | 聯合新聞網：觸動未來 新識力 |
-| 11-19 08:34 | [利用 GPT-6 Cyber 发现 Java 中潜伏 12 年以上的严重漏洞，Oracle 已发布补丁并建议立即应用](https://aiguanchao.com/items/6ecb450dd47d6017da25d91a9de5609a3c9c8fee) | テクノエッジ TechnoEdge |
+| 11-20 00:59 | [Anthropic 登陆纳斯达克 开盘价 111 美元，较 IPO 发行价高出 33%](https://aiguanchao.com/items/69e029d850c8d854cae1cf5daec9d5fc800e48a8) | TechCrunch |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
