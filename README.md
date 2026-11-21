@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-21 19:07(北京时间)
+最后更新:2026-11-22 03:18(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,7 +38,17 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-21 23:30 | [Anthropic 创纪录 IPO 募资约 1195 亿美元，现金储备最高达 2500 亿美元](https://aiguanchao.com/items/53a4fb4141ed017cd30521c795d211aed3a47901) | Crypto Briefing |
+| 11-21 21:55 | [Lean Verification of the Riemann Hypothesis - Joint statement by...](https://aiguanchao.com/items/1d65bc2e33d2f1159d19a9299aea3200ed592843) | Hacker News 前页 (RSS) |
+| 11-21 21:12 | [Anthropic 数学家称他与 Claude 一起证明了黎曼猜想](https://aiguanchao.com/items/006f6840762812e6c3f8bed7d67999834668c5c1) | The Next Web |
+| 11-21 20:08 | [亚马逊：中国关联黑客的 AI 代理利用了医疗软件零日漏洞](https://aiguanchao.com/items/083b0e9c1aee2221f393c24185131aaef5048537) | SecurityWeek |
+| 11-21 19:19 | [Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿](https://aiguanchao.com/items/d9012787f6fff47981b417880c81c6d7a70e38e0) | The Decoder：AI News |
+| 11-21 18:19 | [436: Elephant in the Room (hak)](https://aiguanchao.com/items/908f0cbccfe20b55e85c95e906fe2755480d3178) | BigGo ファイナンス |
+| 11-21 13:50 | [抢跑 OpenAI 敲出史上最大 IPO，Anthropic 却惹怒了半个硅谷](https://aiguanchao.com/items/4df6cf4f4a01c5ea189aa5754dfb7664d5f1b51c) | BestBlogs.dev |
+| 11-21 13:42 | [黎曼猜想真被 Claude 证明了？陶哲轩邓煜等菲尔兹奖得主回应！](https://aiguanchao.com/items/a81ed91175ef83c5df3f4bd5cf9f8b89c0d4debe) | BestBlogs.dev |
 | 11-21 12:32 | [Anthropic正式敲钟上市！超越马斯克SpaceX，创史上最大IPO](https://aiguanchao.com/items/944c360eff52ebd5d0a22ab1641a921d3d3bdb93) | 夕小瑶科技说 |
+| 11-21 10:51 | [Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。](https://aiguanchao.com/items/73192fa30c62ad2cf931d1a17ab1a8b3906b98ab) | 人人都是产品经理 |
+| 11-21 09:38 | [黎曼猜想被证明了？是 Claude 与数学家联手，还是纯手工？](https://aiguanchao.com/items/3afbfd4946d8cd89dadc7f493d27a8fe44784e35) | BestBlogs.dev |
 | 11-21 09:14 | [“数学界第一神山”被攻克？Anthropic 数学家宣称证明黎曼猜想，给出 1700 万行 Lean 源码，AI 证明文件超过 25 万页](https://aiguanchao.com/items/a77c51ef58fb42e470b17ba692e75f3e93cfe2ff) | BestBlogs.dev |
 | 11-21 09:12 | [亚马逊：AI 智能体 11 分钟内发现并利用零日漏洞](https://aiguanchao.com/items/31aa94a79c52d16cd5bcf568cda1cf6e360d24aa) | El Ecosistema Startup |
 | 11-21 07:40 | [黎曼猜想真被 Claude 证明了？Anthropic 数学家仅发布 Lean 代码，陶哲轩称验证仍需时间](https://aiguanchao.com/items/2f7d81ab4c943e88c5da59087b96ad9d7b04c9e9) | IT之家 |
@@ -48,16 +58,6 @@
 | 11-21 05:04 | [特朗普呼吁黄仁勋在“重大道歉”后重返英伟达出任CEO](https://aiguanchao.com/items/d824b9f7e8a1023ff4989dca743b50d10885b43d) | Top stories - Google News |
 | 11-21 03:54 | [英伟达股价暴跌 12%，创 2008 年金融危机以来最长周线连跌](https://aiguanchao.com/items/797de0de9275ed550d0daaddb56b424f0dc06108) | CNBC World |
 | 11-21 03:52 | [黄仁勋撒谎风波惊动英伟达董事会 最终促成其辞职](https://aiguanchao.com/items/ccb17caa69c5649d917c2a49f466031d178037a5) | Wired AI |
-| 11-21 03:32 | [Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明](https://aiguanchao.com/items/b38e5b30bf6c403b9bf134ad167ed7c78a359526) | TechCrunch：AI |
-| 11-21 02:29 | [随机鹦鹉们竟然证明了黎曼猜想](https://aiguanchao.com/items/cada0c28943838a8d7d9fe7432a9fb356a2681ae) | Shtetl-Optimized |
-| 11-20 23:53 | [数学家们如何回应 Anthropic 的 Levent Alpöge 声称证明黎曼猜想](https://aiguanchao.com/items/85c38ae22d7b82a93e403639e69a8b4ad84ed3c0) | OfficeChai |
-| 11-20 22:23 | [路透社报道：Meta 的 Muse 读取 Signal 消息并虚构购买行为](https://aiguanchao.com/items/85898aec6eeb8074cf40f85c8f63a323a7449814) | The Next Web |
-| 11-20 22:00 | [Cursor and Chinese AI Models: What the House Report Says](https://aiguanchao.com/items/df2fbd608d3ef7e24b2c6d701ac7a1525f5df84f) | CellCog Blog |
-| 11-20 20:47 | [Anthropic IPO募集资金总额约为935亿美元](https://aiguanchao.com/items/0e92ccb5a5057ef2761fd0056cd7de88e942557a) | 财联社 电报 |
-| 11-20 18:47 | [DeepSeek 新一轮千亿级融资落地，梁文锋保留绝对控制权](https://aiguanchao.com/items/93a77bdd76ed2ba5e067eb660a9d1c8f7cfa2d77) | IT之家 |
-| 11-20 18:43 | [加州就芯片出口是否流入中国调查 Nvidia](https://aiguanchao.com/items/9b8e9c11b460363a483741bf2711f6ee0e5ed0ce) | 卫报 World |
-| 11-20 17:31 | [腾讯混元开源 Hy4 权重并发布 System Card 安全评估](https://aiguanchao.com/items/178bdc906471ceb3388dd36f8e9d9e6af2257a5b) | 腾讯混元 |
-| 11-20 17:22 | [Anthropic正式登陆纳斯达克：敲钟那天，账已经在另一张纸上？](https://aiguanchao.com/items/4791462c4495d53724a098d3917ee318b671cf41) | 钛媒体 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
