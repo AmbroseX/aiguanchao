@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-21 04:24(北京时间)
+最后更新:2026-11-21 10:19(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 21 日 早报](https://aiguanchao.com/daily/2026-11-21/morning)
 - [11 月 20 日 晚报](https://aiguanchao.com/daily/2026-11-20/evening)
 - [11 月 20 日 早报](https://aiguanchao.com/daily/2026-11-20/morning)
 - [11 月 19 日 晚报](https://aiguanchao.com/daily/2026-11-19/evening)
 - [11 月 19 日 早报](https://aiguanchao.com/daily/2026-11-19/morning)
 - [11 月 18 日 晚报](https://aiguanchao.com/daily/2026-11-18/evening)
-- [11 月 18 日 早报](https://aiguanchao.com/daily/2026-11-18/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,10 +38,13 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-21 03:54 | [Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis](https://aiguanchao.com/items/797de0de9275ed550d0daaddb56b424f0dc06108) | CNBC World |
+| 11-21 03:32 | [Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明](https://aiguanchao.com/items/b38e5b30bf6c403b9bf134ad167ed7c78a359526) | TechCrunch：AI |
 | 11-20 20:47 | [Anthropic IPO募集资金总额约为935亿美元](https://aiguanchao.com/items/0e92ccb5a5057ef2761fd0056cd7de88e942557a) | 财联社 电报 |
 | 11-20 18:47 | [DeepSeek 新一轮千亿级融资落地，梁文锋保留绝对控制权](https://aiguanchao.com/items/93a77bdd76ed2ba5e067eb660a9d1c8f7cfa2d77) | IT之家 |
-| 11-20 18:43 | [California investigates Nvidia over whether chip exports ended up in China](https://aiguanchao.com/items/9b8e9c11b460363a483741bf2711f6ee0e5ed0ce) | 卫报 World |
+| 11-20 18:43 | [加州就芯片出口是否流入中国调查 Nvidia](https://aiguanchao.com/items/9b8e9c11b460363a483741bf2711f6ee0e5ed0ce) | 卫报 World |
 | 11-20 17:31 | [腾讯混元开源 Hy4 权重并发布 System Card 安全评估](https://aiguanchao.com/items/178bdc906471ceb3388dd36f8e9d9e6af2257a5b) | 腾讯混元 |
+| 11-20 17:22 | [Anthropic正式登陆纳斯达克：敲钟那天，账已经在另一张纸上？](https://aiguanchao.com/items/4791462c4495d53724a098d3917ee318b671cf41) | 钛媒体 |
 | 11-20 16:28 | [刚刚，Anthropic 敲钟上市，史上最大 IPO 却让硅谷吵翻了](https://aiguanchao.com/items/4b72bb25f88ebad1f099e51c99a2778319081b52) | BestBlogs.dev |
 | 11-20 15:09 | [Anthropic 上市：史上最大规模 IPO 首日成绩单揭晓](https://aiguanchao.com/items/ecc4acca3ffa10a02479a8e643baa2b03c8d3b62) | JDN : Derniers contenus |
 | 11-20 14:57 | [美國核准AI晶片銷陸引爆國會調查 台積電對陸先進製程訂單踩煞車](https://aiguanchao.com/items/e31de8c073e481cfd424b7b3000d91fc9c9ff27d) | 聯合新聞網：觸動未來 新識力 |
@@ -55,9 +58,6 @@
 | 11-20 09:37 | [Anthropic IPO 募资 813 亿美元创纪录，市值达 1.76 万亿美元引发安全争议](https://aiguanchao.com/items/3fb388a772d0f4159931b3a1c060a92018aff5c8) | Platformer |
 | 11-20 09:15 | [黃仁勳涉中國間諜疑雲 加州檢察長向輝達發傳票](https://aiguanchao.com/items/37e8ace64f0c8899fd24f13e8d3370fcea307406) | 聯合新聞網：觸動未來 新識力 |
 | 11-20 06:38 | [Anthropic 登陆纳斯达克：IPO 募资额创史上最大纪录达813亿美元，开盘价较发行价高出34%](https://aiguanchao.com/items/2e4ce423eb644ba24e64f202c1fd3e5adb97d686) | ITmedia TOP STORIES 最新記事一覧 |
-| 11-20 06:06 | [Anthropic 创纪录 IPO 让数千名早期员工跻身百万富翁](https://aiguanchao.com/items/d9079b637310eddf16c48f69f2d5e7271f326928) | Crypto Briefing |
-| 11-20 05:58 | [美国半年内批准近90万枚AI芯片销往中国](https://aiguanchao.com/items/b5f6a0051df8a6b087a95e0dbc82e5153770a4ec) | Al Jazeera – Breaking News, World News and Video from Al Jaz |
-| 11-20 05:45 | [Anthropic 在纳斯达克上市，市值一度突破 2 万亿美元，创史上最大规模 IPO](https://aiguanchao.com/items/1060ecafd0c480a1d87e342d7a09c5569a318304) | テクノエッジ TechnoEdge |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
