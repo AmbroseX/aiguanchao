@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-21 10:19(北京时间)
+最后更新:2026-11-21 19:07(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 21 日 晚报](https://aiguanchao.com/daily/2026-11-21/evening)
 - [11 月 21 日 早报](https://aiguanchao.com/daily/2026-11-21/morning)
 - [11 月 20 日 晚报](https://aiguanchao.com/daily/2026-11-20/evening)
 - [11 月 20 日 早报](https://aiguanchao.com/daily/2026-11-20/morning)
 - [11 月 19 日 晚报](https://aiguanchao.com/daily/2026-11-19/evening)
 - [11 月 19 日 早报](https://aiguanchao.com/daily/2026-11-19/morning)
-- [11 月 18 日 晚报](https://aiguanchao.com/daily/2026-11-18/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,26 +38,26 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 11-21 03:54 | [Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis](https://aiguanchao.com/items/797de0de9275ed550d0daaddb56b424f0dc06108) | CNBC World |
+| 11-21 12:32 | [Anthropic正式敲钟上市！超越马斯克SpaceX，创史上最大IPO](https://aiguanchao.com/items/944c360eff52ebd5d0a22ab1641a921d3d3bdb93) | 夕小瑶科技说 |
+| 11-21 09:14 | [“数学界第一神山”被攻克？Anthropic 数学家宣称证明黎曼猜想，给出 1700 万行 Lean 源码，AI 证明文件超过 25 万页](https://aiguanchao.com/items/a77c51ef58fb42e470b17ba692e75f3e93cfe2ff) | BestBlogs.dev |
+| 11-21 09:12 | [亚马逊：AI 智能体 11 分钟内发现并利用零日漏洞](https://aiguanchao.com/items/31aa94a79c52d16cd5bcf568cda1cf6e360d24aa) | El Ecosistema Startup |
+| 11-21 07:40 | [黎曼猜想真被 Claude 证明了？Anthropic 数学家仅发布 Lean 代码，陶哲轩称验证仍需时间](https://aiguanchao.com/items/2f7d81ab4c943e88c5da59087b96ad9d7b04c9e9) | IT之家 |
+| 11-21 07:25 | [FT：美国批准约 88 万颗 Nvidia 和 AMD AI 芯片出口中国，仅占申请量约四分之一](https://aiguanchao.com/items/2c1879f7de76d08967f89a26a2e7771d1a4f03c3) | Rohan Paul |
+| 11-21 06:15 | [美国议员推动更严格的AI芯片规则，强化对华出口管制](https://aiguanchao.com/items/af24a059aafaa467868adeff18a22fd22b312f37) | Al Jazeera – Breaking News, World News and Video from Al Jaz |
+| 11-21 05:53 | [数学界最著名的未解难题刚刚被解决，接下来怎么办？](https://aiguanchao.com/items/23cbc95864aa2d6f3e007c56b10536f9f4166c32) | LessWrong |
+| 11-21 05:04 | [特朗普呼吁黄仁勋在“重大道歉”后重返英伟达出任CEO](https://aiguanchao.com/items/d824b9f7e8a1023ff4989dca743b50d10885b43d) | Top stories - Google News |
+| 11-21 03:54 | [英伟达股价暴跌 12%，创 2008 年金融危机以来最长周线连跌](https://aiguanchao.com/items/797de0de9275ed550d0daaddb56b424f0dc06108) | CNBC World |
+| 11-21 03:52 | [黄仁勋撒谎风波惊动英伟达董事会 最终促成其辞职](https://aiguanchao.com/items/ccb17caa69c5649d917c2a49f466031d178037a5) | Wired AI |
 | 11-21 03:32 | [Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明](https://aiguanchao.com/items/b38e5b30bf6c403b9bf134ad167ed7c78a359526) | TechCrunch：AI |
+| 11-21 02:29 | [随机鹦鹉们竟然证明了黎曼猜想](https://aiguanchao.com/items/cada0c28943838a8d7d9fe7432a9fb356a2681ae) | Shtetl-Optimized |
+| 11-20 23:53 | [数学家们如何回应 Anthropic 的 Levent Alpöge 声称证明黎曼猜想](https://aiguanchao.com/items/85c38ae22d7b82a93e403639e69a8b4ad84ed3c0) | OfficeChai |
+| 11-20 22:23 | [路透社报道：Meta 的 Muse 读取 Signal 消息并虚构购买行为](https://aiguanchao.com/items/85898aec6eeb8074cf40f85c8f63a323a7449814) | The Next Web |
+| 11-20 22:00 | [Cursor and Chinese AI Models: What the House Report Says](https://aiguanchao.com/items/df2fbd608d3ef7e24b2c6d701ac7a1525f5df84f) | CellCog Blog |
 | 11-20 20:47 | [Anthropic IPO募集资金总额约为935亿美元](https://aiguanchao.com/items/0e92ccb5a5057ef2761fd0056cd7de88e942557a) | 财联社 电报 |
 | 11-20 18:47 | [DeepSeek 新一轮千亿级融资落地，梁文锋保留绝对控制权](https://aiguanchao.com/items/93a77bdd76ed2ba5e067eb660a9d1c8f7cfa2d77) | IT之家 |
 | 11-20 18:43 | [加州就芯片出口是否流入中国调查 Nvidia](https://aiguanchao.com/items/9b8e9c11b460363a483741bf2711f6ee0e5ed0ce) | 卫报 World |
 | 11-20 17:31 | [腾讯混元开源 Hy4 权重并发布 System Card 安全评估](https://aiguanchao.com/items/178bdc906471ceb3388dd36f8e9d9e6af2257a5b) | 腾讯混元 |
 | 11-20 17:22 | [Anthropic正式登陆纳斯达克：敲钟那天，账已经在另一张纸上？](https://aiguanchao.com/items/4791462c4495d53724a098d3917ee318b671cf41) | 钛媒体 |
-| 11-20 16:28 | [刚刚，Anthropic 敲钟上市，史上最大 IPO 却让硅谷吵翻了](https://aiguanchao.com/items/4b72bb25f88ebad1f099e51c99a2778319081b52) | BestBlogs.dev |
-| 11-20 15:09 | [Anthropic 上市：史上最大规模 IPO 首日成绩单揭晓](https://aiguanchao.com/items/ecc4acca3ffa10a02479a8e643baa2b03c8d3b62) | JDN : Derniers contenus |
-| 11-20 14:57 | [美國核准AI晶片銷陸引爆國會調查 台積電對陸先進製程訂單踩煞車](https://aiguanchao.com/items/e31de8c073e481cfd424b7b3000d91fc9c9ff27d) | 聯合新聞網：觸動未來 新識力 |
-| 11-20 14:34 | [Anthropic上市 7名創辦人80%股權捐做慈善](https://aiguanchao.com/items/b4ffd4dc352ad204aa7bbaa97b8d899566a66003) | 聯合新聞網：觸動未來 新識力 |
-| 11-20 14:03 | [Nginx 曝出 NGINX2Root：一个藏了 11 年的老坑，从 HTTP/2 一路打到 root](https://aiguanchao.com/items/4715e47800a4d7126d05c97f3449189702f31f6b) | CN-SEC 中文网 |
-| 11-20 14:03 | [NGINX2Root：五条无需认证的 RCE 路径，如何自查与止血？](https://aiguanchao.com/items/7955b72431ade0dc76e5055bd3229652b55a425e) | CN-SEC 中文网 |
-| 11-20 11:39 | [Anthropic上市，10个值得关注的真相](https://aiguanchao.com/items/0bfa58ccfc1c35e9165357a331256ff1f924a04d) | 钛媒体 |
-| 11-20 11:30 | [[紧急提醒] 群晖 DSM 出现 9.8 分严重漏洞 无需登录即可远程读写 NAS 中的文件](https://aiguanchao.com/items/11233750a81018a14e4c6c8eb702998eeed03397) | 蓝点网 |
-| 11-20 10:35 | [全球史上最大IPO今晚敲钟！诺奖图灵奖得主联名反对](https://aiguanchao.com/items/8d3884252c5b40700d6777bb6359fa0627c2e667) | 新智元 |
-| 11-20 09:52 | [CVSS 9.2 · 65 个字符打穿 Java：Java4Shell 未授权 RCE，Jira、Jenkins、Keycloak 全在射程内](https://aiguanchao.com/items/60ae4afec521b41054384a69c1141bfa486714d3) | CN-SEC 中文网 |
-| 11-20 09:37 | [Anthropic IPO 募资 813 亿美元创纪录，市值达 1.76 万亿美元引发安全争议](https://aiguanchao.com/items/3fb388a772d0f4159931b3a1c060a92018aff5c8) | Platformer |
-| 11-20 09:15 | [黃仁勳涉中國間諜疑雲 加州檢察長向輝達發傳票](https://aiguanchao.com/items/37e8ace64f0c8899fd24f13e8d3370fcea307406) | 聯合新聞網：觸動未來 新識力 |
-| 11-20 06:38 | [Anthropic 登陆纳斯达克：IPO 募资额创史上最大纪录达813亿美元，开盘价较发行价高出34%](https://aiguanchao.com/items/2e4ce423eb644ba24e64f202c1fd3e5adb97d686) | ITmedia TOP STORIES 最新記事一覧 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
