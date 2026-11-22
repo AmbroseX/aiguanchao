@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-22 09:21(北京时间)
+最后更新:2026-11-22 19:29(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 22 日 晚报](https://aiguanchao.com/daily/2026-11-22/evening)
 - [11 月 22 日 早报](https://aiguanchao.com/daily/2026-11-22/morning)
 - [11 月 21 日 晚报](https://aiguanchao.com/daily/2026-11-21/evening)
 - [11 月 21 日 早报](https://aiguanchao.com/daily/2026-11-21/morning)
 - [11 月 20 日 晚报](https://aiguanchao.com/daily/2026-11-20/evening)
 - [11 月 20 日 早报](https://aiguanchao.com/daily/2026-11-20/morning)
-- [11 月 19 日 晚报](https://aiguanchao.com/daily/2026-11-19/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,26 +38,26 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-22 17:35 | [Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就](https://aiguanchao.com/items/0870a71b62a596fa14b9532d599579eec44901f7) | BestBlogs.dev |
+| 11-22 12:19 | [OpenAI与 Anthropic 围攻千禧年难题，七道题进展如何?](https://aiguanchao.com/items/58f551046b23cde5254a6139b467b71940ff4fe4) | 机器之心 |
+| 11-22 11:10 | [黎曼猜想证明获认证：Claude 参与攻克百年数学难题](https://aiguanchao.com/items/4752e8e4c1b9aaa25b331364c7116b91ea7ea63a) | BestBlogs.dev |
+| 11-22 10:31 | [Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确](https://aiguanchao.com/items/2dc0cac46729baec276463e76020b4724591d510) | IT之家 |
+| 11-22 09:35 | [Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就](https://aiguanchao.com/items/b55c8e753425d953155d6a0f3a1dfeff75ffaac4) | 爱范儿 |
+| 11-22 08:47 | [FT 调查：与 Jensen Huang 有情感关系的 Alice Huang 牵涉向中国走私 Nvidia 芯片的网络](https://aiguanchao.com/items/84a325af1899320a83d67ea17c68fd86e68882d3) | Rohan Paul |
+| 11-22 08:21 | [Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定](https://aiguanchao.com/items/6d0803da9eb4d11ab1c840dad1470b68e2ec17ab) | ITmedia TOP STORIES 最新記事一覧 |
+| 11-22 08:00 | [Neoclouds Remarket B300 Leases After US Remote-Access Rules Target China GPU Demand](https://aiguanchao.com/items/8244427bbc5d41e62873944f67729bec80b14b9f) | explainx.ai — AI news, guides & explainers |
+| 11-22 06:15 | [AI 对黎曼猜想的证明通过 Lean 验证，但 100 万美元悬赏金为何不会立即发放](https://aiguanchao.com/items/3764b3f950461ec330ec2c58ad4c1a2efefe2fd3) | XenoSpectrum |
 | 11-22 03:44 | [FT 与 NYT 揭露 Alice Huang 芯片网络关联游戏大亨与解放军供应商](https://aiguanchao.com/items/533249e144c9bf3ae431cb0251ddc7796b96c58f) | The Next Web |
 | 11-22 02:27 | [輝達被美SEC查帳股價重摔14% 拖累市值縮水至3兆美元](https://aiguanchao.com/items/1613a04f62cc299555c6988cb801ee5530714a97) | 聯合新聞網：觸動未來 新識力 |
 | 11-22 02:08 | [Lean 社区认证 Levent Alpöge 借助 Claude 完成的黎曼猜想证明正确](https://aiguanchao.com/items/64d6b67d612ca67d0c9691d7a7abd83e801edc47) | OfficeChai |
 | 11-22 01:54 | [AI 验证黎曼猜想证明，等待学界正式接受](https://aiguanchao.com/items/14b8b7a12e34b45eadc1a7c3b265d0ee2ebbc3d2) | Crypto Briefing |
 | 11-22 00:50 | [Cairn AI 框架被用于自主式零日漏洞利用](https://aiguanchao.com/items/0c99db7121bc9c2cf631b6d32202a2cdace20b18) | Security Affairs |
-| 11-22 00:13 | [Can Jensen Really Return?](https://aiguanchao.com/items/4899ada9e754bea061e1b3e5b2b11719a1c8735e) | The Information |
+| 11-22 00:13 | [黄仁勋真的能回归吗？](https://aiguanchao.com/items/4899ada9e754bea061e1b3e5b2b11719a1c8735e) | The Information |
+| 11-21 23:54 | [黎曼假设 Lean 证明的验证文件](https://aiguanchao.com/items/0232b19cd4d8f1ef7b84f02c6767f0a7a0bfd20a) | Hacker News 前页 (RSS) |
 | 11-21 23:43 | [“What could be determined was his lying” — that's why Huang was fired from Nvidia](https://aiguanchao.com/items/19434f47553575cf64c1d62f5c66370ce7ed47c2) | Notebookcheck.net: News RSS Feed |
 | 11-21 23:30 | [Anthropic 创纪录 IPO 募资约 1195 亿美元，现金储备最高达 2500 亿美元](https://aiguanchao.com/items/53a4fb4141ed017cd30521c795d211aed3a47901) | Crypto Briefing |
 | 11-21 21:55 | [黎曼假设的 Lean 验证：Lean FRO 与 Mathlib Initiative 联合声明](https://aiguanchao.com/items/1d65bc2e33d2f1159d19a9299aea3200ed592843) | Hacker News 前页 (RSS) |
 | 11-21 21:12 | [Anthropic 数学家称他与 Claude 一起证明了黎曼猜想](https://aiguanchao.com/items/006f6840762812e6c3f8bed7d67999834668c5c1) | The Next Web |
-| 11-21 20:08 | [亚马逊：中国关联黑客的 AI 代理利用了医疗软件零日漏洞](https://aiguanchao.com/items/083b0e9c1aee2221f393c24185131aaef5048537) | SecurityWeek |
-| 11-21 19:19 | [Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿](https://aiguanchao.com/items/d9012787f6fff47981b417880c81c6d7a70e38e0) | The Decoder：AI News |
-| 11-21 19:19 | [Anthropic 宣称 Claude 证明黎曼猜想数小时后，斯坦福紧急发布纯人类竞争性证明草稿](https://aiguanchao.com/items/f933207ea027f1fbbf465af4bee8ee569401d1c5) | THE DECODER |
-| 11-21 18:19 | [436: 房间里的大象（hak）](https://aiguanchao.com/items/908f0cbccfe20b55e85c95e906fe2755480d3178) | BigGo ファイナンス |
-| 11-21 13:50 | [抢跑 OpenAI 敲出史上最大 IPO，Anthropic 却惹怒了半个硅谷](https://aiguanchao.com/items/4df6cf4f4a01c5ea189aa5754dfb7664d5f1b51c) | BestBlogs.dev |
-| 11-21 13:42 | [黎曼猜想真被 Claude 证明了？陶哲轩邓煜等菲尔兹奖得主回应！](https://aiguanchao.com/items/a81ed91175ef83c5df3f4bd5cf9f8b89c0d4debe) | BestBlogs.dev |
-| 11-21 12:32 | [Anthropic正式敲钟上市！超越马斯克SpaceX，创史上最大IPO](https://aiguanchao.com/items/944c360eff52ebd5d0a22ab1641a921d3d3bdb93) | 夕小瑶科技说 |
-| 11-21 10:51 | [Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。](https://aiguanchao.com/items/73192fa30c62ad2cf931d1a17ab1a8b3906b98ab) | 人人都是产品经理 |
-| 11-21 09:38 | [黎曼猜想被证明了？是 Claude 与数学家联手，还是纯手工？](https://aiguanchao.com/items/3afbfd4946d8cd89dadc7f493d27a8fe44784e35) | BestBlogs.dev |
-| 11-21 09:14 | [“数学界第一神山”被攻克？Anthropic 数学家宣称证明黎曼猜想，给出 1700 万行 Lean 源码，AI 证明文件超过 25 万页](https://aiguanchao.com/items/a77c51ef58fb42e470b17ba692e75f3e93cfe2ff) | BestBlogs.dev |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
