@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-22 19:29(北京时间)
+最后更新:2026-11-23 03:43(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,9 +38,17 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-22 19:08 | [Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确](https://aiguanchao.com/items/6bcbb542a69d1628a2b529938b5f017c24c56299) | The Decoder：AI News |
+| 11-22 19:08 | [Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct](https://aiguanchao.com/items/a3ff6c007a03071da6045e055077214c1d8fd267) | THE DECODER |
+| 11-22 18:51 | [NGINX HTTP/2 流量控制整数下溢致远程代码执行漏洞（CVE-2026-123007）](https://aiguanchao.com/items/c65472a47f4bce59da718570f353634bc8206deb) | CN-SEC 中文网 |
+| 11-22 18:28 | [“AI攻克黎曼猜想”获Lean数学社区认证 但读懂它仍需时日](https://aiguanchao.com/items/7e6fe8fc4d27850d3496c5fa1df84c331e0c7498) | 财联社 电报 |
+| 11-22 18:00 | [AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される](https://aiguanchao.com/items/6305b9b5ef9feac7a36d0f47130c089ce233897d) | ギズモード・ジャパン |
+| 11-22 17:35 | [菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可](https://aiguanchao.com/items/a3fa2e98c1c2cfdda2625de3512b7ca45b2b1062) | IT之家·人工智能 |
 | 11-22 17:35 | [Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就](https://aiguanchao.com/items/0870a71b62a596fa14b9532d599579eec44901f7) | BestBlogs.dev |
+| 11-22 16:31 | [独立验证确认 Claude 的 1700 万行黎曼猜想证明](https://aiguanchao.com/items/4ea31b5a9e1caec3780e0a11f5540cb3d36486e3) | HyperAI |
 | 11-22 12:19 | [OpenAI与 Anthropic 围攻千禧年难题，七道题进展如何?](https://aiguanchao.com/items/58f551046b23cde5254a6139b467b71940ff4fe4) | 机器之心 |
 | 11-22 11:10 | [黎曼猜想证明获认证：Claude 参与攻克百年数学难题](https://aiguanchao.com/items/4752e8e4c1b9aaa25b331364c7116b91ea7ea63a) | BestBlogs.dev |
+| 11-22 10:31 | [Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确](https://aiguanchao.com/items/59d65c169cf2547c979804a1b248e74cd0b6690e) | Top stories - Google News |
 | 11-22 10:31 | [Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确](https://aiguanchao.com/items/2dc0cac46729baec276463e76020b4724591d510) | IT之家 |
 | 11-22 09:35 | [Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就](https://aiguanchao.com/items/b55c8e753425d953155d6a0f3a1dfeff75ffaac4) | 爱范儿 |
 | 11-22 08:47 | [FT 调查：与 Jensen Huang 有情感关系的 Alice Huang 牵涉向中国走私 Nvidia 芯片的网络](https://aiguanchao.com/items/84a325af1899320a83d67ea17c68fd86e68882d3) | Rohan Paul |
@@ -50,14 +58,6 @@
 | 11-22 03:44 | [FT 与 NYT 揭露 Alice Huang 芯片网络关联游戏大亨与解放军供应商](https://aiguanchao.com/items/533249e144c9bf3ae431cb0251ddc7796b96c58f) | The Next Web |
 | 11-22 02:27 | [輝達被美SEC查帳股價重摔14% 拖累市值縮水至3兆美元](https://aiguanchao.com/items/1613a04f62cc299555c6988cb801ee5530714a97) | 聯合新聞網：觸動未來 新識力 |
 | 11-22 02:08 | [Lean 社区认证 Levent Alpöge 借助 Claude 完成的黎曼猜想证明正确](https://aiguanchao.com/items/64d6b67d612ca67d0c9691d7a7abd83e801edc47) | OfficeChai |
-| 11-22 01:54 | [AI 验证黎曼猜想证明，等待学界正式接受](https://aiguanchao.com/items/14b8b7a12e34b45eadc1a7c3b265d0ee2ebbc3d2) | Crypto Briefing |
-| 11-22 00:50 | [Cairn AI 框架被用于自主式零日漏洞利用](https://aiguanchao.com/items/0c99db7121bc9c2cf631b6d32202a2cdace20b18) | Security Affairs |
-| 11-22 00:13 | [黄仁勋真的能回归吗？](https://aiguanchao.com/items/4899ada9e754bea061e1b3e5b2b11719a1c8735e) | The Information |
-| 11-21 23:54 | [黎曼假设 Lean 证明的验证文件](https://aiguanchao.com/items/0232b19cd4d8f1ef7b84f02c6767f0a7a0bfd20a) | Hacker News 前页 (RSS) |
-| 11-21 23:43 | [“What could be determined was his lying” — that's why Huang was fired from Nvidia](https://aiguanchao.com/items/19434f47553575cf64c1d62f5c66370ce7ed47c2) | Notebookcheck.net: News RSS Feed |
-| 11-21 23:30 | [Anthropic 创纪录 IPO 募资约 1195 亿美元，现金储备最高达 2500 亿美元](https://aiguanchao.com/items/53a4fb4141ed017cd30521c795d211aed3a47901) | Crypto Briefing |
-| 11-21 21:55 | [黎曼假设的 Lean 验证：Lean FRO 与 Mathlib Initiative 联合声明](https://aiguanchao.com/items/1d65bc2e33d2f1159d19a9299aea3200ed592843) | Hacker News 前页 (RSS) |
-| 11-21 21:12 | [Anthropic 数学家称他与 Claude 一起证明了黎曼猜想](https://aiguanchao.com/items/006f6840762812e6c3f8bed7d67999834668c5c1) | The Next Web |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
