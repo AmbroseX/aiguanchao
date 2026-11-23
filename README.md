@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-23 09:46(北京时间)
+最后更新:2026-11-23 20:50(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 23 日 晚报](https://aiguanchao.com/daily/2026-11-23/evening)
 - [11 月 23 日 早报](https://aiguanchao.com/daily/2026-11-23/morning)
 - [11 月 22 日 晚报](https://aiguanchao.com/daily/2026-11-22/evening)
 - [11 月 22 日 早报](https://aiguanchao.com/daily/2026-11-22/morning)
 - [11 月 21 日 晚报](https://aiguanchao.com/daily/2026-11-21/evening)
 - [11 月 21 日 早报](https://aiguanchao.com/daily/2026-11-21/morning)
-- [11 月 20 日 晚报](https://aiguanchao.com/daily/2026-11-20/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,8 +38,13 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-23 17:15 | [加州总检察长邦塔起诉 OpenAI，指其将增长置于安全之上](https://aiguanchao.com/items/ea214636ca6ba36ad0d7543119651f244fa61626) | Crypto Briefing |
+| 11-23 15:03 | [Agentes de OpenAI atacan Hugging Face: 17.600 acciones](https://aiguanchao.com/items/f799e78e5fb3645dcd96b8b3be4cdb0f63fe72e1) | El Ecosistema Startup |
+| 11-23 14:33 | [黎曼猜想：1700 万行无人能读的 Lean 证明](https://aiguanchao.com/items/701dc256535c14e89da454f9b2986046f7f5b65d) | El Ecosistema Startup |
+| 11-23 10:21 | [数学界疯狂48小时！有限域黎曼猜想也被GPT-6Astra攻克了](https://aiguanchao.com/items/f318f348c7d68527428faf0fd593cf44484a83aa) | 新智元 |
 | 11-23 04:33 | [Anthropic 定价史上最大规模 IPO，AI 竞争对手步步紧逼](https://aiguanchao.com/items/6be76a9c6042d44d25189fca9fb6cf93081bccae) | Crypto Briefing |
 | 11-23 03:22 | [曾在餐馆打工的她，创业不到 3 年，把公司卖了 82 亿美元](https://aiguanchao.com/items/0d4aa4272c4c03db453cf50dbda0ec8fd417733f) | BestBlogs.dev |
+| 11-22 21:01 | [刘若川院士谈黎曼猜想证明，称「数学研究进入工业化时代」，如何理解他的这一论断？](https://aiguanchao.com/items/d8c93a2c24bcacc49e6390b1814e457e99009578) | 知乎热榜 |
 | 11-22 19:08 | [Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确](https://aiguanchao.com/items/6bcbb542a69d1628a2b529938b5f017c24c56299) | The Decoder：AI News |
 | 11-22 19:08 | [Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct](https://aiguanchao.com/items/a3ff6c007a03071da6045e055077214c1d8fd267) | THE DECODER |
 | 11-22 18:51 | [NGINX HTTP/2 流量控制整数下溢致远程代码执行漏洞（CVE-2026-123007）](https://aiguanchao.com/items/c65472a47f4bce59da718570f353634bc8206deb) | CN-SEC 中文网 |
@@ -53,11 +58,6 @@
 | 11-22 10:31 | [Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确](https://aiguanchao.com/items/2dc0cac46729baec276463e76020b4724591d510) | IT之家 |
 | 11-22 10:31 | [Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确](https://aiguanchao.com/items/59d65c169cf2547c979804a1b248e74cd0b6690e) | Top stories - Google News |
 | 11-22 09:35 | [Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就](https://aiguanchao.com/items/b55c8e753425d953155d6a0f3a1dfeff75ffaac4) | 爱范儿 |
-| 11-22 08:47 | [FT 调查：与 Jensen Huang 有情感关系的 Alice Huang 牵涉向中国走私 Nvidia 芯片的网络](https://aiguanchao.com/items/84a325af1899320a83d67ea17c68fd86e68882d3) | Rohan Paul |
-| 11-22 08:21 | [Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定](https://aiguanchao.com/items/6d0803da9eb4d11ab1c840dad1470b68e2ec17ab) | ITmedia TOP STORIES 最新記事一覧 |
-| 11-22 08:00 | [Neoclouds Remarket B300 Leases After US Remote-Access Rules Target China GPU Demand](https://aiguanchao.com/items/8244427bbc5d41e62873944f67729bec80b14b9f) | explainx.ai — AI news, guides & explainers |
-| 11-22 06:15 | [AI 对黎曼猜想的证明通过 Lean 验证，但 100 万美元悬赏金为何不会立即发放](https://aiguanchao.com/items/3764b3f950461ec330ec2c58ad4c1a2efefe2fd3) | XenoSpectrum |
-| 11-22 03:44 | [FT 与 NYT 揭露 Alice Huang 芯片网络关联游戏大亨与解放军供应商](https://aiguanchao.com/items/533249e144c9bf3ae431cb0251ddc7796b96c58f) | The Next Web |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
