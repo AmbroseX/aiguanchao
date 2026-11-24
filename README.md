@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-23 20:50(北京时间)
+最后更新:2026-11-24 10:14(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 24 日 早报](https://aiguanchao.com/daily/2026-11-24/morning)
 - [11 月 23 日 晚报](https://aiguanchao.com/daily/2026-11-23/evening)
 - [11 月 23 日 早报](https://aiguanchao.com/daily/2026-11-23/morning)
 - [11 月 22 日 晚报](https://aiguanchao.com/daily/2026-11-22/evening)
 - [11 月 22 日 早报](https://aiguanchao.com/daily/2026-11-22/morning)
 - [11 月 21 日 晚报](https://aiguanchao.com/daily/2026-11-21/evening)
-- [11 月 21 日 早报](https://aiguanchao.com/daily/2026-11-21/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,26 +38,26 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 11-23 17:15 | [加州总检察长邦塔起诉 OpenAI，指其将增长置于安全之上](https://aiguanchao.com/items/ea214636ca6ba36ad0d7543119651f244fa61626) | Crypto Briefing |
-| 11-23 15:03 | [Agentes de OpenAI atacan Hugging Face: 17.600 acciones](https://aiguanchao.com/items/f799e78e5fb3645dcd96b8b3be4cdb0f63fe72e1) | El Ecosistema Startup |
-| 11-23 14:33 | [黎曼猜想：1700 万行无人能读的 Lean 证明](https://aiguanchao.com/items/701dc256535c14e89da454f9b2986046f7f5b65d) | El Ecosistema Startup |
-| 11-23 10:21 | [数学界疯狂48小时！有限域黎曼猜想也被GPT-6Astra攻克了](https://aiguanchao.com/items/f318f348c7d68527428faf0fd593cf44484a83aa) | 新智元 |
-| 11-23 04:33 | [Anthropic 定价史上最大规模 IPO，AI 竞争对手步步紧逼](https://aiguanchao.com/items/6be76a9c6042d44d25189fca9fb6cf93081bccae) | Crypto Briefing |
-| 11-23 03:22 | [曾在餐馆打工的她，创业不到 3 年，把公司卖了 82 亿美元](https://aiguanchao.com/items/0d4aa4272c4c03db453cf50dbda0ec8fd417733f) | BestBlogs.dev |
-| 11-22 21:01 | [刘若川院士谈黎曼猜想证明，称「数学研究进入工业化时代」，如何理解他的这一论断？](https://aiguanchao.com/items/d8c93a2c24bcacc49e6390b1814e457e99009578) | 知乎热榜 |
-| 11-22 19:08 | [Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确](https://aiguanchao.com/items/6bcbb542a69d1628a2b529938b5f017c24c56299) | The Decoder：AI News |
-| 11-22 19:08 | [Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct](https://aiguanchao.com/items/a3ff6c007a03071da6045e055077214c1d8fd267) | THE DECODER |
-| 11-22 18:51 | [NGINX HTTP/2 流量控制整数下溢致远程代码执行漏洞（CVE-2026-123007）](https://aiguanchao.com/items/c65472a47f4bce59da718570f353634bc8206deb) | CN-SEC 中文网 |
-| 11-22 18:28 | [“AI攻克黎曼猜想”获Lean数学社区认证 但读懂它仍需时日](https://aiguanchao.com/items/7e6fe8fc4d27850d3496c5fa1df84c331e0c7498) | 财联社 电报 |
-| 11-22 18:00 | [AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される](https://aiguanchao.com/items/6305b9b5ef9feac7a36d0f47130c089ce233897d) | ギズモード・ジャパン |
-| 11-22 17:35 | [菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可](https://aiguanchao.com/items/a3fa2e98c1c2cfdda2625de3512b7ca45b2b1062) | IT之家·人工智能 |
-| 11-22 17:35 | [Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就](https://aiguanchao.com/items/0870a71b62a596fa14b9532d599579eec44901f7) | BestBlogs.dev |
-| 11-22 16:31 | [独立验证确认 Claude 的 1700 万行黎曼猜想证明](https://aiguanchao.com/items/4ea31b5a9e1caec3780e0a11f5540cb3d36486e3) | HyperAI |
-| 11-22 12:19 | [OpenAI与 Anthropic 围攻千禧年难题，七道题进展如何?](https://aiguanchao.com/items/58f551046b23cde5254a6139b467b71940ff4fe4) | 机器之心 |
-| 11-22 11:10 | [黎曼猜想证明获认证：Claude 参与攻克百年数学难题](https://aiguanchao.com/items/4752e8e4c1b9aaa25b331364c7116b91ea7ea63a) | BestBlogs.dev |
-| 11-22 10:31 | [Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确](https://aiguanchao.com/items/2dc0cac46729baec276463e76020b4724591d510) | IT之家 |
-| 11-22 10:31 | [Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确](https://aiguanchao.com/items/59d65c169cf2547c979804a1b248e74cd0b6690e) | Top stories - Google News |
-| 11-22 09:35 | [Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就](https://aiguanchao.com/items/b55c8e753425d953155d6a0f3a1dfeff75ffaac4) | 爱范儿 |
+| 11-24 05:40 | [Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)](https://aiguanchao.com/items/447d8e8e08909efc603c3fa83e4b00c65029882e) | Techmeme |
+| 11-24 05:00 | [Jensen Huang returns to applause from employees at Nvidia HQ](https://aiguanchao.com/items/8616d553b35628ca393102378e222ee28555815f) | Latest from Tom's Hardware |
+| 11-24 04:46 | [NVIDIA 董事会撤销决定，恢复黄仁勋 CEO、总裁兼董事职务](https://aiguanchao.com/items/3f0cde4f080ce0617507c23fa50fcaac1f39b552) | Rohan Paul |
+| 11-24 04:33 | [黄仁勋速返英伟达的内幕和负面反响](https://aiguanchao.com/items/159ac8b5223bf20a9a7da5d348d40914dac251d8) | 法广中文 |
+| 11-24 04:29 | [Nvidia's Jensen Huang still testifying before Congress next week](https://aiguanchao.com/items/7f2b255cd6df06948f112a06c21f7a24ad700129) | Home - CBSNews.com |
+| 11-24 03:57 | [英伟达董事会恢复黄仁勋CEO职务](https://aiguanchao.com/items/6e3d2b1253c09b4c47afd724f4f0faa4e6a96f8b) | The Verge：AI |
+| 11-24 02:46 | [The Jensen Huang Scandal Is Getting Worse at the Exact Moment That Nvidia Rehired Him](https://aiguanchao.com/items/5297961166cdeffee2f7560bf6d9d56efe7d56b0) | Futurism |
+| 11-24 02:42 | [美国国会痛批英伟达'离谱'恢复黄仁勋 CEO 职务：'品格的失败'](https://aiguanchao.com/items/f0ae339d9a77fbd198540ee3b161b7c4112c78a9) | CNBC Technology |
+| 11-24 02:40 | [經濟快評：黃仁勳果真是「大到不能開」！](https://aiguanchao.com/items/734c016a45945e9c4c58aa73b4c8b6d705b68413) | 聯合新聞網：觸動未來 新識力 |
+| 11-24 01:10 | [消息人士：特朗普主导、由 J.D. 万斯牵头的行动推动英伟达恢复黄仁勋职务，并向董事会保证其不构成国家安全风险](https://aiguanchao.com/items/64c7fe7e7f69cd903b990b1c6f6a9f9306d54a39) | Techmeme |
+| 11-24 00:51 | [Jensen Huang is back as Nvidia CEO after a stunning reversal](https://aiguanchao.com/items/d0eba28ab66516e91a13ea5600ba59952e47c2fc) | ZDNET |
+| 11-24 00:40 | [Nvidia's board says it is starting a search to fill a new position, Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee (Anhata Rooprai/Reuters)](https://aiguanchao.com/items/ffac2b8187d49cff44c47c7f118066aabfcf49d6) | Techmeme |
+| 11-24 00:36 | [尽管董事会一度抵制，Jensen Huang 重回 Nvidia CEO 之位几乎不可避免](https://aiguanchao.com/items/557f370ca09af39ae13d574aedc198ae7a6fe002) | Android Headlines |
+| 11-24 00:28 | [特朗普称说服英伟达董事会恢复黄仁勋职务](https://aiguanchao.com/items/529576882856d8053e33a57bd1da622966536c56) | 卫报 World |
+| 11-24 00:23 | [王者回歸 黃仁勳重返輝達](https://aiguanchao.com/items/42d8f04c999bb5c0f98ef9238aee8ea5629fbe3f) | 聯合新聞網：觸動未來 新識力 |
+| 11-24 00:17 | [AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes](https://aiguanchao.com/items/705dc0fe5d2a955138c2b893056d4222b6b29c20) | darkreading |
+| 11-24 00:07 | [黄仁勋复职前数小时 特朗普据报曾亲自致电英伟达董事会，力主其回归](https://aiguanchao.com/items/3f9566920453578d49c1873ac21d95bebe29ea81) | 法广中文 |
+| 11-23 23:48 | [特朗普向 CNBC 表示是他说服英伟达董事会恢复了黄仁勋的职务](https://aiguanchao.com/items/295b1d471ce2ea71b609dd1a1f9a2c156864fc29) | CNBC World |
+| 11-23 23:20 | [President Trump says Jensen Huang "did nothing wrong", Nvidia's board "did ask for assurance on the national security threat", and he spoke to Xi about Huang (Dan Mangan/CNBC)](https://aiguanchao.com/items/d504fd02c1ae283ed6b932e7a629d52acf2d28fd) | Techmeme |
+| 11-23 22:52 | [Jensen Huang Returns as Nvidia CEO in Unanimous Board Vote](https://aiguanchao.com/items/b81631dc916ff6acf22df3f26e79be6a71108bd4) | Seoul Economic Daily - English Edition |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
