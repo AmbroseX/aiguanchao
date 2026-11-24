@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-24 10:14(北京时间)
+最后更新:2026-11-24 21:47(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 24 日 晚报](https://aiguanchao.com/daily/2026-11-24/evening)
 - [11 月 24 日 早报](https://aiguanchao.com/daily/2026-11-24/morning)
 - [11 月 23 日 晚报](https://aiguanchao.com/daily/2026-11-23/evening)
 - [11 月 23 日 早报](https://aiguanchao.com/daily/2026-11-23/morning)
 - [11 月 22 日 晚报](https://aiguanchao.com/daily/2026-11-22/evening)
 - [11 月 22 日 早报](https://aiguanchao.com/daily/2026-11-22/morning)
-- [11 月 21 日 晚报](https://aiguanchao.com/daily/2026-11-21/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,26 +38,26 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-24 19:00 | [President Trump dismissed US intelligence findings to reinstate Jensen Huang, saying on CNBC he needed to stop market losses; Trump held $12M+ of NVDA in 2025 (Peter Baker/New York Times)](https://aiguanchao.com/items/1455a4e3bfbf511c1b475a14b32b062910faa3c7) | Techmeme |
+| 11-24 19:00 | [欧盟下月对中国混动电动车进口实施配额上限](https://aiguanchao.com/items/11373bd7c06b46e2f75088aadd812fb3657f9a72) | 卫报 World |
+| 11-24 18:35 | [Sources: a Silicon Valley war room, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and JD Vance to reinstate Huang (Financial Times)](https://aiguanchao.com/items/8760aa56124be3438fc9b0b60bed39431da2e755) | Techmeme |
+| 11-24 18:33 | [Hours After Claude, OpenAI Posts Its Own Proof That VP ≠ VNP, Says It Had The Proof Two Weeks Ago](https://aiguanchao.com/items/c76c0d28297094969b510b8262e407574121c39d) | OfficeChai |
+| 11-24 16:45 | [Asia-Pacific markets rally as Huang’s return to Nvidia reignites AI trade, despite US political backlash – business live](https://aiguanchao.com/items/c90e2f293ca8c27e1870b1715660e4afc54e3ef2) | 卫报 World |
+| 11-24 13:01 | [AI 数学突破性成果或威胁数学领域生态](https://aiguanchao.com/items/888431ec5fd68e8cb98b9f735d3cf9fa194aef57) | HyperAI |
+| 11-24 12:31 | [斯坦福博士零AI苦研黎曼猜想12年，公开8小时反遭AI挑错！](https://aiguanchao.com/items/31cdfd5e2e8f0b3339a3c038542b517cfdca9bcc) | 新智元 |
+| 11-24 10:49 | [黄仁勋复职凸显特朗普不惜代价力保人工智能发展](https://aiguanchao.com/items/d862c37c59f94854cd8152d877ef2682a839d6f4) | 纽约时报中文网 |
+| 11-24 09:52 | [问诊AI？一场死亡背后的追问](https://aiguanchao.com/items/45a517c16db9a518e97a574de3c8a24a67311c29) | 钛媒体 |
+| 11-24 09:50 | [ジェンスン・フアン氏、NVIDIAのCEOに復帰 マスク氏「誤りは正された」 AI企業代表のコメントまとめ](https://aiguanchao.com/items/a7a6560e4f3266b5640afa2396ac0cfb7bcfcf19) | ITmedia TOP STORIES 最新記事一覧 |
+| 11-24 09:46 | [黃仁勳閃辭11天後重掌輝達 還有哪些企業領導人卸任後又重掌大權？](https://aiguanchao.com/items/61e4d64bee5bc43d2eac4bcb76d85ac957d5ca95) | 聯合新聞網：觸動未來 新識力 |
+| 11-24 09:41 | [黃仁勳回任內幕！紐時揭美政府2大保證 川普談醜聞：性比股票更吸睛](https://aiguanchao.com/items/f15d2ab3f62fed3efd2a76f0bc05dc0df931b8c9) | 聯合新聞網：觸動未來 新識力 |
+| 11-24 09:17 | [黄仁勋回归英伟达，聚光灯转向芯片巨头董事会](https://aiguanchao.com/items/db6f1a5637a735cf00931877c34904d54f85aaf4) | Home - CBSNews.com |
+| 11-24 08:38 | [下台11天後復職！黃仁勳逆襲回鍋時間軸一次看 川普及20萬人連署施壓](https://aiguanchao.com/items/a9de5497a57c841c0040d3d2d6be87389722cfe0) | 聯合新聞網：觸動未來 新識力 |
+| 11-24 08:33 | [NVIDIA 黄仁勋辞任 11 天后重返 CEO](https://aiguanchao.com/items/84370519acc4ad6fb2a2d2cc12b7c589236fd7d5) | PC Watch |
 | 11-24 05:40 | [Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)](https://aiguanchao.com/items/447d8e8e08909efc603c3fa83e4b00c65029882e) | Techmeme |
-| 11-24 05:00 | [Jensen Huang returns to applause from employees at Nvidia HQ](https://aiguanchao.com/items/8616d553b35628ca393102378e222ee28555815f) | Latest from Tom's Hardware |
+| 11-24 05:21 | [AI 初创公司曾担心失去黄仁勋后英伟达资金枯竭，他回归 CEO 让这些担忧烟消云散](https://aiguanchao.com/items/a07f916b14b651ed2a09e7801dca0eac16c83a0a) | Fortune / FORTUNE |
+| 11-24 05:13 | [NVIDIAのフアン氏が電撃復帰、辞任からわずか11日でCEOに再任、株価は33%急騰](https://aiguanchao.com/items/63ffcce0b63ebee7328c9c773c07d0c2bb415260) | XenoSpectrum |
 | 11-24 04:46 | [NVIDIA 董事会撤销决定，恢复黄仁勋 CEO、总裁兼董事职务](https://aiguanchao.com/items/3f0cde4f080ce0617507c23fa50fcaac1f39b552) | Rohan Paul |
 | 11-24 04:33 | [黄仁勋速返英伟达的内幕和负面反响](https://aiguanchao.com/items/159ac8b5223bf20a9a7da5d348d40914dac251d8) | 法广中文 |
-| 11-24 04:29 | [Nvidia's Jensen Huang still testifying before Congress next week](https://aiguanchao.com/items/7f2b255cd6df06948f112a06c21f7a24ad700129) | Home - CBSNews.com |
-| 11-24 03:57 | [英伟达董事会恢复黄仁勋CEO职务](https://aiguanchao.com/items/6e3d2b1253c09b4c47afd724f4f0faa4e6a96f8b) | The Verge：AI |
-| 11-24 02:46 | [The Jensen Huang Scandal Is Getting Worse at the Exact Moment That Nvidia Rehired Him](https://aiguanchao.com/items/5297961166cdeffee2f7560bf6d9d56efe7d56b0) | Futurism |
-| 11-24 02:42 | [美国国会痛批英伟达'离谱'恢复黄仁勋 CEO 职务：'品格的失败'](https://aiguanchao.com/items/f0ae339d9a77fbd198540ee3b161b7c4112c78a9) | CNBC Technology |
-| 11-24 02:40 | [經濟快評：黃仁勳果真是「大到不能開」！](https://aiguanchao.com/items/734c016a45945e9c4c58aa73b4c8b6d705b68413) | 聯合新聞網：觸動未來 新識力 |
-| 11-24 01:10 | [消息人士：特朗普主导、由 J.D. 万斯牵头的行动推动英伟达恢复黄仁勋职务，并向董事会保证其不构成国家安全风险](https://aiguanchao.com/items/64c7fe7e7f69cd903b990b1c6f6a9f9306d54a39) | Techmeme |
-| 11-24 00:51 | [Jensen Huang is back as Nvidia CEO after a stunning reversal](https://aiguanchao.com/items/d0eba28ab66516e91a13ea5600ba59952e47c2fc) | ZDNET |
-| 11-24 00:40 | [Nvidia's board says it is starting a search to fill a new position, Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee (Anhata Rooprai/Reuters)](https://aiguanchao.com/items/ffac2b8187d49cff44c47c7f118066aabfcf49d6) | Techmeme |
-| 11-24 00:36 | [尽管董事会一度抵制，Jensen Huang 重回 Nvidia CEO 之位几乎不可避免](https://aiguanchao.com/items/557f370ca09af39ae13d574aedc198ae7a6fe002) | Android Headlines |
-| 11-24 00:28 | [特朗普称说服英伟达董事会恢复黄仁勋职务](https://aiguanchao.com/items/529576882856d8053e33a57bd1da622966536c56) | 卫报 World |
-| 11-24 00:23 | [王者回歸 黃仁勳重返輝達](https://aiguanchao.com/items/42d8f04c999bb5c0f98ef9238aee8ea5629fbe3f) | 聯合新聞網：觸動未來 新識力 |
-| 11-24 00:17 | [AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes](https://aiguanchao.com/items/705dc0fe5d2a955138c2b893056d4222b6b29c20) | darkreading |
-| 11-24 00:07 | [黄仁勋复职前数小时 特朗普据报曾亲自致电英伟达董事会，力主其回归](https://aiguanchao.com/items/3f9566920453578d49c1873ac21d95bebe29ea81) | 法广中文 |
-| 11-23 23:48 | [特朗普向 CNBC 表示是他说服英伟达董事会恢复了黄仁勋的职务](https://aiguanchao.com/items/295b1d471ce2ea71b609dd1a1f9a2c156864fc29) | CNBC World |
-| 11-23 23:20 | [President Trump says Jensen Huang "did nothing wrong", Nvidia's board "did ask for assurance on the national security threat", and he spoke to Xi about Huang (Dan Mangan/CNBC)](https://aiguanchao.com/items/d504fd02c1ae283ed6b932e7a629d52acf2d28fd) | Techmeme |
-| 11-23 22:52 | [Jensen Huang Returns as Nvidia CEO in Unanimous Board Vote](https://aiguanchao.com/items/b81631dc916ff6acf22df3f26e79be6a71108bd4) | Seoul Economic Daily - English Edition |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
