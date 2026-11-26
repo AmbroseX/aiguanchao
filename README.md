@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-26 11:36(北京时间)
+最后更新:2026-11-27 00:56(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 26 日 晚报](https://aiguanchao.com/daily/2026-11-26/evening)
 - [11 月 26 日 早报](https://aiguanchao.com/daily/2026-11-26/morning)
 - [11 月 25 日 晚报](https://aiguanchao.com/daily/2026-11-25/evening)
 - [11 月 25 日 早报](https://aiguanchao.com/daily/2026-11-25/morning)
 - [11 月 24 日 晚报](https://aiguanchao.com/daily/2026-11-24/evening)
 - [11 月 24 日 早报](https://aiguanchao.com/daily/2026-11-24/morning)
-- [11 月 23 日 晚报](https://aiguanchao.com/daily/2026-11-23/evening)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,18 +38,19 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
-| 11-26 07:00 | [美国陪审团裁定华为窃取商业秘密共谋罪名成立](https://aiguanchao.com/items/578864dd606e7da1c3f31cb937e99046612d1872) | Business Insider Japan |
+| 11-26 17:31 | [55 分钟：官方 AI 框架两个版本被植入凭据窃取器](https://aiguanchao.com/items/23a806737fc0e5e300f79f683f00a05976f46bfc) | CN-SEC 中文网 |
+| 11-26 16:30 | [OpenAI 发布论文，为 57 年来的数学难题「矩阵乘法到底能优化到多高效」画上句号](https://aiguanchao.com/items/32c34aea390affb5909bf31758baf907f521d297) | GIGAZINE |
+| 11-26 03:52 | [Nfs2root：Linux 内核 NFS 服务器中潜伏 12 年的预认证远程 root 漏洞](https://aiguanchao.com/items/cce6e3ba927390c07f435d39c78902c79f1329d1) | Hacker News 前页 (RSS) |
+| 11-26 01:44 | [FCC 批准 SpaceX 在太空部署最多 100 万颗数据中心卫星的计划](https://aiguanchao.com/items/8f53659fe3a3e271653abc7169e7d7744811dbb2) | The Verge |
 | 11-26 01:24 | [Claude 与 Levent Alpöge 证明黎曼猜想](https://aiguanchao.com/items/695a83e939d9edc99ae9a73248afa11f233d5b73) | Don't Worry About the Vase |
 | 11-25 23:33 | [英伟达营收暴涨 103% 至 1160 亿美元，临时管理层上调 2028 财年展望](https://aiguanchao.com/items/9a81974d0621a81f0757a2c54839691f3deb88cb) | Crypto Briefing |
 | 11-25 21:37 | [美国拟对包括中国和欧盟在内的14个贸易伙伴征收新关税](https://aiguanchao.com/items/b862effe7ded8583e319d87eb4f69e317cb48176) | CNBC World |
 | 11-25 20:08 | [Huang Returns After 11 Days, China Chip Access Unclear](https://aiguanchao.com/items/e0de823cfb40285962582ef4c52fb33471d6b00b) | shattered.io |
 | 11-25 20:00 | [Google DeepMind AI 工程师为 Signal 加密协议构建数学证明](https://aiguanchao.com/items/d27f3dba472bac9daffa0e8848d92d551915578f) | Bruno Ferreira |
 | 11-25 14:51 | [DeepSeek 估值或超6000亿！新股东名单曝光](https://aiguanchao.com/items/20ddbde6f2d1a2e80f54c58d9b5af5028a99c7fa) | 夕小瑶科技说 |
-| 11-25 11:16 | [Claude证出「代数版P≠NP」！73000行Lean代码通过验证](https://aiguanchao.com/items/137f255324af65cb330b2e551a1cd8f9fb89e4f4) | 新智元 |
 | 11-25 09:50 | [川普力促黃仁勳回歸 分析：可能助長加強晶片出口管制呼聲](https://aiguanchao.com/items/91544e6c8b3fe3a4d01760989f0720355319e463) | 聯合新聞網：觸動未來 新識力 |
 | 11-25 06:24 | [华为窃取商业秘密罪名成立，但敲诈勒索指控不成立（BBC）](https://aiguanchao.com/items/e907961ff4688201e4b575812b0da36724657dc5) | Top stories - Google News |
 | 11-25 06:23 | [Huawei found guilty of stealing trade secrets](https://aiguanchao.com/items/b2a3118a9e8a7429ed51a478979e620d8c104e3d) | The Verge |
-| 11-25 04:41 | [Huawei found guilty of stealing trade secrets but acquitted of racketeering](https://aiguanchao.com/items/73457665e833429cafe556e3da356c2ea4091950) | BBC Technology |
 | 11-25 04:36 | [华为在美法庭历经数月审理后 12 项罪名中 10 项成立](https://aiguanchao.com/items/d8760a2e85d3562b6ff8141ba3cfda740807a3ef) | 南华早报 China |
 | 11-25 04:34 | [Anthropic 研究员 Levent Alpöge 借助 Claude 宣布证明黎曼猜想，数学界关注 AI 证明影响](https://aiguanchao.com/items/833a37efd27edf06a436238e5e6d2180c6296728) | Ars Technica：AI |
 | 11-25 03:49 | [Nvidia’s Reinstatement of Jensen Huang Sends a Clear Message to the AI Industry: Corporate Ethics Are Meaningless When Profits Are at Stake](https://aiguanchao.com/items/2a96918a1687abf829d47c1d2c14e1b68718239f) | Futurism |
@@ -57,7 +58,6 @@
 | 11-25 00:01 | [专家称特朗普实际上越过了 Nvidia 董事会，调查结束前恢复黄仁勋职务恐招致股东诉讼与政治审查](https://aiguanchao.com/items/74a3ffd0f95fc5a81de4536fa32a8dadfa2b8b16) | Techmeme |
 | 11-25 00:00 | [Megaspeed美商務部列黑名單 國會劍指輝達](https://aiguanchao.com/items/6d175d64839956d806123bf12cd93fc414491958) | 聯合新聞網：觸動未來 新識力 |
 | 11-24 23:48 | [黄仁勋重掌英伟达，争议进一步扩大](https://aiguanchao.com/items/14fa88db9086ab3aaee9abc6640c6df48316e0f1) | 法广中文 |
-| 11-24 22:00 | [黃仁勳戲劇性復職…川普介入輝達人事安排 德國外長震驚：從未見過](https://aiguanchao.com/items/90a91ad21acbe45b11620e54ecf93332e456cd30) | 聯合新聞網：觸動未來 新識力 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
