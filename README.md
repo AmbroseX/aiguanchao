@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-26 03:18(北京时间)
+最后更新:2026-11-26 11:36(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -25,12 +25,12 @@
 每天早 8 点、晚 6 点各一期。全部往期:[AI 日报往期合集](https://aiguanchao.com/daily/archive)
 
 <!-- daily:start -->
+- [11 月 26 日 早报](https://aiguanchao.com/daily/2026-11-26/morning)
 - [11 月 25 日 晚报](https://aiguanchao.com/daily/2026-11-25/evening)
 - [11 月 25 日 早报](https://aiguanchao.com/daily/2026-11-25/morning)
 - [11 月 24 日 晚报](https://aiguanchao.com/daily/2026-11-24/evening)
 - [11 月 24 日 早报](https://aiguanchao.com/daily/2026-11-24/morning)
 - [11 月 23 日 晚报](https://aiguanchao.com/daily/2026-11-23/evening)
-- [11 月 23 日 早报](https://aiguanchao.com/daily/2026-11-23/morning)
 <!-- daily:end -->
 
 ## 最新 AI 精选
@@ -38,19 +38,17 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-26 07:00 | [美国陪审团裁定华为窃取商业秘密共谋罪名成立](https://aiguanchao.com/items/578864dd606e7da1c3f31cb937e99046612d1872) | Business Insider Japan |
+| 11-26 01:24 | [Claude 与 Levent Alpöge 证明黎曼猜想](https://aiguanchao.com/items/695a83e939d9edc99ae9a73248afa11f233d5b73) | Don't Worry About the Vase |
 | 11-25 23:33 | [英伟达营收暴涨 103% 至 1160 亿美元，临时管理层上调 2028 财年展望](https://aiguanchao.com/items/9a81974d0621a81f0757a2c54839691f3deb88cb) | Crypto Briefing |
 | 11-25 21:37 | [美国拟对包括中国和欧盟在内的14个贸易伙伴征收新关税](https://aiguanchao.com/items/b862effe7ded8583e319d87eb4f69e317cb48176) | CNBC World |
 | 11-25 20:08 | [Huang Returns After 11 Days, China Chip Access Unclear](https://aiguanchao.com/items/e0de823cfb40285962582ef4c52fb33471d6b00b) | shattered.io |
 | 11-25 20:00 | [Google DeepMind AI 工程师为 Signal 加密协议构建数学证明](https://aiguanchao.com/items/d27f3dba472bac9daffa0e8848d92d551915578f) | Bruno Ferreira |
 | 11-25 14:51 | [DeepSeek 估值或超6000亿！新股东名单曝光](https://aiguanchao.com/items/20ddbde6f2d1a2e80f54c58d9b5af5028a99c7fa) | 夕小瑶科技说 |
-| 11-25 13:13 | [華為遭美裁定竊取商業機密等10項罪名成立](https://aiguanchao.com/items/882461452fa990491a2596a2d728339205f92751) | 德国之声中文 |
 | 11-25 11:16 | [Claude证出「代数版P≠NP」！73000行Lean代码通过验证](https://aiguanchao.com/items/137f255324af65cb330b2e551a1cd8f9fb89e4f4) | 新智元 |
-| 11-25 10:43 | [U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets](https://aiguanchao.com/items/a5a0631b54db77fd4b475cd3ca1f9474fbd9e23a) | CNBC Technology |
-| 11-25 09:58 | [华为因窃取商业秘密罪等多项罪名被裁定有罪](https://aiguanchao.com/items/4a6c543f7f418dd073b6438a515bae67272dee9b) | GIGAZINE |
 | 11-25 09:50 | [川普力促黃仁勳回歸 分析：可能助長加強晶片出口管制呼聲](https://aiguanchao.com/items/91544e6c8b3fe3a4d01760989f0720355319e463) | 聯合新聞網：觸動未來 新識力 |
 | 11-25 06:24 | [华为窃取商业秘密罪名成立，但敲诈勒索指控不成立（BBC）](https://aiguanchao.com/items/e907961ff4688201e4b575812b0da36724657dc5) | Top stories - Google News |
 | 11-25 06:23 | [Huawei found guilty of stealing trade secrets](https://aiguanchao.com/items/b2a3118a9e8a7429ed51a478979e620d8c104e3d) | The Verge |
-| 11-25 05:12 | [Megaspeed 限制措施引发质疑 美国国会审视黄仁勋回归英伟达](https://aiguanchao.com/items/4cbbf27a799e3e1c5bba2b63da6f2dce8a9c3d0e) | SiliconANGLE |
 | 11-25 04:41 | [Huawei found guilty of stealing trade secrets but acquitted of racketeering](https://aiguanchao.com/items/73457665e833429cafe556e3da356c2ea4091950) | BBC Technology |
 | 11-25 04:36 | [华为在美法庭历经数月审理后 12 项罪名中 10 项成立](https://aiguanchao.com/items/d8760a2e85d3562b6ff8141ba3cfda740807a3ef) | 南华早报 China |
 | 11-25 04:34 | [Anthropic 研究员 Levent Alpöge 借助 Claude 宣布证明黎曼猜想，数学界关注 AI 证明影响](https://aiguanchao.com/items/833a37efd27edf06a436238e5e6d2180c6296728) | Ars Technica：AI |
@@ -58,6 +56,8 @@
 | 11-25 01:16 | [黃仁勳12天復職 馬斯克「錯誤已糾正」](https://aiguanchao.com/items/5f7e118b1ed92b64eb3065dc482ed3ea85d5a4fe) | 聯合新聞網：觸動未來 新識力 |
 | 11-25 00:01 | [专家称特朗普实际上越过了 Nvidia 董事会，调查结束前恢复黄仁勋职务恐招致股东诉讼与政治审查](https://aiguanchao.com/items/74a3ffd0f95fc5a81de4536fa32a8dadfa2b8b16) | Techmeme |
 | 11-25 00:00 | [Megaspeed美商務部列黑名單 國會劍指輝達](https://aiguanchao.com/items/6d175d64839956d806123bf12cd93fc414491958) | 聯合新聞網：觸動未來 新識力 |
+| 11-24 23:48 | [黄仁勋重掌英伟达，争议进一步扩大](https://aiguanchao.com/items/14fa88db9086ab3aaee9abc6640c6df48316e0f1) | 法广中文 |
+| 11-24 22:00 | [黃仁勳戲劇性復職…川普介入輝達人事安排 德國外長震驚：從未見過](https://aiguanchao.com/items/90a91ad21acbe45b11620e54ecf93332e456cd30) | 聯合新聞網：觸動未來 新識力 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
