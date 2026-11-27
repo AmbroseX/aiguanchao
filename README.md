@@ -5,7 +5,7 @@
 这个仓库每 3 小时自动同步一次网站上最新的日报和精选,也可以直接在下面看。
 
 <!-- updated:start -->
-最后更新:2026-11-27 20:27(北京时间)
+最后更新:2026-11-28 07:28(北京时间)
 <!-- updated:end -->
 
 ## 实用工具
@@ -38,6 +38,8 @@
 <!-- picks:start -->
 | 时间(北京) | 新闻 | 来源 |
 |---|---|---|
+| 11-28 02:32 | [Nvidia reinstates Jensen Huang as CEO after board reversal](https://aiguanchao.com/items/d86e6fd0337114c6628bbe0da9ff36ca2d13d24b) | Crypto Briefing |
+| 11-28 01:15 | [美AI新規「溯及既往」！企業租算力給陸須過審 再加強抓晶片走私](https://aiguanchao.com/items/e671a0c92e2ee2af2e4c8636f8e70bbab8509b23) | 聯合新聞網：觸動未來 新識力 |
 | 11-26 17:31 | [55 分钟：官方 AI 框架两个版本被植入凭据窃取器](https://aiguanchao.com/items/23a806737fc0e5e300f79f683f00a05976f46bfc) | CN-SEC 中文网 |
 | 11-26 16:30 | [OpenAI 发布论文，为 57 年来的数学难题「矩阵乘法到底能优化到多高效」画上句号](https://aiguanchao.com/items/32c34aea390affb5909bf31758baf907f521d297) | GIGAZINE |
 | 11-26 03:52 | [Nfs2root：Linux 内核 NFS 服务器中潜伏 12 年的预认证远程 root 漏洞](https://aiguanchao.com/items/cce6e3ba927390c07f435d39c78902c79f1329d1) | Hacker News 前页 (RSS) |
@@ -56,8 +58,6 @@
 | 11-25 03:49 | [Nvidia’s Reinstatement of Jensen Huang Sends a Clear Message to the AI Industry: Corporate Ethics Are Meaningless When Profits Are at Stake](https://aiguanchao.com/items/2a96918a1687abf829d47c1d2c14e1b68718239f) | Futurism |
 | 11-25 01:16 | [黃仁勳12天復職 馬斯克「錯誤已糾正」](https://aiguanchao.com/items/5f7e118b1ed92b64eb3065dc482ed3ea85d5a4fe) | 聯合新聞網：觸動未來 新識力 |
 | 11-25 00:01 | [专家称特朗普实际上越过了 Nvidia 董事会，调查结束前恢复黄仁勋职务恐招致股东诉讼与政治审查](https://aiguanchao.com/items/74a3ffd0f95fc5a81de4536fa32a8dadfa2b8b16) | Techmeme |
-| 11-25 00:00 | [Megaspeed美商務部列黑名單 國會劍指輝達](https://aiguanchao.com/items/6d175d64839956d806123bf12cd93fc414491958) | 聯合新聞網：觸動未來 新識力 |
-| 11-24 23:48 | [黄仁勋重掌英伟达，争议进一步扩大](https://aiguanchao.com/items/14fa88db9086ab3aaee9abc6640c6df48316e0f1) | 法广中文 |
 <!-- picks:end -->
 
 更多:[精选信息流](https://aiguanchao.com/) · [本周必读](https://aiguanchao.com/picks)
